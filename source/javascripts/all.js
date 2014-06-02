@@ -1,1 +1,5 @@
-//= require_tree .
+//= require 'd3.min'
+//= require 'topo'
+//= require 'datamaps.world.min'
+//= require 'jquery'
+//= require 'map'
