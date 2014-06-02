@@ -11,6 +11,8 @@
       :birthdate: 09-03-1979
       :birthplace: Duque de Caxias, Brazil
       :current_club: Toronto FC (USA)
+      :lat: "-22.7864231"
+      :lon: "-43.3116494"
     - :position: Goalkeeper
       :name: Jefferson
       :height: 74
@@ -18,6 +20,8 @@
       :birthdate: 01-02-1983
       :birthplace: São Vicente, Brazil
       :current_club: Botafogo (Brazil)
+      :lat: "-23.9603686"
+      :lon: "-46.3847024"
     - :position: Goalkeeper
       :name: Victor
       :height: 76
@@ -25,6 +29,8 @@
       :birthdate: 01-21-1983
       :birthplace: Santo Anastácio, Brazil
       :current_club: Atletico Mineiro (Brazil)
+      :lat: "-21.974662"
+      :lon: "-51.652662"
     - :position: Defender
       :name: Dani Alves
       :height: 68
@@ -32,6 +38,8 @@
       :birthdate: 05-06-1983
       :birthplace: Juazeiro, Brazil
       :current_club: Barcelona (Spain)
+      :lat: "-9.4204382"
+      :lon: "-40.4972925"
     - :position: Defender
       :name: Maicon
       :height: 72
@@ -39,6 +47,8 @@
       :birthdate: 07-26-1981
       :birthplace: Novo Hamburgo, Brazil
       :current_club: AS Roma (Italy)
+      :lat: "-29.6905705"
+      :lon: "-51.1429035"
     - :position: Defender
       :name: Marcelo
       :height: 68
@@ -46,6 +56,8 @@
       :birthdate: 05-12-1988
       :birthplace: Rio de Janeiro, Brazil
       :current_club: Real Madrid (Spain)
+      :lat: "-22.9112163"
+      :lon: "-43.2093781"
     - :position: Defender
       :name: Maxwell
       :height: 69
@@ -53,6 +65,8 @@
       :birthdate: 08-27-1981
       :birthplace: Cachoeiro de Itapermirim, Brazil
       :current_club: Paris Saint-Germain (France)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Thiago Silva
       :height: 72
@@ -60,6 +74,8 @@
       :birthdate: 09-22-1984
       :birthplace: Rio de Janeiro, Brazil
       :current_club: Paris Saint-Germain (France)
+      :lat: "-22.9112163"
+      :lon: "-43.2093781"
     - :position: Defender
       :name: David Luiz
       :height: 73
@@ -67,6 +83,8 @@
       :birthdate: 04-22-1987
       :birthplace: Diadema, Brazil
       :current_club: Chelsea (England)
+      :lat: "-23.681347"
+      :lon: "-46.62052"
     - :position: Defender
       :name: Dante
       :height: 74
@@ -74,6 +92,8 @@
       :birthdate: 10-18-1983
       :birthplace: Salvador, Brazil
       :current_club: Bayern Munich (Germany)
+      :lat: "-12.9816356"
+      :lon: "-38.4820771"
     - :position: Defender
       :name: Henrique
       :height: 75
@@ -81,6 +101,8 @@
       :birthdate: 10-14-1986
       :birthplace: Marechal Cândido Rôndon, Brazil
       :current_club: Napoli (Italy)
+      :lat: "-24.5570477"
+      :lon: "-54.0571457"
     - :position: Midfielder
       :name: Luiz Gustavo
       :height: 73
@@ -88,6 +110,8 @@
       :birthdate: 07-23-1987
       :birthplace: Pindamonhangaba, Brazil
       :current_club: Wolfsburg (Germany)
+      :lat: "-22.9238943"
+      :lon: "-45.4616763"
     - :position: Midfielder
       :name: Hernanes
       :height: 71
@@ -95,6 +119,8 @@
       :birthdate: 05-29-1985
       :birthplace: Recife, Brazil
       :current_club: Inter Milan (Italy)
+      :lat: "-8.0581077"
+      :lon: "-34.8979047"
     - :position: Midfielder
       :name: Paulinho
       :height: 72
@@ -102,6 +128,8 @@
       :birthdate: 07-25-1988
       :birthplace: São Paulo, Brazil
       :current_club: Tottenham Hotspur (England)
+      :lat: "-21.9549806"
+      :lon: "-49.0232348"
     - :position: Midfielder
       :name: Ramires
       :height: 70
@@ -109,6 +137,8 @@
       :birthdate: 03-24-1987
       :birthplace: Barra do Piraí, Brazil
       :current_club: Chelsea (England)
+      :lat: "-22.4703422"
+      :lon: "-43.8263236"
     - :position: Midfielder
       :name: Oscar
       :height: 70
@@ -116,6 +146,8 @@
       :birthdate: 09-09-1991
       :birthplace: Americana, Brazil
       :current_club: Chelsea (England)
+      :lat: "-22.739177"
+      :lon: "-47.3313864"
     - :position: Midfielder
       :name: Fernandinho
       :height: 69
@@ -123,6 +155,8 @@
       :birthdate: 05-04-1985
       :birthplace: Londrina, Brazil
       :current_club: Manchester City (England)
+      :lat: "-23.3112878"
+      :lon: "-51.1595023"
     - :position: Midfielder
       :name: Willian
       :height: 69
@@ -130,6 +164,8 @@
       :birthdate: 08-09-1988
       :birthplace: Ribeirão Pires, Brazil
       :current_club: Chelsea (England)
+      :lat: "-23.7110754"
+      :lon: "-46.414406"
     - :position: Forward
       :name: Hulk
       :height: 71
@@ -137,6 +173,8 @@
       :birthdate: 07-25-1986
       :birthplace: Campina Grande, Brazil
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: "-7.221958"
+      :lon: "-35.873144"
     - :position: Forward
       :name: Neymar
       :height: 69
@@ -144,6 +182,8 @@
       :birthdate: 02-05-1992
       :birthplace: Mogi das Cruzes, Brazil
       :current_club: Barcelona (Spain)
+      :lat: "-23.5241172"
+      :lon: "-46.1909469"
     - :position: Forward
       :name: Fred
       :height: 73
@@ -151,6 +191,8 @@
       :birthdate: 10-03-1983
       :birthplace: Teófilo Otoni, Brazil
       :current_club: Fluminense (Brazil)
+      :lat: "-17.8575707"
+      :lon: "-41.5076527"
     - :position: Forward
       :name: Jô
       :height: 74
@@ -158,6 +200,8 @@
       :birthdate: 03-20-1987
       :birthplace: São Paulo, Brazil
       :current_club: Atletico Mineiro (Brazil)
+      :lat: "-21.9549806"
+      :lon: "-49.0232348"
     - :position: Midfielder
       :name: Bernard
       :height: 66
@@ -165,7 +209,8 @@
       :birthdate: 09-08-1992
       :birthplace: Belo Horizonte, Brazil
       :current_club: Shakhtar Donetsk (Ukraine)
-
+      :lat: "-19.9227318"
+      :lon: "-43.9450948"
   - :name: Croatia
     :players:
     - :position: Goalkeeper
@@ -175,6 +220,8 @@
       :birthdate: 01-08-1979
       :birthplace: Split, Croatia
       :current_club: Rostov (Russia)
+      :lat: '43.5115555'
+      :lon: '16.4396801'
     - :position: Goalkeeper
       :name: Danijel Subasic
       :height: 75
@@ -182,20 +229,26 @@
       :birthdate: 10-27-1984
       :birthplace: Zadar, Croatia
       :current_club: AS Monaco (France)
+      :lat: '44.1184333'
+      :lon: '15.2324491'
     - :position: Goalkeeper
       :name: Oliver Zelenika
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 05-14-1993
       :birthplace: Zagreb, Croatia
       :current_club: Lokomotiva (Croatia)
+      :lat: '45.8131545'
+      :lon: '15.9770298'
     - :position: Defender
       :name: Igor Bubnjic
       :height: 74
-      :weight:
+      :weight: 
       :birthdate: 07-17-1992
       :birthplace: Split, Croatia
       :current_club: Udinese (Italy)
+      :lat: '43.5115555'
+      :lon: '16.4396801'
     - :position: Defender
       :name: Vedran Corluka
       :height: 75
@@ -203,6 +256,8 @@
       :birthdate: 02-05-1986
       :birthplace: Derventa, Bosnia and Herzegovina
       :current_club: Lokomovtiv Moscow (Russia)
+      :lat: '44.9780452'
+      :lon: '17.90734'
     - :position: Defender
       :name: Dejan Lovren
       :height: 74
@@ -210,6 +265,8 @@
       :birthdate: 07-05-1989
       :birthplace: Zenica, Bosnia and Herzegovina
       :current_club: Southampton (England)
+      :lat: '44.200713'
+      :lon: '17.9080954'
     - :position: Midfielder
       :name: Danijel Pranjic
       :height: 67
@@ -217,13 +274,17 @@
       :birthdate: 12-02-1981
       :birthplace: Nasice, Croatia
       :current_club: Panathinaikos (Greece)
+      :lat: '45.4906159'
+      :lon: '18.0928506'
     - :position: Defender
       :name: Gordon Schildenfeld
       :height: 75
       :weight: 201
       :birthdate: 03-18-1985
-      :birthplace: Šibenik, Croatia
+      :birthplace: "Šibenik, Croatia"
       :current_club: Panathinaikos (Greece)
+      :lat: '43.7331716'
+      :lon: '15.9002171'
     - :position: Defender
       :name: Darijo Srna
       :height: 72
@@ -231,6 +292,8 @@
       :birthdate: 05-01-1982
       :birthplace: Metkovic, Croatia
       :current_club: Shakhtar Donetsk (Ukraine)
+      :lat: '43.0551448'
+      :lon: '17.650014'
     - :position: Defender
       :name: Ivan Strinic
       :height: 73
@@ -238,6 +301,8 @@
       :birthdate: 07-17-1987
       :birthplace: Split, Croatia
       :current_club: Dnipro Dnipropetrovsk (Ukraine)
+      :lat: '43.5115555'
+      :lon: '16.4396801'
     - :position: Defender
       :name: Domagoj Vida
       :height: 72
@@ -245,6 +310,8 @@
       :birthdate: 04-29-1989
       :birthplace: Osijek, Croatia
       :current_club: Dynamo Kiev (Ukraine)
+      :lat: '45.5540026'
+      :lon: '18.6897053'
     - :position: Defender
       :name: Sime Vrsalijko
       :height: 71
@@ -252,6 +319,8 @@
       :birthdate: 01-10-1992
       :birthplace: Zadar, Croatia
       :current_club: Genoa (Italy)
+      :lat: '44.1184333'
+      :lon: '15.2324491'
     - :position: Midfielder
       :name: Milan Badelj
       :height: 73
@@ -259,13 +328,17 @@
       :birthdate: 02-25-1989
       :birthplace: Zagreb, Croatia
       :current_club: Hamburg (Germany)
+      :lat: '45.8131545'
+      :lon: '15.9770298'
     - :position: Midfielder
       :name: Marcelo Brozovic
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 11-16-1992
       :birthplace: Zagreb, Croatia
       :current_club: Dynamo Zagreb (Croatia)
+      :lat: '45.8131545'
+      :lon: '15.9770298'
     - :position: Midfielder
       :name: Ivo Ilicevic
       :height: 69
@@ -273,6 +346,8 @@
       :birthdate: 11-14-1986
       :birthplace: Aschaffenburg, Germany
       :current_club: Hamburg (Germany)
+      :lat: '49.9739001'
+      :lon: '9.1491699'
     - :position: Midfielder
       :name: Mateo Kovacic
       :height: 71
@@ -280,6 +355,8 @@
       :birthdate: 05-06-1994
       :birthplace: Linz, Austria
       :current_club: Inter Milan (Italy)
+      :lat: '48.3058789'
+      :lon: '14.2865628'
     - :position: Midfielder
       :name: Niko Kranjcar
       :height: 73
@@ -287,13 +364,17 @@
       :birthdate: 08-13-1984
       :birthplace: Zagreb, Croatia
       :current_club: Queens Park Rangers (England)
+      :lat: '45.8131545'
+      :lon: '15.9770298'
     - :position: Midfielder
       :name: Ivan Mocinic
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 04-30-1993
-      :birthplace: Rijeka, Croatia 
+      :birthplace: Rijeka, Croatia
       :current_club: Rijeka (Croatia)
+      :lat: '45.3271115'
+      :lon: '14.4413555'
     - :position: Midfielder
       :name: Luka Modric
       :height: 68
@@ -301,13 +382,17 @@
       :birthdate: 09-09-1985
       :birthplace: Zadar, Croatia
       :current_club: Real Madrid (Spain)
+      :lat: '44.1184333'
+      :lon: '15.2324491'
     - :position: Midfielder
       :name: Mario Pasalic
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 02-09-1995
-      :birthplace: Mainz, Germany 
+      :birthplace: Mainz, Germany
       :current_club: Hajduk Split (Croatia)
+      :lat: '49.9999952'
+      :lon: '8.2710237'
     - :position: Midfielder
       :name: Ivan Perisic
       :height: 73
@@ -315,6 +400,8 @@
       :birthdate: 02-02-1989
       :birthplace: Split, Croatia
       :current_club: Wolfsburg (Germany)
+      :lat: '43.5115555'
+      :lon: '16.4396801'
     - :position: Midfielder
       :name: Ivan Rakitic
       :height: 72
@@ -322,6 +409,8 @@
       :birthdate: 03-10-1988
       :birthplace: Rheinfelden, Switzerland
       :current_club: Sevilla (Spain)
+      :lat: '47.56036295'
+      :lon: '7.815402278187'
     - :position: Midfielder
       :name: Sammir
       :height: 70
@@ -329,6 +418,8 @@
       :birthdate: 04-23-1987
       :birthplace: Itabuna, Brazil
       :current_club: Getafe (Spain)
+      :lat: "-14.787573"
+      :lon: "-39.278056"
     - :position: Midfielder
       :name: Ognjen Vukojevic
       :height: 72
@@ -336,6 +427,8 @@
       :birthdate: 12-20-1983
       :birthplace: Bjelovar, Croatia
       :current_club: Dynamo Kiev (Ukraine)
+      :lat: '45.8990121'
+      :lon: '16.8424444'
     - :position: Forward
       :name: Duje Cop
       :height: 72
@@ -343,6 +436,8 @@
       :birthdate: 02-01-1990
       :birthplace: Vinkovci, Croatia
       :current_club: Dynamo Zagreb (Croatia)
+      :lat: '45.2877429'
+      :lon: '18.8005335'
     - :position: Forward
       :name: Eduardo
       :height: 71
@@ -350,6 +445,8 @@
       :birthdate: 02-25-1983
       :birthplace: Rio de Janeiro, Brazil
       :current_club: Shakhtar Donetsk (Ukraine)
+      :lat: "-22.9112163"
+      :lon: "-43.2093781"
     - :position: Forward
       :name: Nikica Jelavic
       :height: 74
@@ -357,6 +454,8 @@
       :birthdate: 08-27-1985
       :birthplace: Capljina, Bosnia and Herzegovina
       :current_club: Hull City (England)
+      :lat: '43.1114824'
+      :lon: '17.7024797'
     - :position: Forward
       :name: Mario Mandzukic
       :height: 74
@@ -364,6 +463,8 @@
       :birthdate: 05-21-1986
       :birthplace: Slavonski Brod, Croatia
       :current_club: Bayern Munich (Germany)
+      :lat: '45.1713519'
+      :lon: '18.01354'
     - :position: Forward
       :name: Ivica Olic
       :height: 72
@@ -371,6 +472,8 @@
       :birthdate: 09-14-1979
       :birthplace: Davor, Croatia
       :current_club: Wolfsburg (Germany)
+      :lat: '45.1133914'
+      :lon: '17.514995'
     - :position: Forward
       :name: Ante Rebic
       :height: 72
@@ -378,7 +481,8 @@
       :birthdate: 09-23-1993
       :birthplace: Split, Croatia
       :current_club: Fiorentina (Italy)
-
+      :lat: '43.5115555'
+      :lon: '16.4396801'
   - :name: Mexico
     :players:
     - :position: Goalkeeper
@@ -388,6 +492,8 @@
       :birthdate: 07-13-1985
       :birthplace: Guadalajara, Mexico
       :current_club: Ajaccio (France)
+      :lat: '20.676143'
+      :lon: "-103.3469982"
     - :position: Goalkeeper
       :name: Jesús Corona
       :height: 72
@@ -395,6 +501,8 @@
       :birthdate: 01-26-1981
       :birthplace: Guadalajara, Mexico
       :current_club: Cruz Azul (Mexico)
+      :lat: '20.676143'
+      :lon: "-103.3469982"
     - :position: Goalkeeper
       :name: Alfredo Talavera
       :height: 74
@@ -402,6 +510,8 @@
       :birthdate: 09-18-1982
       :birthplace: La Barca, Mexico
       :current_club: Toluca (Mexico)
+      :lat: '20.2860699'
+      :lon: "-102.5459147"
     - :position: Defender
       :name: Paul Aguilar
       :height: 70
@@ -409,6 +519,8 @@
       :birthdate: 03-06-1986
       :birthplace: Concordia, Mexico
       :current_club: Club America (Mexico)
+      :lat: '18.286667'
+      :lon: "-99.841944"
     - :position: Defender
       :name: Miguel Layún
       :height: 71
@@ -416,6 +528,8 @@
       :birthdate: 06-25-1988
       :birthplace: Córdoba, Mexico
       :current_club: Club America (Mexico)
+      :lat: '18.8943999'
+      :lon: "-96.9352059"
     - :position: Defender
       :name: Diego Reyes
       :height: 74
@@ -423,6 +537,8 @@
       :birthdate: 09-19-1992
       :birthplace: Mexico City, Mexico
       :current_club: FC Porto (Portugal)
+      :lat: '19.4325301'
+      :lon: "-99.1332102"
     - :position: Defender
       :name: Rafael Márquez
       :height: 73
@@ -430,6 +546,8 @@
       :birthdate: 02-13-1979
       :birthplace: Zamora, Mexico
       :current_club: Leon (Mexico)
+      :lat: '20.0290767'
+      :lon: "-102.271245052799"
     - :position: Defender
       :name: Francisco Javier Rodríguez
       :height: 75
@@ -437,6 +555,8 @@
       :birthdate: 10-20-1981
       :birthplace: Mazatlán, Mexico
       :current_club: Club America (Mexico)
+      :lat: '23.2234374'
+      :lon: "-106.4161919"
     - :position: Defender
       :name: Héctor Moreno
       :height: 73
@@ -444,6 +564,8 @@
       :birthdate: 01-17-1988
       :birthplace: Culiacán, Mexico
       :current_club: Espanyol (Spain)
+      :lat: '24.8017193'
+      :lon: "-107.3930507"
     - :position: Midfielder
       :name: Carlos Salcido
       :height: 69
@@ -451,6 +573,8 @@
       :birthdate: 04-02-1980
       :birthplace: Ocotlán, Mexico
       :current_club: Chivas de Guadalajara (Mexico)
+      :lat: '20.3463624'
+      :lon: "-102.7739778"
     - :position: Midfielder
       :name: Andrés Guardado
       :height: 66
@@ -458,6 +582,8 @@
       :birthdate: 09-28-1986
       :birthplace: Guadalajara, Mexico
       :current_club: Bayer Leverkusen (Germany)
+      :lat: '20.676143'
+      :lon: "-103.3469982"
     - :position: Midfielder
       :name: Jose Juan Vazquez
       :height: 65
@@ -465,6 +591,8 @@
       :birthdate: 03-14-1988
       :birthplace: Celaya, Mexico
       :current_club: Leon (Mexico)
+      :lat: '20.5218353'
+      :lon: "-100.8140016"
     - :position: Midfielder
       :name: Isaác Brizuela
       :height: 68
@@ -472,6 +600,8 @@
       :birthdate: 08-28-1990
       :birthplace: San Jose, CA, USA
       :current_club: Toluca (Mexico)
+      :lat: '37.3438502'
+      :lon: "-121.8831349"
     - :position: Midfielder
       :name: Luis Montes
       :height: 65
@@ -479,6 +609,8 @@
       :birthdate: 05-15-1986
       :birthplace: Ciudad Juarez, Mexico
       :current_club: Leon (Mexico)
+      :lat: '31.7435143'
+      :lon: "-106.4951525"
     - :position: Midfielder
       :name: Carlos Peña
       :height: 69
@@ -486,6 +618,8 @@
       :birthdate: 03-29-1990
       :birthplace: Ciudad Victoria, Mexico
       :current_club: Leon (Mexico)
+      :lat: '23.7439573'
+      :lon: "-99.1419341"
     - :position: Midfielder
       :name: Marco Fabián
       :height: 67
@@ -493,6 +627,8 @@
       :birthdate: 07-21-1989
       :birthplace: Guadalajara, Mexico
       :current_club: Cruz Azul (Mexico)
+      :lat: '20.676143'
+      :lon: "-103.3469982"
     - :position: Midfielder
       :name: Héctor Herrera
       :height: 71
@@ -500,6 +636,8 @@
       :birthdate: 04-19-1990
       :birthplace: Tijuana, Mexico
       :current_club: FC Porto (Portugal)
+      :lat: '32.5344409'
+      :lon: "-117.0393788"
     - :position: Forward
       :name: Raúl Jiménez
       :height: 73
@@ -507,6 +645,8 @@
       :birthdate: 05-05-1991
       :birthplace: Tepeji del Río Ocampo, Mexico
       :current_club: Club America (Mexico)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Alan Pulido
       :height: 69
@@ -514,6 +654,8 @@
       :birthdate: 03-08-1991
       :birthplace: Ciudad Victoria, Mexico
       :current_club: Tigres (Mexico)
+      :lat: '23.7439573'
+      :lon: "-99.1419341"
     - :position: Forward
       :name: Javier Hernández
       :height: 69
@@ -521,6 +663,8 @@
       :birthdate: 06-01-1988
       :birthplace: Guadalajara, Mexico
       :current_club: Manchester United (England)
+      :lat: '20.676143'
+      :lon: "-103.3469982"
     - :position: Forward
       :name: Giovani dos Santos
       :height: 69
@@ -528,6 +672,8 @@
       :birthdate: 05-11-1989
       :birthplace: Monterrey, Mexico
       :current_club: Villareal (Spain)
+      :lat: '25.6764922'
+      :lon: "-100.3060829"
     - :position: Forward
       :name: Oribe Peralta
       :height: 71
@@ -535,7 +681,8 @@
       :birthdate: 01-12-1984
       :birthplace: Torreón, Mexico
       :current_club: Santos Laguna (Mexico)
-
+      :lat: '25.5414662'
+      :lon: "-103.4531977"
 - :group: B
   :teams:
   - :name: Spain
@@ -547,6 +694,8 @@
       :birthdate: 05-20-1981
       :birthplace: Móstoles, Spain
       :current_club: Real Madrid (Spain)
+      :lat: '40.3238525'
+      :lon: "-3.8649214"
     - :position: Goalkeeper
       :name: Pepe Reina
       :height: 74
@@ -554,6 +703,8 @@
       :birthdate: 08-31-1982
       :birthplace: Madrid, Spain
       :current_club: Napoli (Italy)
+      :lat: '40.52516075'
+      :lon: "-3.77181653956588"
     - :position: Goalkeeper
       :name: David de Gea
       :height: 75
@@ -561,6 +712,8 @@
       :birthdate: 11-07-1990
       :birthplace: Madrid, Spain
       :current_club: Manchester United (England)
+      :lat: '40.52516075'
+      :lon: "-3.77181653956588"
     - :position: Defender
       :name: Juanfran
       :height: 71
@@ -568,6 +721,8 @@
       :birthdate: 01-09-1985
       :birthplace: Crevillente, Spain
       :current_club: Atletico Madrid (Spain)
+      :lat: '38.2493099'
+      :lon: "-0.8111359"
     - :position: Defender
       :name: César Azpilicueta
       :height: 70
@@ -575,6 +730,8 @@
       :birthdate: 08-28-1989
       :birthplace: Pamplona, Spain
       :current_club: Chelsea (England)
+      :lat: '42.8185502'
+      :lon: "-1.6444165"
     - :position: Defender
       :name: Jordi Alba
       :height: 68
@@ -582,6 +739,8 @@
       :birthdate: 03-21-1989
       :birthplace: LHospitalet de Llobregat, Spain
       :current_club: Barcelona (Spain)
+      :lat: '41.3566932'
+      :lon: '2.1124479'
     - :position: Defender
       :name: Sergio Ramos
       :height: 72
@@ -589,6 +748,8 @@
       :birthdate: 03-30-1986
       :birthplace: Madrid, Spain
       :current_club: Real Madrid (Spain)
+      :lat: '40.52516075'
+      :lon: "-3.77181653956588"
     - :position: Defender
       :name: Gerard Piqué
       :height: 75
@@ -596,6 +757,8 @@
       :birthdate: 02-02-1987
       :birthplace: Barcelona, Spain
       :current_club: Barcelona (Spain)
+      :lat: '41.3870186'
+      :lon: '2.1700437'
     - :position: Defender
       :name: Raúl Albiol
       :height: 75
@@ -603,6 +766,8 @@
       :birthdate: 09-04-1985
       :birthplace: Villamarchante, Spain
       :current_club: Napoli (Italy)
+      :lat: '39.5680723'
+      :lon: "-0.6227531"
     - :position: Midfielder
       :name: Javi Martínez
       :height: 75
@@ -610,6 +775,8 @@
       :birthdate: 09-02-1988
       :birthplace: Estella, Spain
       :current_club: Bayern Munich (Germany)
+      :lat: '42.66279655'
+      :lon: "-2.02208407649766"
     - :position: Defender
       :name: Alberto Moreno
       :height: 67
@@ -617,6 +784,8 @@
       :birthdate: 07-05-1992
       :birthplace: Sevilla, Spain
       :current_club: Sevilla (Spain)
+      :lat: '37.3887565'
+      :lon: "-5.9947066"
     - :position: Midfielder
       :name: Sergio Busquets
       :height: 74
@@ -624,6 +793,8 @@
       :birthdate: 07-16-1988
       :birthplace: Sabadell, Spain
       :current_club: Barcelona (Spain)
+      :lat: '41.5464208'
+      :lon: '2.1087937'
     - :position: Midfielder
       :name: Xabi Alonso
       :height: 72
@@ -631,6 +802,8 @@
       :birthdate: 11-25-1981
       :birthplace: Tolosa, Spain
       :current_club: Real Madrid (Spain)
+      :lat: '43.1386097'
+      :lon: "-2.0723558"
     - :position: Midfielder
       :name: Xavi
       :height: 67
@@ -638,6 +811,8 @@
       :birthdate: 01-25-1980
       :birthplace: Terrassa, Spain
       :current_club: Barcelona (Spain)
+      :lat: '41.5693302'
+      :lon: '2.01345'
     - :position: Midfielder
       :name: Koke
       :height: 70
@@ -645,6 +820,8 @@
       :birthdate: 01-08-1992
       :birthplace: Madrid, Spain
       :current_club: Atletico Madrid (Spain)
+      :lat: '40.52516075'
+      :lon: "-3.77181653956588"
     - :position: Midfielder
       :name: Jesús Navas
       :height: 67
@@ -652,6 +829,8 @@
       :birthdate: 11-21-1985
       :birthplace: Los Palacios, Spain
       :current_club: Manchester City (England)
+      :lat: '37.8936794'
+      :lon: "-1.3261004"
     - :position: Midfielder
       :name: David Silva
       :height: 67
@@ -659,6 +838,8 @@
       :birthdate: 01-08-1986
       :birthplace: Arguineguín, Spain
       :current_club: Manchester City (England)
+      :lat: '27.7590753'
+      :lon: "-15.6813497"
     - :position: Midfielder
       :name: Andrés Iniesta
       :height: 67
@@ -666,6 +847,8 @@
       :birthdate: 05-11-1984
       :birthplace: Albacete, Spain
       :current_club: Barcelona (Spain)
+      :lat: '38.9951049'
+      :lon: "-1.8559613"
     - :position: Midfielder
       :name: Santi Cazorla
       :height: 66
@@ -673,6 +856,8 @@
       :birthdate: 12-13-1984
       :birthplace: Lugo de Llanera, Spain
       :current_club: Arsenal (England)
+      :lat: '43.4430551'
+      :lon: "-5.8173854"
     - :position: Midfielder
       :name: Juan Mata
       :height: 67
@@ -680,6 +865,8 @@
       :birthdate: 04-28-1988
       :birthplace: Burgos, Spain
       :current_club: Manchester United (England)
+      :lat: '42.343926'
+      :lon: "-3.696977"
     - :position: Midfielder
       :name: Cesc Fàbregas
       :height: 71
@@ -687,6 +874,8 @@
       :birthdate: 05-04-1987
       :birthplace: Vilassar de Mar, Spain
       :current_club: Barcelona (Spain)
+      :lat: '41.5064041'
+      :lon: '2.3913883'
     - :position: Midfielder
       :name: Pedro Rodríguez
       :height: 67
@@ -694,13 +883,17 @@
       :birthdate: 07-28-1987
       :birthplace: Santa Cruz de Tenerife, Spain
       :current_club: Barcelona (Spain)
+      :lat: '28.4597823'
+      :lon: "-16.2536378"
     - :position: Forward
-      :name: Álvaro Negredo
+      :name: "Álvaro Negredo"
       :height: 73
       :weight: 187
       :birthdate: 08-20-1985
       :birthplace: Madrid, Spain
       :current_club: Manchester City (England)
+      :lat: '40.52516075'
+      :lon: "-3.77181653956588"
     - :position: Forward
       :name: Diego Costa
       :height: 73
@@ -708,6 +901,8 @@
       :birthdate: 10-07-1988
       :birthplace: Lagarto, Brazil
       :current_club: Atletico Madrid (Spain)
+      :lat: "-10.913628"
+      :lon: "-37.668948"
     - :position: Forward
       :name: David Villa
       :height: 69
@@ -715,6 +910,8 @@
       :birthdate: 12-03-1981
       :birthplace: Tuilla, Spain
       :current_club: Atletico Madrid (Spain)
+      :lat: '43.32821325'
+      :lon: "-5.64384783143802"
     - :position: Forward
       :name: Fernando Torres
       :height: 73
@@ -722,6 +919,8 @@
       :birthdate: 03-20-1984
       :birthplace: Fuenlabrada, Spain
       :current_club: Chelsea (England)
+      :lat: '40.2832179'
+      :lon: "-3.7973752"
     - :position: Forward
       :name: Fernando Llorente
       :height: 77
@@ -729,7 +928,8 @@
       :birthdate: 02-26-1985
       :birthplace: Pamplona, Spain
       :current_club: Juventus (Italy)
-
+      :lat: '42.8185502'
+      :lon: "-1.6444165"
   - :name: Netherlands
     :players:
     - :position: Goalkeeper
@@ -739,6 +939,8 @@
       :birthdate: 04-22-1989
       :birthplace: Groesbeek, Netherlands
       :current_club: Ajax (Netherlands)
+      :lat: '51.77418'
+      :lon: '5.93065'
     - :position: Goalkeeper
       :name: Michel Vorm
       :height: 72
@@ -746,6 +948,8 @@
       :birthdate: 10-20-1983
       :birthplace: Nieuwegein, Netherlands
       :current_club: Swansea City (Wales)
+      :lat: '52.0367157'
+      :lon: '5.0836086'
     - :position: Goalkeeper
       :name: Tim Krul
       :height: 74
@@ -753,13 +957,17 @@
       :birthdate: 04-03-1988
       :birthplace: Den Haag, Netherlands
       :current_club: Newcastle United (England)
+      :lat: '52.0799838'
+      :lon: '4.3113461'
     - :position: Goalkeeper
       :name: Jeroen Zoet
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 01-06-1991
-      :birthplace: Veendam, Netherlands 
+      :birthplace: Veendam, Netherlands
       :current_club: PSV Eindhoven (Netherlands)
+      :lat: '53.10285'
+      :lon: '6.86935'
     - :position: Defender
       :name: Paul Verhaegh
       :height: 70
@@ -767,13 +975,17 @@
       :birthdate: 09-01-1983
       :birthplace: Kronenberg, Netherlands
       :current_club: Augsburg (Netherlands)
+      :lat: '51.41577'
+      :lon: '5.99952'
     - :position: Defender
       :name: Patrick van Aanholt
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 08-29-1990
-      :birthplace: Hertogenbosch, Netherlands 
+      :birthplace: Hertogenbosch, Netherlands
       :current_club: Vitesse (Netherlands)
+      :lat: '51.70986535'
+      :lon: '5.29194256832995'
     - :position: Defender
       :name: Daryl Janmaat
       :height: 73
@@ -781,13 +993,17 @@
       :birthdate: 07-22-1989
       :birthplace: Leidschandam, Netherlands
       :current_club: Feyenoord (Netherlands)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Joël  Veltman
       :height: 72
-      :weight:
+      :weight: 
       :birthdate: 01-15-1992
-      :birthplace: Veltman, Netherlands 
+      :birthplace: Veltman, Netherlands
       :current_club: Ajax (Netherlands)
+      :lat: '52.3545203'
+      :lon: '4.832392'
     - :position: Defender
       :name: Stefan de Vrij
       :height: 74
@@ -795,6 +1011,8 @@
       :birthdate: 02-05-1992
       :birthplace: Ouderkerk aan den IJssel, Netherlands
       :current_club: Feyenoord (Netherlands)
+      :lat: '51.9344738'
+      :lon: '4.6354488'
     - :position: Defender
       :name: Ron Vlaar
       :height: 74
@@ -802,6 +1020,8 @@
       :birthdate: 02-16-1985
       :birthplace: Hensbroek, Netherlands
       :current_club: Aston Villa (England)
+      :lat: '52.65852'
+      :lon: '4.88461'
     - :position: Defender
       :name: Bruno Martins Indi
       :height: 73
@@ -809,13 +1029,17 @@
       :birthdate: 02-08-1992
       :birthplace: Barreiro, Portugal
       :current_club: Feyenoord (Netherlands)
+      :lat: '40.869852'
+      :lon: "-8.409"
     - :position: Defender
       :name: Karim Rekik
       :height: 72
-      :weight:
+      :weight: 
       :birthdate: 12-02-1994
-      :birthplace: Den Haag, Netherlands 
+      :birthplace: Den Haag, Netherlands
       :current_club: PSV Eindhoven (Netherlands)
+      :lat: '52.0799838'
+      :lon: '4.3113461'
     - :position: Defender
       :name: Terence Kongolo
       :height: 72
@@ -823,6 +1047,8 @@
       :birthdate: 02-14-1994
       :birthplace: Fribourg, Switzerland
       :current_club: Feyenoord (Netherlands)
+      :lat: '46.8032178'
+      :lon: '7.16163193781884'
     - :position: Midfielder
       :name: Daley Blind
       :height: 72
@@ -830,6 +1056,8 @@
       :birthdate: 03-09-1990
       :birthplace: Amsterdam, Netherlands
       :current_club: Ajax (Netherlands)
+      :lat: '52.3710088'
+      :lon: '4.9001115'
     - :position: Midfielder
       :name: Leroy Fer
       :height: 74
@@ -837,6 +1065,8 @@
       :birthdate: 01-05-1990
       :birthplace: Zoetermeer, Netherlands
       :current_club: Norwich City (England)
+      :lat: '52.0622536'
+      :lon: '4.4901187'
     - :position: Midfielder
       :name: Nigel de Jong
       :height: 69
@@ -844,6 +1074,8 @@
       :birthdate: 11-30-1984
       :birthplace: Amsterdam, Netherlands
       :current_club: AC Milan (Italy)
+      :lat: '52.3710088'
+      :lon: '4.9001115'
     - :position: Midfielder
       :name: Jordy Clasie
       :height: 66
@@ -851,6 +1083,8 @@
       :birthdate: 06-27-1991
       :birthplace: Haarlem, Netherlands
       :current_club: Feyenoord (Netherlands)
+      :lat: '52.3885322'
+      :lon: '4.6388017'
     - :position: Midfielder
       :name: Jonathan de Guzmán
       :height: 69
@@ -858,6 +1092,8 @@
       :birthdate: 09-13-1987
       :birthplace: Scarborough, Canada
       :current_club: Swansea City (Wales)
+      :lat: '43.7758014'
+      :lon: "-79.253972"
     - :position: Midfielder
       :name: Georginio Wijnaldum
       :height: 70
@@ -865,6 +1101,8 @@
       :birthdate: 11-11-1990
       :birthplace: Rotterdam, Netherlands
       :current_club: PSV Eindhoven (Netherlands)
+      :lat: '51.9228958'
+      :lon: '4.4631727'
     - :position: Midfielder
       :name: Wesley Sneijder
       :height: 67
@@ -872,6 +1110,8 @@
       :birthdate: 06-09-1984
       :birthplace: Utrecht, Netherlands
       :current_club: Galatasaray (Turkey)
+      :lat: '52.11849915'
+      :lon: '5.15264611584469'
     - :position: Midfielder
       :name: Tonny Vilhena
       :height: 68
@@ -879,13 +1119,17 @@
       :birthdate: 01-03-1995
       :birthplace: Maassluis, Netherlands
       :current_club: Feyenoord (Netherlands)
+      :lat: '51.9176752'
+      :lon: '4.2584262'
     - :position: Forward
       :name: Quincy Promes
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 01-04-1992
       :birthplace: Amsterdam, Netherlands
       :current_club: Twente (Netherlands)
+      :lat: '52.3710088'
+      :lon: '4.9001115'
     - :position: Midfielder
       :name: Arjen Robben
       :height: 71
@@ -893,6 +1137,8 @@
       :birthdate: 01-23-1984
       :birthplace: Bedrum, Netherlands
       :current_club: Bayern Munich (Germany)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Jean-Paul Boëtius
       :height: 70
@@ -900,6 +1146,8 @@
       :birthdate: 03-22-1994
       :birthplace: Rotterdam, Netherlands
       :current_club: Feyenoord (Netherlands)
+      :lat: '51.9228958'
+      :lon: '4.4631727'
     - :position: Forward
       :name: Robin van Persie
       :height: 72
@@ -907,6 +1155,8 @@
       :birthdate: 08-06-1983
       :birthplace: Rotterdam, Netherlands
       :current_club: Manchester United (England)
+      :lat: '51.9228958'
+      :lon: '4.4631727'
     - :position: Forward
       :name: Klaas-Jan Huntelaar
       :height: 73
@@ -914,6 +1164,8 @@
       :birthdate: 08-12-1983
       :birthplace: Drempt, Netherlands
       :current_club: FC Schalke 04 (Germany)
+      :lat: '52.00824'
+      :lon: '6.17455'
     - :position: Forward
       :name: Dirk Kuyt
       :height: 72
@@ -921,6 +1173,8 @@
       :birthdate: 07-22-1980
       :birthplace: Katwijk, Netherlands
       :current_club: Fenerbahce (Turkey)
+      :lat: '52.2005083'
+      :lon: '4.4146341'
     - :position: Forward
       :name: Jeremain Lens
       :height: 70
@@ -928,14 +1182,17 @@
       :birthdate: 11-24-1987
       :birthplace: Amsterdam, Netherlands
       :current_club: Dynamo Kiev (Ukraine)
+      :lat: '52.3710088'
+      :lon: '4.9001115'
     - :position: Midfielder
       :name: Memphis Depay
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 02-13-1994
-      :birthplace: Moordecht, Netherlands 
+      :birthplace: Moordecht, Netherlands
       :current_club: PSV Eindhoven (Netherlands)
-
+      :lat: 
+      :lon: 
   - :name: Chile
     :players:
     - :position: Goalkeeper
@@ -945,6 +1202,8 @@
       :birthdate: 04-13-1983
       :birthplace: Viluco, Chile
       :current_club: Real Sociedad (Spain)
+      :lat: "-34.8960776"
+      :lon: "-71.1595093"
     - :position: Goalkeeper
       :name: Johnny Herrera
       :height: 72
@@ -952,6 +1211,8 @@
       :birthdate: 05-09-1981
       :birthplace: Angol, Chile
       :current_club: Universidad de Chile (Chile)
+      :lat: "-37.7987261"
+      :lon: "-72.7087103"
     - :position: Goalkeeper
       :name: Cristopher Toselli
       :height: 72
@@ -959,6 +1220,8 @@
       :birthdate: 06-15-1988
       :birthplace: Antofagasta, Chile
       :current_club: Universidad Catolica (Chile)
+      :lat: "-23.6463786"
+      :lon: "-70.3980028"
     - :position: Goalkeeper
       :name: Paulo Garces
       :height: 72
@@ -966,6 +1229,8 @@
       :birthdate: 08-02-1984
       :birthplace: Parral, Chile
       :current_club: OHiggins (Chile)
+      :lat: "-36.1414202"
+      :lon: "-71.8221521"
     - :position: Midfielder
       :name: Gary Medel
       :height: 68
@@ -973,6 +1238,8 @@
       :birthdate: 08-03-1987
       :birthplace: Santiago, Chile
       :current_club: Cardiff City (Wales)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Defender
       :name: Gonzalo Jara
       :height: 70
@@ -980,6 +1247,8 @@
       :birthdate: 08-29-1985
       :birthplace: Santiago de Chile, Chile
       :current_club: Nottingham Forest (England)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Defender
       :name: Enzo Andía
       :height: 74
@@ -987,6 +1256,8 @@
       :birthdate: 08-16-1992
       :birthplace: Ovalle, Chile
       :current_club: Universidad de Catolica (Chile)
+      :lat: "-30.6031892"
+      :lon: "-71.2030572"
     - :position: Defender
       :name: Eugenio Mena
       :height: 69
@@ -994,6 +1265,8 @@
       :birthdate: 07-18-1988
       :birthplace: Viña del Mar, Chile
       :current_club: Santos (Brazil)
+      :lat: "-33.024503"
+      :lon: "-71.5518119"
     - :position: Defender
       :name: Mauricio Isla
       :height: 70
@@ -1001,6 +1274,8 @@
       :birthdate: 06-12-1988
       :birthplace: Buin, Chile
       :current_club: Juventus (Italy)
+      :lat: "-33.7319246"
+      :lon: "-70.7419548"
     - :position: Defender
       :name: Miiko Albornoz
       :height: 71
@@ -1008,6 +1283,8 @@
       :birthdate: 11-30-1990
       :birthplace: Stockholm, Sweden
       :current_club: Malmo (Sweden)
+      :lat: '59.3251172'
+      :lon: '18.0710935'
     - :position: Midfielder
       :name: Jorge Valdívia
       :height: 68
@@ -1015,13 +1292,17 @@
       :birthdate: 10-19-1983
       :birthplace: Maracaibo, Venezuela
       :current_club: Palmeiras (Brazil)
+      :lat: '10.6651557'
+      :lon: "-71.6230753"
     - :position: Midfielder
       :name: Felipe Gutiérrez
       :height: 67
-      :weight:
+      :weight: 
       :birthdate: 10-08-1990
-      :birthplace:  Quintero, Chile
+      :birthplace: Quintero, Chile
       :current_club: Twente (Netherlands)
+      :lat: "-32.7843106"
+      :lon: "-71.5284175"
     - :position: Midfielder
       :name: Rodrigo Millar
       :height: 72
@@ -1029,6 +1310,8 @@
       :birthdate: 11-03-1981
       :birthplace: Arauco, Chile
       :current_club: Atlas (Mexico)
+      :lat: "-37.2980289"
+      :lon: "-73.3787264308003"
     - :position: Defender
       :name: Jose Fuenzalida
       :height: 67
@@ -1036,6 +1319,8 @@
       :birthdate: 02-22-1985
       :birthplace: Santiago de Chile, Chile
       :current_club: Colo-Colo (Chile)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Midfielder
       :name: Pablo Hernández
       :height: 73
@@ -1043,6 +1328,8 @@
       :birthdate: 10-24-1986
       :birthplace: San Miguel de Tucumán, Argentina
       :current_club: OHiggins (Chile)
+      :lat: "-26.84750465"
+      :lon: "-65.2259588549969"
     - :position: Midfielder
       :name: Francisco Silva
       :height: 70
@@ -1050,6 +1337,8 @@
       :birthdate: 02-11-1986
       :birthplace: Quillota, Chile
       :current_club: Osasuna (Spain)
+      :lat: "-32.8799417"
+      :lon: "-71.2473936"
     - :position: Midfielder
       :name: Arturo Vidal
       :height: 71
@@ -1057,6 +1346,8 @@
       :birthdate: 05-22-1987
       :birthplace: Santiago de Chile, Chile
       :current_club: Juventus (Italy)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Midfielder
       :name: Charles Aránguiz
       :height: 68
@@ -1064,6 +1355,8 @@
       :birthdate: 04-17-1989
       :birthplace: Santiago de Chile, Chile
       :current_club: Internacional (Brazil)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Midfielder
       :name: Marcelo Díaz
       :height: 65
@@ -1071,6 +1364,8 @@
       :birthdate: 12-30-1986
       :birthplace: Santiago de Chile, Chile
       :current_club: Basel (Switzerland)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Midfielder
       :name: Carlos Carmona
       :height: 70
@@ -1078,6 +1373,8 @@
       :birthdate: 02-21-1987
       :birthplace: Coquimbo, Chile
       :current_club: Atalanta (Italy)
+      :lat: "-29.9531148"
+      :lon: "-71.3380213"
     - :position: Midfielder
       :name: Jean Beausejour
       :height: 70
@@ -1085,6 +1382,8 @@
       :birthdate: 06-01-1984
       :birthplace: Santiago de Chile, Chile
       :current_club: Wigan Athletic (England)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Forward
       :name: Alexis Sánchez
       :height: 67
@@ -1092,6 +1391,8 @@
       :birthdate: 12-19-1988
       :birthplace: Tocopilla, Chile
       :current_club: Barcelona (Spain)
+      :lat: "-22.0887203"
+      :lon: "-70.1963017"
     - :position: Forward
       :name: Esteban Paredes
       :height: 69
@@ -1099,6 +1400,8 @@
       :birthdate: 08-01-1980
       :birthplace: Santiago de Chile, Chile
       :current_club: Colo-Colo (Chile)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Forward
       :name: Eduardo Vargas
       :height: 69
@@ -1106,6 +1409,8 @@
       :birthdate: 11-20-1989
       :birthplace: Santiago de Chile, Chile
       :current_club: Valencia (Spain)
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
     - :position: Forward
       :name: Gustavo Canales
       :height: 74
@@ -1113,6 +1418,8 @@
       :birthdate: 03-30-1982
       :birthplace: General Roca, Argentina
       :current_club: Union Espanola (Chile)
+      :lat: "-34.4671196"
+      :lon: "-64.4714283697806"
     - :position: Forward
       :name: Mauricio Pinilla
       :height: 73
@@ -1120,6 +1427,8 @@
       :birthdate: 02-04-1984
       :birthplace: San Bernardo, Chile
       :current_club: Cagliari (Italy)
+      :lat: "-33.5922949"
+      :lon: "-70.7044657"
     - :position: Forward
       :name: Fabian Orellana
       :height: 66
@@ -1127,7 +1436,8 @@
       :birthdate: 01-27-1986
       :birthplace: Santiago de Chile, Chile
       :current_club: Celta de Vigo (Spain)
-
+      :lat: "-33.4379935"
+      :lon: "-70.6503976"
   - :name: Australia
     :players:
     - :position: Goalkeeper
@@ -1137,6 +1447,8 @@
       :birthdate: 04-17-1991
       :birthplace: Perth, Australia
       :current_club: Newcastle Jets (Australia)
+      :lat: "-31.9527121"
+      :lon: '115.8604796'
     - :position: Goalkeeper
       :name: Eugene Galekovic
       :height: 73
@@ -1144,6 +1456,8 @@
       :birthdate: 06-12-1981
       :birthplace: Melbourne, Australia
       :current_club: Adelaide United (Australia)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Goalkeeper
       :name: Mitchell Langerak
       :height: 76
@@ -1151,6 +1465,8 @@
       :birthdate: 08-22-1988
       :birthplace: Emerald, Australia
       :current_club: Borussia Dortmund (Germany)
+      :lat: "-23.52603"
+      :lon: '148.1617694'
     - :position: Goalkeeper
       :name: Mathew Ryan
       :height: 71
@@ -1158,6 +1474,8 @@
       :birthdate: 04-08-1992
       :birthplace: Plumpton, Australia
       :current_club: Club Brugge (Belgium)
+      :lat: "-33.7566667"
+      :lon: '150.8427778'
     - :position: Defender
       :name: Ivan Franjić
       :height: 71
@@ -1165,6 +1483,8 @@
       :birthdate: 09-10-1987
       :birthplace: Melbourne, Australia
       :current_club: Brisbane Roar (Australia)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Defender
       :name: Ryan McGowan
       :height: 74
@@ -1172,6 +1492,8 @@
       :birthdate: 08-15-1989
       :birthplace: Adelaide, Australia
       :current_club: Shandong Luneng Taishan (China)
+      :lat: "-34.9274284"
+      :lon: '138.599899'
     - :position: Defender
       :name: Matthew Spiranovic
       :height: 76
@@ -1179,6 +1501,8 @@
       :birthdate: 06-27-1988
       :birthplace: Geelong, Australia
       :current_club: Western Sydney Wanderers (Australia)
+      :lat: "-38.1492813"
+      :lon: '144.3598269'
     - :position: Defender
       :name: Alex Wilkinson
       :height: 73
@@ -1186,6 +1510,8 @@
       :birthdate: 08-13-1984
       :birthplace: Sydney, Australia
       :current_club: Jeonbuk Hyundai Motors (South Korea)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Defender
       :name: Bailey Wright
       :height: 69
@@ -1193,6 +1519,8 @@
       :birthdate: 07-28-1992
       :birthplace: Melbourne, Australia
       :current_club: Preston North End (England)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Midfielder
       :name: Oliver Bozanic
       :height: 69
@@ -1200,6 +1528,8 @@
       :birthdate: 01-08-1989
       :birthplace: Sydney, Australia
       :current_club: Luzern (Switzerland)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Midfielder
       :name: Mark Bresciano
       :height: 71
@@ -1207,6 +1537,8 @@
       :birthdate: 02-11-1980
       :birthplace: Melbourne, Australia
       :current_club: Al-Gharafa (Qatar)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Midfielder
       :name: James Holland
       :height: 72
@@ -1214,6 +1546,8 @@
       :birthdate: 05-15-1989
       :birthplace: Sydney, Australia
       :current_club: Austria Wien (Austria)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Midfielder
       :name: Mile Jedinak
       :height: 74
@@ -1221,13 +1555,17 @@
       :birthdate: 08-03-1984
       :birthplace: Sydney, Australia
       :current_club: Crystal Palace (England)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Midfielder
       :name: Massimo Luongo
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 09-25-1992
       :birthplace: Sydney, Australia
       :current_club: Swindon Town (England)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Midfielder
       :name: Matt McKay
       :height: 68
@@ -1235,6 +1573,8 @@
       :birthdate: 01-11-1983
       :birthplace: Brisbane, Australia
       :current_club: Brisbane Roar (Australia)
+      :lat: "-27.4689682"
+      :lon: '153.0234991'
     - :position: Midfielder
       :name: Mark Milligan
       :height: 71
@@ -1242,6 +1582,8 @@
       :birthdate: 08-04-1985
       :birthplace: Sydney, Australia
       :current_club: Melbourne Victory (Australia)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Midfielder
       :name: Tommy Oar
       :height: 67
@@ -1249,6 +1591,8 @@
       :birthdate: 12-20-1991
       :birthplace: Southport, Australia
       :current_club: Utrecht (Netherlands)
+      :lat: "-43.4306374"
+      :lon: '146.9754021'
     - :position: Midfielder
       :name: Tom Rogic
       :height: 74
@@ -1256,6 +1600,8 @@
       :birthdate: 12-16-1992
       :birthplace: Griffith, Australia
       :current_club: Celtic (Scotland)
+      :lat: "-34.2870772"
+      :lon: '146.0551022'
     - :position: Midfielder
       :name: Dario Vidosic
       :height: 73
@@ -1263,6 +1609,8 @@
       :birthdate: 04-08-1987
       :birthplace: Osijek, Croatia
       :current_club: Sion (Switzerland)
+      :lat: '45.5540026'
+      :lon: '18.6897053'
     - :position: Midfielder
       :name: Tim Cahill
       :height: 70
@@ -1270,6 +1618,8 @@
       :birthdate: 12-06-1979
       :birthplace: Sydney, Australia
       :current_club: New York Red Bulls (USA)
+      :lat: "-33.8548157"
+      :lon: '151.2164539'
     - :position: Forward
       :name: Joshua Kennedy
       :height: 76
@@ -1277,6 +1627,8 @@
       :birthdate: 08-20-1982
       :birthplace: Wodonga, Australia
       :current_club: Nagoya Grampus (Japan)
+      :lat: "-36.1247183"
+      :lon: '146.8882581'
     - :position: Forward
       :name: Mathew Leckie
       :height: 71
@@ -1284,6 +1636,8 @@
       :birthdate: 02-04-1991
       :birthplace: Melbourne, Australia
       :current_club: FSV Frankfurt (Germany)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Forward
       :name: Adam Taggart
       :height: 72
@@ -1291,6 +1645,8 @@
       :birthdate: 06-02-1993
       :birthplace: Perth, Australia
       :current_club: Newcastle Jets (Australia)
+      :lat: "-31.9527121"
+      :lon: '115.8604796'
     - :position: Midfielder
       :name: James Troisi
       :height: 70
@@ -1298,7 +1654,8 @@
       :birthdate: 07-03-1988
       :birthplace: Adelaide, Australia
       :current_club: Atalanta (Italy)
-
+      :lat: "-34.9274284"
+      :lon: '138.599899'
 - :group: C
   :teams:
   - :name: Colombia
@@ -1310,6 +1667,8 @@
       :birthdate: 08-31-1988
       :birthplace: Medellín, Antioquia
       :current_club: Nice (France)
+      :lat: '6.2443382'
+      :lon: "-75.573553"
     - :position: Goalkeeper
       :name: Faryd Mondragón
       :height: 75
@@ -1317,6 +1676,8 @@
       :birthdate: 06-21-1971
       :birthplace: Cali, Valle del Cauca
       :current_club: Deportivo Cali (Colombia)
+      :lat: '3.41056195'
+      :lon: "-76.5787280404927"
     - :position: Goalkeeper
       :name: Camilo Vargas
       :height: 73
@@ -1324,6 +1685,8 @@
       :birthdate: 03-09-1989
       :birthplace: Bogotá, Colombia
       :current_club: Santa Fe (Colombia)
+      :lat: '4.5980478'
+      :lon: "-74.0760867"
     - :position: Defender
       :name: Mario Yepes
       :height: 73
@@ -1331,6 +1694,8 @@
       :birthdate: 01-13-1976
       :birthplace: Cali, Colombia
       :current_club: Atalanta (Italy)
+      :lat: '3.41056195'
+      :lon: "-76.5787280404927"
     - :position: Defender
       :name: Cristián Zapata
       :height: 74
@@ -1338,6 +1703,8 @@
       :birthdate: 09-30-1986
       :birthplace: Padilla, Colombia
       :current_club: AC Milan (Italy)
+      :lat: '3.2244006'
+      :lon: "-76.3156438"
     - :position: Defender
       :name: Pablo Armero
       :height: 69
@@ -1345,6 +1712,8 @@
       :birthdate: 11-02-1986
       :birthplace: Tumáco, Colombia
       :current_club: West Ham United (England)
+      :lat: '1.8077554'
+      :lon: "-78.7705977"
     - :position: Defender
       :name: Camilo Zúñiga
       :height: 68
@@ -1352,6 +1721,8 @@
       :birthdate: 12-14-1985
       :birthplace: Chigorodó, Colombia
       :current_club: Napoli (Italy)
+      :lat: '7.6131888'
+      :lon: "-76.6360436374956"
     - :position: Defender
       :name: Aquivaldo Mosquera
       :height: 72
@@ -1359,6 +1730,8 @@
       :birthdate: 06-22-1981
       :birthplace: Apartadó, Colombia
       :current_club: Club America (Mexico)
+      :lat: '7.92212155'
+      :lon: "-76.5305896540264"
     - :position: Defender
       :name: Santiago Arias
       :height: 69
@@ -1366,6 +1739,8 @@
       :birthdate: 01-13-1992
       :birthplace: Medellín, Colombia
       :current_club: PSV Eindhoven (Netherlands)
+      :lat: '6.2443382'
+      :lon: "-75.573553"
     - :position: Defender
       :name: Luis Perea
       :height: 71
@@ -1373,13 +1748,17 @@
       :birthdate: 01-30-1979
       :birthplace: Turbo, Colombia
       :current_club: Cruz Azul (Mexico)
+      :lat: '8.0927851'
+      :lon: "-76.7254766"
     - :position: Defender
-      :name: Éder Álvarez
+      :name: "Éder Álvarez"
       :height: 71
       :weight: 185
       :birthdate: 02-28-1993
       :birthplace: Bogotá, Colombia
       :current_club: River Plate (Argentina)
+      :lat: '4.5980478'
+      :lon: "-74.0760867"
     - :position: Defender
       :name: Carlos Valdés
       :height: 73
@@ -1387,6 +1766,8 @@
       :birthdate: 05-22-1985
       :birthplace: Cali, Colombia
       :current_club: San Lorenzo (Argentina)
+      :lat: '3.41056195'
+      :lon: "-76.5787280404927"
     - :position: Midfielder
       :name: Fredy Guarín
       :height: 72
@@ -1394,6 +1775,8 @@
       :birthdate: 06-30-1986
       :birthplace: Puerto Boyacá, Colombia
       :current_club: Inter Milan (Italy)
+      :lat: '5.9756376'
+      :lon: "-74.5882837"
     - :position: Midfielder
       :name: Juan Cuadrado
       :height: 69
@@ -1401,6 +1784,8 @@
       :birthdate: 05-26-1988
       :birthplace: Necoclí, Colombia
       :current_club: Fiorentina (Italy)
+      :lat: '8.4233906'
+      :lon: "-76.781487"
     - :position: Midfielder
       :name: James Rodríguez
       :height: 71
@@ -1408,6 +1793,8 @@
       :birthdate: 07-12-1991
       :birthplace: Cúcuta, Colombia
       :current_club: AS Monaco (France)
+      :lat: '7.8971458'
+      :lon: "-72.5080387"
     - :position: Midfielder
       :name: Abel Aguilar
       :height: 73
@@ -1415,6 +1802,8 @@
       :birthdate: 01-06-1985
       :birthplace: Bogotá, Colombia
       :current_club: Toulouse (France)
+      :lat: '4.5980478'
+      :lon: "-74.0760867"
     - :position: Midfielder
       :name: Juan Quintero
       :height: 67
@@ -1422,6 +1811,8 @@
       :birthdate: 01-18-1993
       :birthplace: Medellín, Colombia
       :current_club: Porto (Portugal)
+      :lat: '6.2443382'
+      :lon: "-75.573553"
     - :position: Midfielder
       :name: Carlos Sánchez
       :height: 72
@@ -1429,6 +1820,8 @@
       :birthdate: 03-06-1986
       :birthplace: Quibdó, Colombia
       :current_club: Elche (Spain)
+      :lat: '5.6845709'
+      :lon: "-76.6540463"
     - :position: Midfielder
       :name: Macnelly Torres
       :height: 67
@@ -1436,6 +1829,8 @@
       :birthdate: 11-01-1984
       :birthplace: Barranquilla, Colombia
       :current_club: Al-Shabab (Saudi Arabia)
+      :lat: '10.979932'
+      :lon: "-74.7957384"
     - :position: Midfielder
       :name: Aldo Leão Ramírez
       :height: 69
@@ -1443,6 +1838,8 @@
       :birthdate: 04-18-1981
       :birthplace: Santa Marta, Colombia
       :current_club: Morelia (Mexico)
+      :lat: '11.0869132'
+      :lon: "-73.8807020374619"
     - :position: Midfielder
       :name: Edwin Valencia
       :height: 71
@@ -1450,6 +1847,8 @@
       :birthdate: 03-29-1985
       :birthplace: Florida, Colombia
       :current_club: Fluminense (Brazil)
+      :lat: '3.3256006'
+      :lon: "-76.2370118"
     - :position: Midfielder
       :name: Alexander Mejía
       :height: 70
@@ -1457,6 +1856,8 @@
       :birthdate: 07-11-1988
       :birthplace: Barranquilla, Colombia
       :current_club: Atletico Nacional (Colombia)
+      :lat: '10.979932'
+      :lon: "-74.7957384"
     - :position: Midfielder
       :name: Elkin Soto
       :height: 70
@@ -1464,6 +1865,8 @@
       :birthdate: 08-04-1980
       :birthplace: Manizales, Colombia
       :current_club: Mainz 05 (Germany)
+      :lat: '5.07448715'
+      :lon: "-75.5080095311939"
     - :position: Forward
       :name: Radamel Falcao
       :height: 70
@@ -1471,6 +1874,8 @@
       :birthdate: 02-10-1986
       :birthplace: Santa Marta, Colombia
       :current_club: AS Monaco (France)
+      :lat: '11.0869132'
+      :lon: "-73.8807020374619"
     - :position: Forward
       :name: Víctor Ibarbo
       :height: 74
@@ -1478,6 +1883,8 @@
       :birthdate: 05-19-1990
       :birthplace: Cali, Colombia
       :current_club: Cagliari (Italy)
+      :lat: '3.41056195'
+      :lon: "-76.5787280404927"
     - :position: Forward
       :name: Luis Muriel
       :height: 70
@@ -1485,6 +1892,8 @@
       :birthdate: 04-16-1991
       :birthplace: Santo Tomas, Colombia
       :current_club: Udinese (Italy)
+      :lat: '10.2151126'
+      :lon: "-73.3890336"
     - :position: Forward
       :name: Jackson Martínez
       :height: 73
@@ -1492,6 +1901,8 @@
       :birthdate: 10-03-1986
       :birthplace: Quibdó, Colombia
       :current_club: Porto (Portugal)
+      :lat: '5.6845709'
+      :lon: "-76.6540463"
     - :position: Forward
       :name: Carlos Bacca
       :height: 70
@@ -1499,6 +1910,8 @@
       :birthdate: 09-08-1986
       :birthplace: Puerto Colombia, Colombia
       :current_club: Sevilla (Spain)
+      :lat: '10.9891292'
+      :lon: "-74.955414"
     - :position: Forward
       :name: Adrián Ramos
       :height: 73
@@ -1506,6 +1919,8 @@
       :birthdate: 01-22-1986
       :birthplace: Santander de Quilichao, Colombia
       :current_club: Hertha Berlin (Germany)
+      :lat: '3.0212355'
+      :lon: "-76.4842244"
     - :position: Forward
       :name: Teófilo Gutiérrez
       :height: 70
@@ -1513,7 +1928,8 @@
       :birthdate: 05-27-1985
       :birthplace: Barranquilla, Colombia
       :current_club: River Plate (Argentina)
-
+      :lat: '10.979932'
+      :lon: "-74.7957384"
   - :name: Greece
     :players:
     - :position: Goalkeeper
@@ -1523,6 +1939,8 @@
       :birthdate: 08-12-1982
       :birthplace: Athens, Greece
       :current_club: Apollon Smyrni (Greece)
+      :lat: '37.9841493'
+      :lon: '23.7279843'
     - :position: Goalkeeper
       :name: Michalis Sifakis
       :height: 73
@@ -1530,6 +1948,8 @@
       :birthdate: 09-09-1984
       :birthplace: Iraklion, Greece
       :current_club: Atromitos (Greece)
+      :lat: '35.1765819'
+      :lon: '25.1465992017728'
     - :position: Goalkeeper
       :name: Orestis Karnezis
       :height: 74
@@ -1537,20 +1957,26 @@
       :birthdate: 07-11-1985
       :birthplace: Athens, Greece
       :current_club: Granada (Spain)
+      :lat: '37.9841493'
+      :lon: '23.7279843'
     - :position: Goalkeeper
       :name: Panagiotis Glikos
       :height: 74
-      :weight:
+      :weight: 
       :birthdate: 10-10-1986
       :birthplace: Volos, Greece
       :current_club: PAOK (Greece)
+      :lat: '39.3627405'
+      :lon: '22.9400319'
     - :position: Goalkeeper
       :name: Stefanos Kapino
       :height: 77
-      :weight:
+      :weight: 
       :birthdate: 03-18-1994
-      :birthplace: Piraeus, Greece 
+      :birthplace: Piraeus, Greece
       :current_club: Panathinaikos (Greece)
+      :lat: '37.9440109'
+      :lon: '23.6483543'
     - :position: Defender
       :name: Avraam Papadopoulos
       :height: 74
@@ -1558,13 +1984,17 @@
       :birthdate: 05-03-1984
       :birthplace: Melbourne, Australia
       :current_club: Olympiacos (Greece)
+      :lat: "-37.8142176"
+      :lon: '144.9631608'
     - :position: Defender
       :name: Dimitrios Siovas
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 09-16-1988
-      :birthplace: Drama, Greece 
+      :birthplace: Drama, Greece
       :current_club: Olympiacos (Greece)
+      :lat: '41.27064625'
+      :lon: '24.1554768930545'
     - :position: Defender
       :name: Kostas Manolas
       :height: 70
@@ -1572,6 +2002,8 @@
       :birthdate: 06-14-1991
       :birthplace: Athens, Greece
       :current_club: Olympiacos (Greece)
+      :lat: '37.9841493'
+      :lon: '23.7279843'
     - :position: Midfielder
       :name: Giannis Maniatis
       :height: 70
@@ -1579,6 +2011,8 @@
       :birthdate: 10-12-1986
       :birthplace: Livadeia, Greece
       :current_club: Olympiacos (Greece)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Jose Holebas
       :height: 72
@@ -1586,6 +2020,8 @@
       :birthdate: 06-27-1984
       :birthplace: Aschaffenburg, Germany
       :current_club: Olympiacos (Greece)
+      :lat: '49.9739001'
+      :lon: '9.1491699'
     - :position: Defender
       :name: Sokratis Papastathopoulos
       :height: 73
@@ -1593,6 +2029,8 @@
       :birthdate: 06-09-1988
       :birthplace: Kalamata, Greece
       :current_club: Borussia Dortmund (Germany)
+      :lat: '37.0377582'
+      :lon: '22.1109392'
     - :position: Defender
       :name: Georgios Tzavellas
       :height: 72
@@ -1600,6 +2038,8 @@
       :birthdate: 11-26-1987
       :birthplace: Vyronas, Greece
       :current_club: PAOK (Greece)
+      :lat: '37.9565549'
+      :lon: '23.75537'
     - :position: Defender
       :name: Loukas Vyntra
       :height: 72
@@ -1607,6 +2047,8 @@
       :birthdate: 02-05-1981
       :birthplace: Mesto Albrechtice, Czech Republic
       :current_club: Levante (Spain)
+      :lat: '50.1629396'
+      :lon: '17.5748075'
     - :position: Defender
       :name: Vasilis Torosidis
       :height: 72
@@ -1614,6 +2056,8 @@
       :birthdate: 06-10-1985
       :birthplace: Xanthi, Greece
       :current_club: AS Roma (Italy)
+      :lat: '41.1380289'
+      :lon: '24.8862688'
     - :position: Midfielder
       :name: Alexandros Tziolis
       :height: 74
@@ -1621,13 +2065,17 @@
       :birthdate: 02-13-1985
       :birthplace: Katerini, Greece
       :current_club: Kayserispor (Turkey)
+      :lat: '40.2712571'
+      :lon: '22.50888'
     - :position: Midfielder
       :name: Andreas Samaris
       :height: 74
-      :weight:
+      :weight: 
       :birthdate: 06-13-1989
-      :birthplace: Patras, Greece 
+      :birthplace: Patras, Greece
       :current_club: Olympiacos (Greece)
+      :lat: '38.2462033'
+      :lon: '21.7352492'
     - :position: Midfielder
       :name: Kostas Katsouranis
       :height: 72
@@ -1635,6 +2083,8 @@
       :birthdate: 06-21-1979
       :birthplace: Patras, Greece
       :current_club: PAOK (Greece)
+      :lat: '38.2462033'
+      :lon: '21.7352492'
     - :position: Midfielder
       :name: Giorgos Karagounis
       :height: 69
@@ -1642,6 +2092,8 @@
       :birthdate: 03-06-1977
       :birthplace: Pyrgos, Greece
       :current_club: Fulham (England)
+      :lat: '37.6711849'
+      :lon: '21.4422805'
     - :position: Midfielder
       :name: Panagiotis Tachtsidis
       :height: 75
@@ -1649,6 +2101,8 @@
       :birthdate: 02-15-1991
       :birthplace: Nafplio, Greece
       :current_club: Torino (Italy)
+      :lat: '37.5696972'
+      :lon: '22.808078'
     - :position: Midfielder
       :name: Sotiris Ninis
       :height: 68
@@ -1656,6 +2110,8 @@
       :birthdate: 04-03-1990
       :birthplace: Himare, Albania
       :current_club: PAOK (Greece)
+      :lat: '40.102163'
+      :lon: '19.7472977'
     - :position: Midfielder
       :name: Giannis Fetfatzidis
       :height: 66
@@ -1663,6 +2119,8 @@
       :birthdate: 12-21-1990
       :birthplace: Athens, Greece
       :current_club: Genoa (Italy)
+      :lat: '37.9841493'
+      :lon: '23.7279843'
     - :position: Midfielder
       :name: Kostas Fortounis
       :height: 72
@@ -1670,6 +2128,8 @@
       :birthdate: 10-16-1992
       :birthplace: Trikala, Greece
       :current_club: Kaiserslauten (Germany)
+      :lat: '39.6282934'
+      :lon: '21.6476240930237'
     - :position: Midfielder
       :name: Lazaros Christodoulopoulos
       :height: 72
@@ -1677,6 +2137,8 @@
       :birthdate: 12-19-1986
       :birthplace: Thessaloniki, Greece
       :current_club: Bologna (Italy)
+      :lat: '40.6403167'
+      :lon: '22.9352716'
     - :position: Midfielder
       :name: Panagiotis Kone
       :height: 72
@@ -1684,6 +2146,8 @@
       :birthdate: 07-26-1987
       :birthplace: Tirana, Greece
       :current_club: Bologna (Italy)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Dimitrios Papadopoulos
       :height: 70
@@ -1691,6 +2155,8 @@
       :birthdate: 10-20-1981
       :birthplace: Gagarin, Uzbekistan
       :current_club: Atromitos (Greece)
+      :lat: '37.420221'
+      :lon: '66.9835143'
     - :position: Forward
       :name: Dimitris Salpingidis
       :height: 70
@@ -1698,6 +2164,8 @@
       :birthdate: 08-18-1981
       :birthplace: Thessaloniki, Greece
       :current_club: PAOK (Greece)
+      :lat: '40.6403167'
+      :lon: '22.9352716'
     - :position: Forward
       :name: Georgios Samaras
       :height: 76
@@ -1705,6 +2173,8 @@
       :birthdate: 02-21-1985
       :birthplace: Heraklion, Greece
       :current_club: Celtic (Scotland)
+      :lat: '35.3340134'
+      :lon: '25.1328543'
     - :position: Forward
       :name: Kostas Mitroglu
       :height: 74
@@ -1712,6 +2182,8 @@
       :birthdate: 03-12-1988
       :birthplace: Kavala, Greece
       :current_club: Fulham (England)
+      :lat: '40.8663272'
+      :lon: '24.3998825416416'
     - :position: Forward
       :name: Fanis Gekas
       :height: 71
@@ -1719,7 +2191,8 @@
       :birthdate: 05-23-1980
       :birthplace: Larissa, Greece
       :current_club: Konyaspor (Turkey)
-
+      :lat: '39.6369927'
+      :lon: '22.417088'
 - :group: D
   :teams:
   - :name: Uruguay
@@ -1731,6 +2204,8 @@
       :birthdate: 06-16-1986
       :birthplace: Buenos Aires, Argentina
       :current_club: Galatasaray (Turkey)
+      :lat: "-34.612869"
+      :lon: "-58.4459789"
     - :position: Goalkeeper
       :name: Martín Silva
       :height: 73
@@ -1738,6 +2213,8 @@
       :birthdate: 03-25-1983
       :birthplace: Montevideo, Uruguay
       :current_club: Vasco da Gama (Brazil)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Goalkeeper
       :name: Rodrigo Muñoz
       :height: 71
@@ -1745,6 +2222,8 @@
       :birthdate: 01-22-1982
       :birthplace: Montevideo, Uruguay
       :current_club: Libertad (Paraguay)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Defender
       :name: Diego Lugano
       :height: 73
@@ -1752,6 +2231,8 @@
       :birthdate: 11-02-1980
       :birthplace: Canelones, Uruguay
       :current_club: West Bromwich Albion (England)
+      :lat: "-34.5242373"
+      :lon: "-56.2817519"
     - :position: Defender
       :name: Diego Godín
       :height: 73
@@ -1759,6 +2240,8 @@
       :birthdate: 02-16-1986
       :birthplace: Rosario, Uruguay
       :current_club: Atletico Madrid (Spain)
+      :lat: "-34.3115588"
+      :lon: "-57.3512918"
     - :position: Defender
       :name: José María Giménez
       :height: 73
@@ -1766,6 +2249,8 @@
       :birthdate: 01-20-1995
       :birthplace: Toledo, Uruguay
       :current_club: Atletico Madrid (Spain)
+      :lat: "-32.5295905"
+      :lon: "-54.5294232"
     - :position: Defender
       :name: Martín Cáceres
       :height: 72
@@ -1773,6 +2258,8 @@
       :birthdate: 04-07-1987
       :birthplace: Montevideo, Uruguay
       :current_club: Juventus (Italy)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Defender
       :name: Maxi Pereira
       :height: 68
@@ -1780,6 +2267,8 @@
       :birthdate: 06-08-1984
       :birthplace: Montevideo, Uruguay
       :current_club: Benfica (Portugal)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Defender
       :name: Jorge Fucile
       :height: 70
@@ -1787,6 +2276,8 @@
       :birthdate: 11-19-1984
       :birthplace: Montevideo, Uruguay
       :current_club: Porto (Portugal)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Defender
       :name: Sebastian Coates
       :height: 77
@@ -1794,6 +2285,8 @@
       :birthdate: 10-07-1990
       :birthplace: Montevideo, Uruguay
       :current_club: Nacional (Uruguay)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
       :name: Alejandro Silva
       :height: 70
@@ -1801,6 +2294,8 @@
       :birthdate: 09-04-1989
       :birthplace: Montevideo, Uruguay
       :current_club: Lanus (Argentina)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
       :name: Egidio Arévalo Ríos
       :height: 67
@@ -1808,6 +2303,8 @@
       :birthdate: 01-01-1982
       :birthplace: Paysandú, Uruguay
       :current_club: Morelia (Mexico)
+      :lat: "-32.3127555"
+      :lon: "-58.0776762"
     - :position: Midfielder
       :name: Walter Gargano
       :height: 66
@@ -1815,6 +2312,8 @@
       :birthdate: 07-27-1984
       :birthplace: Paysandú, Uruguay
       :current_club: Parma (Italy)
+      :lat: "-32.3127555"
+      :lon: "-58.0776762"
     - :position: Midfielder
       :name: Sebastián Eguren
       :height: 73
@@ -1822,20 +2321,26 @@
       :birthdate: 01-08-1981
       :birthplace: Montevideo, Uruguay
       :current_club: Palmeiras (Brazil)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
-      :name: Álvaro González
+      :name: "Álvaro González"
       :height: 69
       :weight: 159
       :birthdate: 10-29-1984
       :birthplace: Montevideo, Uruguay
       :current_club: Lazio (Italy)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
-      :name: Álvaro Pereira
+      :name: "Álvaro Pereira"
       :height: 71
       :weight: 172
       :birthdate: 11-28-1985
       :birthplace: Montevideo, Uruguay
       :current_club: Sao Paulo (Brazil)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
       :name: Cristian Rodríguez
       :height: 70
@@ -1843,6 +2348,8 @@
       :birthdate: 09-30-1985
       :birthplace: Juan Lacaze, Uruguay
       :current_club: Atletico Madrid (Spain)
+      :lat: "-34.4344168"
+      :lon: "-57.4378064"
     - :position: Midfielder
       :name: Gastón Ramirez
       :height: 72
@@ -1850,6 +2357,8 @@
       :birthdate: 12-02-1990
       :birthplace: Fray Bentos, Uruguay
       :current_club: Southampton (England)
+      :lat: "-33.2484916"
+      :lon: "-58.3870691"
     - :position: Midfielder
       :name: Nicolás Lodeiro
       :height: 67
@@ -1857,6 +2366,8 @@
       :birthdate: 03-21-1989
       :birthplace: Paysandú, Uruguay
       :current_club: Botafogo (Brazil)
+      :lat: "-32.3127555"
+      :lon: "-58.0776762"
     - :position: Forward
       :name: Edinson Cavani
       :height: 72
@@ -1864,6 +2375,8 @@
       :birthdate: 02-14-1987
       :birthplace: Salto, Uruguay
       :current_club: Paris Saint-Germain (France)
+      :lat: "-30.9208217"
+      :lon: "-57.8742069"
     - :position: Forward
       :name: Luis Suárez
       :height: 71
@@ -1871,6 +2384,8 @@
       :birthdate: 01-24-1987
       :birthplace: Salto, Uruguay
       :current_club: Liverpool (England)
+      :lat: "-30.9208217"
+      :lon: "-57.8742069"
     - :position: Forward
       :name: Diego Forlán
       :height: 71
@@ -1878,6 +2393,8 @@
       :birthdate: 05-19-1979
       :birthplace: Montevideo, Uruguay
       :current_club: Cerezo Osaka (Japan)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Forward
       :name: Abel Hernández
       :height: 73
@@ -1885,6 +2402,8 @@
       :birthdate: 08-08-1990
       :birthplace: Pando, Uruguay
       :current_club: Palermo (Italy)
+      :lat: "-34.5556741"
+      :lon: "-55.9311021"
     - :position: Forward
       :name: Christian Stuani
       :height: 73
@@ -1892,6 +2411,8 @@
       :birthdate: 10-12-1986
       :birthplace: Tala, Uruguay
       :current_club: Espanyol (Spain)
+      :lat: "-33.2036283"
+      :lon: "-57.4124493"
     - :position: Defender
       :name: Andrés Scotti
       :height: 72
@@ -1899,13 +2420,17 @@
       :birthdate: 12-14-1975
       :birthplace: Montevideo, Uruguay
       :current_club: Nacional (Uruguay)
+      :lat: "-34.9059039"
+      :lon: "-56.1913569"
     - :position: Midfielder
-      :name: Álvaro Fernández
+      :name: "Álvaro Fernández"
       :height: 73
       :weight: 159
       :birthdate: 10-11-1985
       :birthplace: Nueva Palmira, Uruguay
       :current_club: Nacional (Uruguay)
+      :lat: "-33.8710911"
+      :lon: "-58.4068884"
     - :position: Midfielder
       :name: Gonzalo Castro
       :height: 69
@@ -1913,7 +2438,8 @@
       :birthdate: 09-14-1984
       :birthplace: Trinidad, Uruguay
       :current_club: Real Sociedad (Spain)
-
+      :lat: "-33.5173479"
+      :lon: "-56.8979718"
   - :name: Costa rica
     :players:
     - :position: Goalkeeper
@@ -1923,12 +2449,14 @@
       :birthdate: 12-15-1986
       :birthplace: Pérez Zeledón, Costa Rica
       :current_club: Levante (Spain)
+      :lat: '9.2865149'
+      :lon: "-83.5349063"
     - :position: Goalkeeper
       :name: Patrick Pemberton
       :height: 70
-      :weight:
+      :weight: 
       :birthdate: 04-24-1982
-      :birthplace:
+      :birthplace: 
       :current_club: Alajuelense (Costa Rica)
     - :position: Goalkeeper
       :name: Daniel Cambronero
@@ -1937,13 +2465,17 @@
       :birthdate: 01-08-1986
       :birthplace: San Jose, Costa Rica
       :current_club: Herediano (Costa Rica)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Goalkeeper
       :name: Esteban Alvarado
       :height: 76
-      :weight:
-      :birthdate: 04-28-1989 
+      :weight: 
+      :birthdate: 04-28-1989
       :birthplace: Puerto Limon, Costa Rica
       :current_club: AZ Alkmaar (Netherlands)
+      :lat: '9.9118449'
+      :lon: "-84.7163001159889"
     - :position: Defender
       :name: Johnny Acosta
       :height: 70
@@ -1951,6 +2483,8 @@
       :birthdate: 07-21-1983
       :birthplace: Alajuela, Costa Rica
       :current_club: Alajuelense (Costa Rica)
+      :lat: '10.6916755'
+      :lon: "-84.7561318"
     - :position: Defender
       :name: Giancarlo González
       :height: 75
@@ -1958,6 +2492,8 @@
       :birthdate: 02-08-1988
       :birthplace: San José, Costa Rica
       :current_club: Columbus Crew (USA)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Defender
       :name: Míchael Umaña
       :height: 72
@@ -1965,6 +2501,8 @@
       :birthdate: 07-16-1982
       :birthplace: Santa Ana, Costa Rica
       :current_club: Saprissa (Costa Rica)
+      :lat: '9.9325844'
+      :lon: "-84.1823733"
     - :position: Defender
       :name: Oscar Duarte
       :height: 72
@@ -1972,6 +2510,8 @@
       :birthdate: 06-03-1989
       :birthplace: Masaya, Nicaragua
       :current_club: Club Brugge (Belgium)
+      :lat: '11.9867657'
+      :lon: "-86.0812016308932"
     - :position: Defender
       :name: Waylon Francis
       :height: 69
@@ -1979,6 +2519,8 @@
       :birthdate: 09-20-1990
       :birthplace: Puerto Limon, Costa Rica
       :current_club: Columbus Crew (USA)
+      :lat: '9.9118449'
+      :lon: "-84.7163001159889"
     - :position: Defender
       :name: Heiner Mora
       :height: 70
@@ -1986,6 +2528,8 @@
       :birthdate: 06-20-1984
       :birthplace: San Jose, Costa Rica
       :current_club: Saprissa (Costa Rica)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Defender
       :name: Júnior Díaz
       :height: 73
@@ -1993,6 +2537,8 @@
       :birthdate: 09-12-1983
       :birthplace: San José, Costa Rica
       :current_club: Mainz 05 (Germany)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Defender
       :name: Cristian Gamboa
       :height: 69
@@ -2000,6 +2546,8 @@
       :birthdate: 10-24-1989
       :birthplace: Liberia, Costa Rica
       :current_club: Rosenborg (Norway)
+      :lat: '10.6343259'
+      :lon: "-85.4410926"
     - :position: Defender
       :name: Roy Miller
       :height: 74
@@ -2007,11 +2555,13 @@
       :birthdate: 11-24-1984
       :birthplace: San Jose, Costa Rica
       :current_club: New York Red Bulls (USA)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Defender
       :name: Kendall Watson
       :height: 77
-      :weight:
-      :birthdate: 01-01-1988 
+      :weight: 
+      :birthdate: 01-01-1988
       :birthplace: 
       :current_club: Saprissa (Costa Rica)
     - :position: Midfielder
@@ -2021,6 +2571,8 @@
       :birthdate: 05-27-1988
       :birthplace: San José, Costa Rica
       :current_club: AIK (Sweden)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Midfielder
       :name: Oscar Esteban Granados
       :height: 72
@@ -2035,11 +2587,13 @@
       :birthdate: 10-04-1983
       :birthplace: San José, Costa Rica
       :current_club: Aalesund (Norway)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Midfielder
       :name: Yeltsin Tejeda
       :height: 70
-      :weight:
-      :birthdate:  03-17-1992
+      :weight: 
+      :birthdate: 03-17-1992
       :birthplace: 
       :current_club: Saprissa (Costa Rica)
     - :position: Midfielder
@@ -2049,13 +2603,17 @@
       :birthdate: 03-25-1991
       :birthplace: San Jose, Costa Rica
       :current_club: Valerenga (Norway)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Midfielder
       :name: José Miguel Cubero
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 02-14-1987
-      :birthplace: Heredia, Costa Rica 
+      :birthplace: Heredia, Costa Rica
       :current_club: Herediano (Costa Rica)
+      :lat: '9.9983958'
+      :lon: "-84.1167057"
     - :position: Midfielder
       :name: Carlos Hernandez
       :height: 67
@@ -2063,6 +2621,8 @@
       :birthdate: 04-09-1982
       :birthplace: San Jose, Costa Rica
       :current_club: Wellington Phoenix (Australia)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Midfielder
       :name: Ariel Rodríguez
       :height: 72
@@ -2077,13 +2637,17 @@
       :birthdate: 08-09-1989
       :birthplace: Golfito, Costa Rica
       :current_club: Saprissa (Costa Rica)
+      :lat: '8.6464922'
+      :lon: "-83.1765046"
     - :position: Forward
-      :name: Álvaro Saborío
+      :name: "Álvaro Saborío"
       :height: 72
       :weight: 170
       :birthdate: 03-25-1982
       :birthplace: San Carlos, Costa Rica
       :current_club: Real Salt Lake (USA)
+      :lat: '9.2370657'
+      :lon: "-83.5867932"
     - :position: Midfielder
       :name: Bryan Ruiz
       :height: 73
@@ -2091,6 +2655,8 @@
       :birthdate: 08-18-1985
       :birthplace: San José, Costa Rica
       :current_club: PSV Eindhoven (Netherlands)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Forward
       :name: Joel Campbell
       :height: 70
@@ -2098,20 +2664,26 @@
       :birthdate: 06-26-1992
       :birthplace: San José, Costa Rica
       :current_club: Olympiacos (Greece)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Midfielder
       :name: Randall Brenes
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 08-13-1983
-      :birthplace: San José, Costa Rica 
+      :birthplace: San José, Costa Rica
       :current_club: Cartagines (Costa Rica)
+      :lat: '9.9327307'
+      :lon: "-84.0793006"
     - :position: Forward
       :name: Marco Urena
       :height: 70
-      :weight:
+      :weight: 
       :birthdate: 03-05-1990
-      :birthplace: San Jose, Costa Rica 
+      :birthplace: San Jose, Costa Rica
       :current_club: Krasnodar (Russia)
+      :lat: '9.7888222'
+      :lon: "-84.301611"
     - :position: Forward
       :name: Jairo Arrieta
       :height: 69
@@ -2119,7 +2691,8 @@
       :birthdate: 08-25-1983
       :birthplace: Nicoya, Costa Rica
       :current_club: Columbus Crew (USA)
-
+      :lat: '10.1425377'
+      :lon: "-85.4535147"
   - :name: England
     :players:
     - :position: Goalkeeper
@@ -2129,6 +2702,8 @@
       :birthdate: 04-19-1987
       :birthplace: Shrewsbury, England
       :current_club: Manchester City (England)
+      :lat: '52.7079067'
+      :lon: "-2.7539829"
     - :position: Goalkeeper
       :name: Ben Foster
       :height: 75
@@ -2136,13 +2711,17 @@
       :birthdate: 04-03-1983
       :birthplace: Leamington Spa, England
       :current_club: West Bromwich Albion (England)
+      :lat: '52.2921548'
+      :lon: "-1.5356986"
     - :position: Goalkeeper
       :name: Fraser Forster
       :height: 79
-      :weight:
+      :weight: 
       :birthdate: 03-17-1988
       :birthplace: Hexham, England
       :current_club: Celtic (Scotland)
+      :lat: '54.9710108'
+      :lon: "-2.1007508"
     - :position: Defender
       :name: Leighton Baines
       :height: 67
@@ -2150,6 +2729,8 @@
       :birthdate: 12-11-1984
       :birthplace: Kirkby, England
       :current_club: Everton (England)
+      :lat: '53.4851525'
+      :lon: "-2.898906"
     - :position: Defender
       :name: Gary Cahill
       :height: 74
@@ -2157,6 +2738,8 @@
       :birthdate: 12-19-1985
       :birthplace: Sheffield, England
       :current_club: Chelsea (England)
+      :lat: '53.3806626'
+      :lon: "-1.4702278"
     - :position: Defender
       :name: Phil Jagielka
       :height: 71
@@ -2164,6 +2747,8 @@
       :birthdate: 08-17-1982
       :birthplace: Sale, England
       :current_club: Everton (England)
+      :lat: '53.4245221'
+      :lon: "-2.3183899"
     - :position: Defender
       :name: Glen Johnson
       :height: 72
@@ -2171,6 +2756,8 @@
       :birthdate: 08-23-1984
       :birthplace: Greenwich, England
       :current_club: Liverpool (England)
+      :lat: '52.0367323'
+      :lon: '1.168934'
     - :position: Defender
       :name: Phil Jones
       :height: 71
@@ -2178,13 +2765,17 @@
       :birthdate: 02-21-1992
       :birthplace: Preston, England
       :current_club: Manchester United (England)
+      :lat: '53.7589938'
+      :lon: "-2.7051618"
     - :position: Defender
       :name: Luke Shaw
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 07-12-1995
-      :birthplace: Kingston, England 
+      :birthplace: Kingston, England
       :current_club: Southampton (England)
+      :lat: '51.4096275'
+      :lon: "-0.3062621"
     - :position: Defender
       :name: Chris Smalling
       :height: 75
@@ -2192,13 +2783,17 @@
       :birthdate: 11-22-1989
       :birthplace: Greenwich, England
       :current_club: Manchester United (England)
+      :lat: '52.0367323'
+      :lon: '1.168934'
     - :position: Midfielder
       :name: Ross Barkley
       :height: 74
-      :weight:
+      :weight: 
       :birthdate: 12-05-1993
-      :birthplace: Liverpool, England 
+      :birthplace: Liverpool, England
       :current_club: Everton (England)
+      :lat: '53.4054719'
+      :lon: "-2.9805393"
     - :position: Midfielder
       :name: Steven Gerrard
       :height: 72
@@ -2206,6 +2801,8 @@
       :birthdate: 05-30-1980
       :birthplace: Whiston, England
       :current_club: Liverpool (England)
+      :lat: '53.4189751'
+      :lon: "-2.7856123"
     - :position: Midfielder
       :name: Adam Lallana
       :height: 68
@@ -2213,6 +2810,8 @@
       :birthdate: 05-10-1988
       :birthplace: St. Albans, England
       :current_club: Southampton (England)
+      :lat: '51.74837275'
+      :lon: "-0.316501954530582"
     - :position: Midfielder
       :name: Jordan Henderson
       :height: 72
@@ -2220,6 +2819,8 @@
       :birthdate: 06-17-1990
       :birthplace: Sunderland, England
       :current_club: Liverpool (England)
+      :lat: '54.9063791'
+      :lon: "-1.375053"
     - :position: Midfielder
       :name: Frank Lampard
       :height: 72
@@ -2227,6 +2828,8 @@
       :birthdate: 06-20-1978
       :birthplace: Romford, England
       :current_club: Chelsea (England)
+      :lat: '51.5760462'
+      :lon: '0.1822646'
     - :position: Midfielder
       :name: James Milner
       :height: 69
@@ -2234,6 +2837,8 @@
       :birthdate: 01-04-1986
       :birthplace: Wortley, England
       :current_club: Manchester City (England)
+      :lat: '51.6227322'
+      :lon: "-2.3394888"
     - :position: Midfielder
       :name: Alex Oxlade-Chamberlain
       :height: 71
@@ -2241,13 +2846,17 @@
       :birthdate: 08-15-1993
       :birthplace: Portsmouth, England
       :current_club: Arsenal (England)
+      :lat: '50.81842365'
+      :lon: "-1.08087406133344"
     - :position: Midfielder
       :name: Raheem Sterling
       :height: 67
-      :weight:
+      :weight: 
       :birthdate: 12-08-1994
       :birthplace: Kingston, Jamaica
       :current_club: Liverpool (England)
+      :lat: '17.9712148'
+      :lon: "-76.7928128"
     - :position: Midfielder
       :name: Jack Wilshere
       :height: 67
@@ -2255,6 +2864,8 @@
       :birthdate: 01-01-1992
       :birthplace: Stevenage, England
       :current_club: Arsenal (England)
+      :lat: '51.9035099'
+      :lon: "-0.2013368"
     - :position: Forward
       :name: Rickie Lambert
       :height: 74
@@ -2262,6 +2873,8 @@
       :birthdate: 02-16-1982
       :birthplace: Liverpool, England
       :current_club: Southampton (England)
+      :lat: '53.4054719'
+      :lon: "-2.9805393"
     - :position: Forward
       :name: Wayne Rooney
       :height: 69
@@ -2269,6 +2882,8 @@
       :birthdate: 10-24-1985
       :birthplace: Liverpool, England
       :current_club: Manchester United (England)
+      :lat: '53.4054719'
+      :lon: "-2.9805393"
     - :position: Forward
       :name: Daniel Sturridg
       :height: 74
@@ -2276,6 +2891,8 @@
       :birthdate: 09-01-1989
       :birthplace: Birmingham, England
       :current_club: Liverpool (England)
+      :lat: '52.4813679'
+      :lon: "-1.8980726"
     - :position: Forward
       :name: Danny Welbeck
       :height: 73
@@ -2283,6 +2900,8 @@
       :birthdate: 11-26-1990
       :birthplace: Manchester, England
       :current_club: Manchester United (England)
+      :lat: '53.4791466'
+      :lon: "-2.2447445"
     - :position: Goalkeeper
       :name: John Ruddy
       :height: 75
@@ -2290,20 +2909,26 @@
       :birthdate: 10-24-1986
       :birthplace: Cambridgeshire, England
       :current_club: Norwich City (England)
+      :lat: '52.333333'
+      :lon: '0.083333'
     - :position: Defender
       :name: Jon Flanagan
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 01-01-1993
-      :birthplace: Liverpoool, England 
+      :birthplace: Liverpoool, England
       :current_club: Liverpool (England)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: John Stones
       :height: 74
-      :weight:
+      :weight: 
       :birthdate: 05-28-1994
-      :birthplace: Barnsley, England 
+      :birthplace: Barnsley, England
       :current_club: Everton (England)
+      :lat: '53.5527719'
+      :lon: "-1.4827755"
     - :position: Midfielder
       :name: Michael Carrick
       :height: 74
@@ -2311,6 +2936,8 @@
       :birthdate: 07-28-1981
       :birthplace: Wallsend, England
       :current_club: Manchester United (England)
+      :lat: '54.9911912'
+      :lon: "-1.5342042"
     - :position: Forward
       :name: Andy Carroll
       :height: 75
@@ -2318,6 +2945,8 @@
       :birthdate: 01-06-1989
       :birthplace: Gateshead, England
       :current_club: West Ham United (England)
+      :lat: '54.9585535'
+      :lon: "-1.6057003"
     - :position: Forward
       :name: Jermain Defoe
       :height: 67
@@ -2325,7 +2954,8 @@
       :birthdate: 10-07-1982
       :birthplace: London, England
       :current_club: Toronto FC (USA)
-
+      :lat: '51.5072759'
+      :lon: "-0.1276597"
   - :name: Italy
     :players:
     - :position: Goalkeeper
@@ -2335,6 +2965,8 @@
       :birthdate: 01-28-1978
       :birthplace: Carrara, Italy
       :current_club: Juventus (Italy)
+      :lat: '44.0791804'
+      :lon: '10.1023532'
     - :position: Goalkeeper
       :name: Mattia Perin
       :height: 74
@@ -2342,6 +2974,8 @@
       :birthdate: 11-10-1992
       :birthplace: Latina, Italy
       :current_club: Genoa (Italy)
+      :lat: '41.4672589'
+      :lon: '12.9035737'
     - :position: Goalkeeper
       :name: Salvatore Sirigu
       :height: 75
@@ -2349,6 +2983,8 @@
       :birthdate: 01-12-1987
       :birthplace: Nuoro, Italy
       :current_club: Paris Saint-Germain (France)
+      :lat: '40.3210601'
+      :lon: '9.3297339'
     - :position: Defender
       :name: Ignazio Abate
       :height: 71
@@ -2356,6 +2992,8 @@
       :birthdate: 11-12-1986
       :birthplace: Sant Agata de Goti, Italy
       :current_club: AC Milan (Italy)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Andrea Barzagli
       :height: 73
@@ -2363,6 +3001,8 @@
       :birthdate: 05-08-1981
       :birthplace: Fiesole, Italy
       :current_club: Juventus (Italy)
+      :lat: '43.8066689'
+      :lon: '11.2930735'
     - :position: Defender
       :name: Leonardo Bonucci
       :height: 75
@@ -2370,6 +3010,8 @@
       :birthdate: 05-01-1987
       :birthplace: Viterbo, Italy
       :current_club: Juventus (Italy)
+      :lat: '42.4164974'
+      :lon: '12.1039438'
     - :position: Defender
       :name: Giorgio Chiellini
       :height: 73
@@ -2377,6 +3019,8 @@
       :birthdate: 08-14-1984
       :birthplace: Pisa, Italy
       :current_club: Juventus (Italy)
+      :lat: '43.715925'
+      :lon: '10.4018984'
     - :position: Defender
       :name: Matteo Darmian
       :height: 72
@@ -2384,6 +3028,8 @@
       :birthdate: 12-02-1989
       :birthplace: Legnano, Italy
       :current_club: Torino (Italy)
+      :lat: '45.5946985'
+      :lon: '8.9183595'
     - :position: Defender
       :name: Mattia De Sciglio
       :height: 72
@@ -2391,6 +3037,8 @@
       :birthdate: 10-02-1992
       :birthplace: Milan, Italy
       :current_club: AC Milan (Italy)
+      :lat: '45.4666211'
+      :lon: '9.1906166'
     - :position: Defender
       :name: Christian Maggio
       :height: 72
@@ -2398,6 +3046,8 @@
       :birthdate: 02-11-1982
       :birthplace: Montecchio Maggiore, Italy
       :current_club: Napoli (Italy)
+      :lat: '45.503692'
+      :lon: '11.411996'
     - :position: Defender
       :name: Gabriel Paletta
       :height: 75
@@ -2405,6 +3055,8 @@
       :birthdate: 02-15-1986
       :birthplace: Longchamps, Argentina
       :current_club: Parma (Italy)
+      :lat: "-34.85919"
+      :lon: "-58.3894206"
     - :position: Defender
       :name: Manuel Pasqual
       :height: 70
@@ -2412,6 +3064,8 @@
       :birthdate: 03-13-1982
       :birthplace: San Dona del Piave, Italy
       :current_club: Fiorentina (Italy)
+      :lat: '46.0641134'
+      :lon: '11.1275896'
     - :position: Defender
       :name: Andrea Ranocchia
       :height: 77
@@ -2419,6 +3073,8 @@
       :birthdate: 02-16-1988
       :birthplace: Assisi, Italy
       :current_club: Inter Milan (Italy)
+      :lat: '43.0711952'
+      :lon: '12.6146669'
     - :position: Midfielder
       :name: Alberto Aquilani
       :height: 73
@@ -2426,6 +3082,8 @@
       :birthdate: 07-07-1984
       :birthplace: Rome, Italy
       :current_club: Fiorentina (Italy)
+      :lat: '41.8932575'
+      :lon: '12.4830619'
     - :position: Midfielder
       :name: Antonio Candreva
       :height: 71
@@ -2433,6 +3091,8 @@
       :birthdate: 02-28-1987
       :birthplace: Rome, Italy
       :current_club: Lazio (Italy)
+      :lat: '41.8932575'
+      :lon: '12.4830619'
     - :position: Midfielder
       :name: Daniele De Rossi
       :height: 73
@@ -2440,6 +3100,8 @@
       :birthdate: 07-24-1983
       :birthplace: Rome, Italy
       :current_club: AS Roma (Italy)
+      :lat: '41.8932575'
+      :lon: '12.4830619'
     - :position: Midfielder
       :name: Claudio Marchisio
       :height: 70
@@ -2447,6 +3109,8 @@
       :birthdate: 01-19-1986
       :birthplace: Chieri, Italy
       :current_club: Juventus (Italy)
+      :lat: '45.013947'
+      :lon: '7.822326'
     - :position: Midfielder
       :name: Riccardo Montolivo
       :height: 72
@@ -2454,6 +3118,8 @@
       :birthdate: 01-18-1985
       :birthplace: Carvaggio, Italy
       :current_club: AC Milan (Italy)
+      :lat: '42.326164'
+      :lon: '12.2401528'
     - :position: Midfielder
       :name: Thiago Motta
       :height: 73
@@ -2461,6 +3127,8 @@
       :birthdate: 08-28-1982
       :birthplace: Sao Bernardo, Brazil
       :current_club: Paris Saint-Germain (France)
+      :lat: "-3.3650267"
+      :lon: "-42.4224814"
     - :position: Midfielder
       :name: Marco Parolo
       :height: 73
@@ -2468,6 +3136,8 @@
       :birthdate: 01-25-1985
       :birthplace: Gallarte, Italy
       :current_club: Parma (Italy)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Andrea Pirlo
       :height: 70
@@ -2475,6 +3145,8 @@
       :birthdate: 05-19-1979
       :birthplace: Brescia, Italy
       :current_club: Juventus (Italy)
+      :lat: '45.5398347'
+      :lon: '10.2195335'
     - :position: Midfielder
       :name: Romulo
       :height: 70
@@ -2482,6 +3154,8 @@
       :birthdate: 05-22-1987
       :birthplace: Pelotas, Brazil
       :current_club: Hellas Verona (Italy)
+      :lat: "-31.771696"
+      :lon: "-52.3419772"
     - :position: Midfielder
       :name: Marco Verratti
       :height: 65
@@ -2489,6 +3163,8 @@
       :birthdate: 11-05-1992
       :birthplace: Pescara, Italy
       :current_club: Paris Saint-Germain (France)
+      :lat: '42.4643778'
+      :lon: '14.2139431'
     - :position: Forward
       :name: Mario Balotelli
       :height: 74
@@ -2496,6 +3172,8 @@
       :birthdate: 08-12-1990
       :birthplace: Palermo, Italy
       :current_club: AC Milan (Italy)
+      :lat: '38.111051'
+      :lon: '13.335745'
     - :position: Forward
       :name: Antonio Cassano
       :height: 69
@@ -2503,6 +3181,8 @@
       :birthdate: 07-12-1982
       :birthplace: Bari, Italy
       :current_club: Parma (Italy)
+      :lat: '41.1256631'
+      :lon: '16.8619381'
     - :position: Forward
       :name: Alessio Cerci
       :height: 71
@@ -2510,6 +3190,8 @@
       :birthdate: 07-23-1987
       :birthplace: Velletri, Italy
       :current_club: Torino (Italy)
+      :lat: '41.669215'
+      :lon: '12.779287'
     - :position: Forward
       :name: Mattia Destro
       :height: 71
@@ -2517,6 +3199,8 @@
       :birthdate: 03-20-1991
       :birthplace: Ascoli, Italy
       :current_club: AS Roma (Italy)
+      :lat: '42.8546936'
+      :lon: '13.5863341'
     - :position: Forward
       :name: Ciro Immobile
       :height: 73
@@ -2524,6 +3208,8 @@
       :birthdate: 02-20-1990
       :birthplace: Torre Annunziata, Italy
       :current_club: Torino (Italy)
+      :lat: '40.749709'
+      :lon: '14.464636'
     - :position: Forward
       :name: Lorenzo Insigne
       :height: 64
@@ -2531,6 +3217,8 @@
       :birthdate: 06-04-1991
       :birthplace: Naples, Italy
       :current_club: Napoli (Italy)
+      :lat: '40.8506962'
+      :lon: '14.2463172'
     - :position: Forward
       :name: Giuseppe Rossi
       :height: 68
@@ -2538,7 +3226,8 @@
       :birthdate: 02-01-1987
       :birthplace: Teaneck, NJ, USA
       :current_club: Fiorentina (Italy)
-
+      :lat: '40.8975992'
+      :lon: "-74.0159727"
 - :group: E
   :teams:
   - :name: Switzerland
@@ -2550,6 +3239,8 @@
       :birthdate: 09-08-1983
       :birthplace: Zurich, Switzerland
       :current_club: Wolfsburg (Germany)
+      :lat: '47.3685586'
+      :lon: '8.5404434'
     - :position: Goalkeeper
       :name: Yann Sommer
       :height: 72
@@ -2557,6 +3248,8 @@
       :birthdate: 12-17-1988
       :birthplace: Morges, Switzerland
       :current_club: Basel (Switzerland)
+      :lat: '46.5093268'
+      :lon: '6.498317'
     - :position: Goalkeeper
       :name: Roman Burki
       :height: 73
@@ -2564,6 +3257,8 @@
       :birthdate: 11-14-1990
       :birthplace: Munsingen, Switzerland
       :current_club: Grasshoppers (Switzerland)
+      :lat: '46.8739775'
+      :lon: '7.5631943'
     - :position: Defender
       :name: Johan Djourou
       :height: 75
@@ -2571,6 +3266,8 @@
       :birthdate: 01-18-1987
       :birthplace: Abidjan, Ivory Coast
       :current_club: Hamburg (Germany)
+      :lat: '5.4091179'
+      :lon: "-4.0422099"
     - :position: Defender
       :name: Michael Lang
       :height: 73
@@ -2578,6 +3275,8 @@
       :birthdate: 02-08-1991
       :birthplace: Sankt Gallen, Switzerland
       :current_club: Grasshoppers (Switzerland)
+      :lat: '47.4250593'
+      :lon: '9.3765878'
     - :position: Defender
       :name: Stephan Lichtsteiner
       :height: 71
@@ -2585,6 +3284,8 @@
       :birthdate: 01-16-1984
       :birthplace: Adligenswil, Switzerland
       :current_club: Juventus (Italy)
+      :lat: '47.070535'
+      :lon: '8.368244'
     - :position: Defender
       :name: Ricardo Rodríguez
       :height: 71
@@ -2592,6 +3293,8 @@
       :birthdate: 08-25-1992
       :birthplace: Zurich, Switzerland
       :current_club: Wolfsburg (Germany)
+      :lat: '47.3685586'
+      :lon: '8.5404434'
     - :position: Defender
       :name: Fabian Schär
       :height: 73
@@ -2599,6 +3302,8 @@
       :birthdate: 12-20-1991
       :birthplace: Wil, Switzerland
       :current_club: Basel (Switzerland)
+      :lat: '47.4654409'
+      :lon: '9.0423202'
     - :position: Defender
       :name: Philippe Senderos
       :height: 75
@@ -2606,6 +3311,8 @@
       :birthdate: 02-14-1985
       :birthplace: Geneva, Switzerland
       :current_club: Valencia (Spain)
+      :lat: '46.2017559'
+      :lon: '6.1466014'
     - :position: Defender
       :name: Steve von Bergen
       :height: 73
@@ -2613,6 +3320,8 @@
       :birthdate: 06-10-1983
       :birthplace: Neuchâtel, Switzerland
       :current_club: Young Boys (Switzerland)
+      :lat: '46.9895435'
+      :lon: '6.9292679'
     - :position: Defender
       :name: Reto Ziegler
       :height: 72
@@ -2620,6 +3329,8 @@
       :birthdate: 01-16-1986
       :birthplace: Geneva, Switzerland
       :current_club: Sassuolo (Italy)
+      :lat: '46.2017559'
+      :lon: '6.1466014'
     - :position: Midfielder
       :name: Tranquillo Barnetta
       :height: 70
@@ -2627,6 +3338,8 @@
       :birthdate: 05-22-1985
       :birthplace: Sankt Gallen, Switzerland
       :current_club: Eintracht Frankfurt (Germany)
+      :lat: '47.4250593'
+      :lon: '9.3765878'
     - :position: Midfielder
       :name: Valon Behrami
       :height: 72
@@ -2634,6 +3347,8 @@
       :birthdate: 04-19-1985
       :birthplace: Mitrovica, Kosovo
       :current_club: Napoli (Italy)
+      :lat: '42.6547741'
+      :lon: '21.1657205'
     - :position: Midfielder
       :name: Blerim Dzemaili
       :height: 70
@@ -2641,6 +3356,8 @@
       :birthdate: 04-12-1986
       :birthplace: Tetovo, Macedonia
       :current_club: Napoli (Italy)
+      :lat: '42.0099697'
+      :lon: '20.9711401'
     - :position: Midfielder
       :name: Gelson Fernandes
       :height: 72
@@ -2648,6 +3365,8 @@
       :birthdate: 09-02-1986
       :birthplace: Praia, Cape Verde
       :current_club: Freiburg (Germany)
+      :lat: '14.9160169'
+      :lon: "-23.5096132"
     - :position: Midfielder
       :name: Gökhan Inler
       :height: 72
@@ -2655,6 +3374,8 @@
       :birthdate: 06-27-1984
       :birthplace: Olten, Switzerland
       :current_club: Napoli (Italy)
+      :lat: '47.3510234'
+      :lon: '7.904306'
     - :position: Midfielder
       :name: Xherdan Shaqiri
       :height: 66
@@ -2662,6 +3383,8 @@
       :birthdate: 10-10-1991
       :birthplace: Gjilan, Kosovo
       :current_club: Bayern Munich (Germany)
+      :lat: '42.4634051'
+      :lon: '21.468409'
     - :position: Midfielder
       :name: Valentin Stocker
       :height: 71
@@ -2669,6 +3392,8 @@
       :birthdate: 04-12-1989
       :birthplace: Kriens, Switzerland
       :current_club: Basel (Switzerland)
+      :lat: '47.0350948'
+      :lon: '8.2791767'
     - :position: Midfielder
       :name: Granit Xhaka
       :height: 73
@@ -2676,6 +3401,8 @@
       :birthdate: 09-27-1992
       :birthplace: Basel, Switzerland
       :current_club: Borussia Monchengladbach (Germany)
+      :lat: '47.5429886'
+      :lon: '7.5969912'
     - :position: Forward
       :name: Josip Drmić
       :height: 72
@@ -2683,6 +3410,8 @@
       :birthdate: 08-08-1992
       :birthplace: Freienbach, Switzerland
       :current_club: Nurnberg (Germany)
+      :lat: '47.2033168'
+      :lon: '8.7605715'
     - :position: Forward
       :name: Mario Gavranovic
       :height: 69
@@ -2690,13 +3419,17 @@
       :birthdate: 11-24-1989
       :birthplace: Lugano, Switzerland
       :current_club: FC Zurich (Switzerland)
+      :lat: '46.004971'
+      :lon: '8.9520378'
     - :position: Forward
       :name: Haris Seferovic
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 02-22-1992
-      :birthplace: Sursee, Switzerland 
+      :birthplace: Sursee, Switzerland
       :current_club: Real Sociedad (Spain)
+      :lat: '47.1774826'
+      :lon: '8.1097935'
     - :position: Forward
       :name: Admir Mehmedi
       :height: 72
@@ -2704,7 +3437,8 @@
       :birthdate: 03-16-1991
       :birthplace: Gostivar, Macedonia
       :current_club: Freiburg (Germany)
-
+      :lat: '41.7942579'
+      :lon: '20.9081193'
   - :name: Ecuador
     :players:
     - :position: Goalkeeper
@@ -2714,6 +3448,8 @@
       :birthdate: 12-16-1986
       :birthplace: Guayaquil, Ecuador
       :current_club: Barcelona (Ecuador)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Goalkeeper
       :name: Adrián Bone
       :height: 74
@@ -2721,6 +3457,8 @@
       :birthdate: 09-08-1988
       :birthplace: Esmeraldas, Ecuador
       :current_club: El Nacional (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Goalkeeper
       :name: Alexander Domínguez
       :height: 76
@@ -2728,6 +3466,8 @@
       :birthdate: 06-05-1987
       :birthplace: Tachina, Ecuador
       :current_club: LDU Quito (Ecuador)
+      :lat: '0.9629843'
+      :lon: "-79.6284561"
     - :position: Defender
       :name: Gabriel Achilier
       :height: 71
@@ -2742,13 +3482,17 @@
       :birthdate: 08-11-1979
       :birthplace: Esmeraldas, Ecuador
       :current_club: Pachuca (Mexico)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
-      :name: Óscar Bagüí
+      :name: "Óscar Bagüí"
       :height: 68
       :weight: 143
       :birthdate: 12-10-1982
       :birthplace: Esmeraldas, Ecuador
       :current_club: Emelec (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
       :name: Frickson Erazo
       :height: 71
@@ -2756,6 +3500,8 @@
       :birthdate: 05-05-1988
       :birthplace: Esmeraldas, Ecuador
       :current_club: Flamengo (Brazil)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
       :name: Jorge Guagua
       :height: 70
@@ -2763,6 +3509,8 @@
       :birthdate: 09-28-1981
       :birthplace: Esmeraldas, Ecuador
       :current_club: Emelec (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
       :name: John Narvaez
       :height: 72
@@ -2770,6 +3518,8 @@
       :birthdate: 06-12-1991
       :birthplace: Esmeraldas, Ecuador
       :current_club: Emelec (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
       :name: Juan Carlos Paredes
       :height: 69
@@ -2777,6 +3527,8 @@
       :birthdate: 07-08-1987
       :birthplace: Esmeraldas, Ecuador
       :current_club: Barcelona (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Defender
       :name: Cristian Ramírez
       :height: 67
@@ -2784,6 +3536,8 @@
       :birthdate: 08-12-1994
       :birthplace: Santo Domingo, Ecuador
       :current_club: Fortuna Dusseldorf (Germany)
+      :lat: "-1.916667"
+      :lon: "-79.816667"
     - :position: Midfielder
       :name: Michael Arroyo
       :height: 70
@@ -2791,6 +3545,8 @@
       :birthdate: 04-23-1987
       :birthplace: Guayaquil, Ecuador
       :current_club: Atlante (Mexico)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Midfielder
       :name: Segundo Castillo
       :height: 71
@@ -2798,6 +3554,8 @@
       :birthdate: 05-15-1982
       :birthplace: San Lorenzo, Ecuador
       :current_club: Al-Hilal (Saudi Arabia)
+      :lat: "-1.6819378"
+      :lon: "-79.0021501"
     - :position: Midfielder
       :name: Carlos Gruezo
       :height: 67
@@ -2805,13 +3563,17 @@
       :birthdate: 04-19-1995
       :birthplace: Guayaquil, Ecuador
       :current_club: Stuttgart (Germany)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Midfielder
       :name: Renato Ibarra
       :height: 67
-      :weight:
+      :weight: 
       :birthdate: 01-20-1991
       :birthplace: Ambuqui, Ecuador
       :current_club: Vitesse (Netherlands)
+      :lat: '0.4309879'
+      :lon: "-78.0094177"
     - :position: Forward
       :name: Fidel Martínez
       :height: 69
@@ -2819,13 +3581,17 @@
       :birthdate: 02-15-1990
       :birthplace: Shushufindi, Ecuador
       :current_club: Club Tijuana (Mexico)
+      :lat: "-0.1853134"
+      :lon: "-76.6458401"
     - :position: Midfielder
-      :name: Édison Méndez
+      :name: "Édison Méndez"
       :height: 69
       :weight: 150
       :birthdate: 03-16-1979
       :birthplace: El Chota, Ecuador
       :current_club: Santa Fe (Colombia)
+      :lat: '0.4729006'
+      :lon: "-78.0651677"
     - :position: Midfielder
       :name: Oswaldo Minda
       :height: 72
@@ -2833,6 +3599,8 @@
       :birthdate: 07-07-1983
       :birthplace: Pasaje, Ecuador
       :current_club: Chivas USA (USA)
+      :lat: "-1.18416"
+      :lon: "-79.9164724"
     - :position: Midfielder
       :name: Christian Noboa
       :height: 71
@@ -2840,6 +3608,8 @@
       :birthdate: 04-09-1985
       :birthplace: Guayaquil, Ecuador
       :current_club: Dynamo Moscow (Russia)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Midfielder
       :name: Pedro Quiñónez
       :height: 67
@@ -2847,6 +3617,8 @@
       :birthdate: 03-04-1986
       :birthplace: Esmeraldas, Ecuador
       :current_club: Emelec (Ecuador)
+      :lat: '0.7343619'
+      :lon: "-79.3858867"
     - :position: Midfielder
       :name: Luis Saritama
       :height: 68
@@ -2854,6 +3626,8 @@
       :birthdate: 10-20-1983
       :birthplace: Loja, Ecuador
       :current_club: Barcelona (Ecuador)
+      :lat: "-3.9967311"
+      :lon: "-79.2015997"
     - :position: Midfielder
       :name: Antonio Valencia
       :height: 71
@@ -2861,6 +3635,8 @@
       :birthdate: 08-04-1985
       :birthplace: Lago Agrio, Ecuador
       :current_club: Manchester United (England)
+      :lat: '0.0849558'
+      :lon: "-76.883504"
     - :position: Forward
       :name: Jaime Ayoví
       :height: 72
@@ -2868,6 +3644,8 @@
       :birthdate: 02-21-1988
       :birthplace: Atahulpa, Ecuador
       :current_club: Club Tijuana (Mexico)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Felipe Caicedo
       :height: 75
@@ -2875,6 +3653,8 @@
       :birthdate: 09-05-1988
       :birthplace: Guayaquil, Ecuador
       :current_club: Al-Jazira (United Arab Emirates)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Midfielder
       :name: Angel Mena
       :height: 66
@@ -2882,6 +3662,8 @@
       :birthdate: 01-21-1988
       :birthplace: Guayaquil, Ecuador
       :current_club: Emelec (Ecuador)
+      :lat: "-2.2010072"
+      :lon: "-79.8818938"
     - :position: Midfielder
       :name: Jefferson Montero
       :height: 67
@@ -2889,6 +3671,8 @@
       :birthdate: 09-01-1989
       :birthplace: Babahoyo, Ecuador
       :current_club: Morelia (Mexico)
+      :lat: "-1.8074809"
+      :lon: "-79.5282612"
     - :position: Midfielder
       :name: Cristian Penilla
       :height: 69
@@ -2896,6 +3680,8 @@
       :birthdate: 05-02-1991
       :birthplace: Eloy Alfaro, Ecuador
       :current_club: Barcelona (Ecuador)
+      :lat: "-0.4"
+      :lon: "-80.083333"
     - :position: Midfielder
       :name: Joao Rojas
       :height: 68
@@ -2903,6 +3689,8 @@
       :birthdate: 06-14-1989
       :birthplace: La Troncal, Ecuador
       :current_club: Cruz Azul (Mexico)
+      :lat: "-2.4185449"
+      :lon: "-79.337325"
     - :position: Forward
       :name: Enner Valencia
       :height: 69
@@ -2910,14 +3698,17 @@
       :birthdate: 11-04-1989
       :birthplace: San Lorenzo, Ecuador
       :current_club: Pachuca (Mexico)
+      :lat: "-1.6819378"
+      :lon: "-79.0021501"
     - :position: Forward
       :name: Armando Wila
-      :height:
-      :weight:
-      :birthdate: 05-12-1985 
-      :birthplace: San Lorenzo, Ecuador 
+      :height: 
+      :weight: 
+      :birthdate: 05-12-1985
+      :birthplace: San Lorenzo, Ecuador
       :current_club: Universidad Catolica (Ecuador)
-
+      :lat: "-1.6819378"
+      :lon: "-79.0021501"
   - :name: France
     :players:
     - :position: Goalkeeper
@@ -2927,6 +3718,8 @@
       :birthdate: 05-14-1979
       :birthplace: Machecoul, France
       :current_club: Bastia (France)
+      :lat: '46.9923401'
+      :lon: "-1.8174743"
     - :position: Goalkeeper
       :name: Hugo Lloris
       :height: 74
@@ -2934,6 +3727,8 @@
       :birthdate: 12-26-1986
       :birthplace: Nice, France
       :current_club: Tottenham Hotspur (England)
+      :lat: '43.7009358'
+      :lon: '7.2683912'
     - :position: Defender
       :name: Mathieu Debuchy
       :height: 69
@@ -2941,6 +3736,8 @@
       :birthdate: 07-28-1985
       :birthplace: Fretin, France
       :current_club: Newcastle United (England)
+      :lat: '50.565'
+      :lon: '3.13244'
     - :position: Defender
       :name: Lucas Digne
       :height: 70
@@ -2948,6 +3745,8 @@
       :birthdate: 07-20-1993
       :birthplace: Meaux, France
       :current_club: Paris Saint-Germain (France)
+      :lat: '48.9589146'
+      :lon: '2.8964865'
     - :position: Defender
       :name: Patrice Evra
       :height: 69
@@ -2955,6 +3754,8 @@
       :birthdate: 05-15-1981
       :birthplace: Dakar, Senegal
       :current_club: Manchester United (England)
+      :lat: '14.6930042'
+      :lon: "-17.447026"
     - :position: Defender
       :name: Laurent Koscielny
       :height: 73
@@ -2962,6 +3763,8 @@
       :birthdate: 09-10-1985
       :birthplace: Tulle, France
       :current_club: Arsenal (England)
+      :lat: '45.2678158'
+      :lon: '1.7706904'
     - :position: Defender
       :name: Eliaquim Mangala
       :height: 74
@@ -2969,6 +3772,8 @@
       :birthdate: 02-13-1991
       :birthplace: Paris, France
       :current_club: Porto (Portugal)
+      :lat: '48.8565056'
+      :lon: '2.3521334'
     - :position: Defender
       :name: Bacary Sagna
       :height: 69
@@ -2976,6 +3781,8 @@
       :birthdate: 02-14-1983
       :birthplace: Sens, France
       :current_club: Arsenal (England)
+      :lat: '48.1965513'
+      :lon: '3.2838015'
     - :position: Defender
       :name: Mamadou Sakho
       :height: 73
@@ -2983,6 +3790,8 @@
       :birthdate: 02-13-1990
       :birthplace: Paris, France
       :current_club: Liverpool (England)
+      :lat: '48.8565056'
+      :lon: '2.3521334'
     - :position: Defender
       :name: Raphaël Varane
       :height: 75
@@ -2990,6 +3799,8 @@
       :birthdate: 04-25-1993
       :birthplace: Lille, France
       :current_club: Real Madrid (Spain)
+      :lat: '50.6305089'
+      :lon: '3.0706414'
     - :position: Midfielder
       :name: Yohan Cabaye
       :height: 69
@@ -2997,6 +3808,8 @@
       :birthdate: 01-14-1986
       :birthplace: Tourcoing, France
       :current_club: Paris Saint-Germain (France)
+      :lat: '50.7217304'
+      :lon: '3.1593082'
     - :position: Midfielder
       :name: Clément Grenier
       :height: 73
@@ -3004,6 +3817,8 @@
       :birthdate: 01-07-1991
       :birthplace: Annonay, France
       :current_club: Lyon (France)
+      :lat: '45.2399639'
+      :lon: '4.6675475'
     - :position: Midfielder
       :name: Blaise Matuidi
       :height: 69
@@ -3011,6 +3826,8 @@
       :birthdate: 04-09-1987
       :birthplace: Toulouse, France
       :current_club: Paris Saint-Germain (France)
+      :lat: '43.6044622'
+      :lon: '1.4442469'
     - :position: Midfielder
       :name: Rio Mavuba
       :height: 68
@@ -3025,6 +3842,8 @@
       :birthdate: 03-15-1993
       :birthplace: Langny-sur-Marne, France
       :current_club: Juventus (Italy)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Moussa Sissoko
       :height: 73
@@ -3032,6 +3851,8 @@
       :birthdate: 08-16-1989
       :birthplace: Le Blanc-Mesnil, Mali
       :current_club: Newcastle United (England)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Mathieu Valbuena
       :height: 66
@@ -3039,6 +3860,8 @@
       :birthdate: 09-28-1984
       :birthplace: Bruges, France
       :current_club: Marseille (France)
+      :lat: '44.8909958'
+      :lon: "-0.6074428"
     - :position: Forward
       :name: Karim Benzema
       :height: 72
@@ -3046,6 +3869,8 @@
       :birthdate: 12-19-1987
       :birthplace: Lyon, France
       :current_club: Real Madrid (Spain)
+      :lat: '45.7575958'
+      :lon: '4.8323239'
     - :position: Forward
       :name: Olivier Giroud
       :height: 76
@@ -3053,6 +3878,8 @@
       :birthdate: 09-30-1986
       :birthplace: Chambéry, France
       :current_club: Arsenal (England)
+      :lat: '45.5662672'
+      :lon: '5.9203636'
     - :position: Midfielder
       :name: Antoine Griezmann
       :height: 69
@@ -3060,6 +3887,8 @@
       :birthdate: 03-21-1991
       :birthplace: Mâcon, France
       :current_club: Real Sociedad (Spain)
+      :lat: '46.3034503'
+      :lon: '4.8325066'
     - :position: Forward
       :name: Loïc Rémy
       :height: 72
@@ -3067,6 +3896,8 @@
       :birthdate: 01-02-1987
       :birthplace: Lyon, France
       :current_club: Queens Park Rangers (England)
+      :lat: '45.7575958'
+      :lon: '4.8323239'
     - :position: Midfielder
       :name: Franck Ribéry
       :height: 67
@@ -3074,6 +3905,8 @@
       :birthdate: 04-07-1983
       :birthplace: Boulogne-sur-Mer, France
       :current_club: Bayern Munich (Germany)
+      :lat: '50.7259985'
+      :lon: '1.6118771'
     - :position: Midfielder
       :name: Rémy Cabella
       :height: 68
@@ -3081,6 +3914,8 @@
       :birthdate: 03-08-1990
       :birthplace: Ajaccio, France
       :current_club: Montpellier (France)
+      :lat: '41.9263991'
+      :lon: '8.7376029'
     - :position: Midfielder
       :name: Maxime Gonalons
       :height: 73
@@ -3088,6 +3923,8 @@
       :birthdate: 03-10-1989
       :birthplace: Vénissieux, France
       :current_club: Lyon (France)
+      :lat: '45.7036'
+      :lon: '4.88079'
     - :position: Forward
       :name: Alexandre Lacazette
       :height: 69
@@ -3095,6 +3932,8 @@
       :birthdate: 05-28-1991
       :birthplace: Lyon, France
       :current_club: Lyon (France)
+      :lat: '45.7575958'
+      :lon: '4.8323239'
     - :position: Defender
       :name: Loic Perrin
       :height: 71
@@ -3102,6 +3941,8 @@
       :birthdate: 08-07-1985
       :birthplace: Saint-Etienne, France
       :current_club: Saint-Etienne (France)
+      :lat: '45.4401467'
+      :lon: '4.3873058'
     - :position: Goalkeeper
       :name: Stéphane Ruffier
       :height: 74
@@ -3109,6 +3950,8 @@
       :birthdate: 09-27-1986
       :birthplace: Bayonne, France
       :current_club: Saint-Etienne (France)
+      :lat: '43.4933379'
+      :lon: "-1.475099"
     - :position: Midfielder
       :name: Morgan Schneiderlin
       :height: 71
@@ -3116,6 +3959,8 @@
       :birthdate: 11-08-1989
       :birthplace: Zellwiller, France
       :current_club: Southampton (England)
+      :lat: '48.3986453'
+      :lon: '7.4986205'
     - :position: Defender
       :name: Benoit Tremoulinas
       :height: 68
@@ -3123,7 +3968,8 @@
       :birthdate: 12-28-1985
       :birthplace: Bordeaux, France
       :current_club: Saint-Etienne (France)
-
+      :lat: '44.841225'
+      :lon: "-0.5800364"
   - :name: Honduras
     :players:
     - :position: Goalkeeper
@@ -3133,6 +3979,8 @@
       :birthdate: 05-03-1977
       :birthplace: Comayagua, Honduras
       :current_club: Olimpia (Honduras)
+      :lat: '14.4529546'
+      :lon: "-87.6364117"
     - :position: Goalkeeper
       :name: Donis Escober
       :height: 71
@@ -3140,27 +3988,35 @@
       :birthdate: 03-02-1981
       :birthplace: San Ignacio, Honduras
       :current_club: Olimpia (Honduras)
+      :lat: '14.0775839'
+      :lon: "-87.1802766"
     - :position: Goalkeeper
       :name: Luis Lopez
       :height: 72
-      :weight:
+      :weight: 
       :birthdate: 09-13-1993
-      :birthplace: San Pedro Sula, Honduras 
+      :birthplace: San Pedro Sula, Honduras
       :current_club: Real Espana (Honduras)
+      :lat: '15.5051924'
+      :lon: "-88.025321"
     - :position: Midfielder
       :name: Arnold Peralta
       :height: 68
-      :weight:
+      :weight: 
       :birthdate: 05-29-1989
-      :birthplace: La Ceiba, Honduras 
+      :birthplace: La Ceiba, Honduras
       :current_club: Rangers (Scotland)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Defender
       :name: Brayan Beckeles
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 11-28-1985
-      :birthplace: La Ceiba, Honduras 
+      :birthplace: La Ceiba, Honduras
       :current_club: Olimpia (Honduras)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Defender
       :name: Maynor Figueroa
       :height: 71
@@ -3168,6 +4024,8 @@
       :birthdate: 05-02-1983
       :birthplace: Jutiapa, Honduras
       :current_club: Hull City (England)
+      :lat: '15.740887'
+      :lon: "-86.5104494"
     - :position: Defender
       :name: Víctor Bernárdez
       :height: 73
@@ -3175,13 +4033,17 @@
       :birthdate: 05-24-1982
       :birthplace: La Ceiba, Honduras
       :current_club: San Jose Earthquakes (USA)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Defender
       :name: Juan Pablo Montes
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 10-26-1985
-      :birthplace: Sulaco, Honduras 
+      :birthplace: Sulaco, Honduras
       :current_club: Motagua (Honduras)
+      :lat: '14.9071999'
+      :lon: "-87.2633972"
     - :position: Defender
       :name: Emilio Izaguirre
       :height: 70
@@ -3189,6 +4051,8 @@
       :birthdate: 05-10-1986
       :birthplace: Tegucigalpa, Honduras
       :current_club: Celtic (Scotland)
+      :lat: '14.0931919'
+      :lon: "-87.2012631"
     - :position: Defender
       :name: Osman Chávez
       :height: 73
@@ -3196,27 +4060,33 @@
       :birthdate: 07-29-1984
       :birthplace: Santa Fé, Honduras
       :current_club: Quingdao Jonoon (China)
+      :lat: "-32.8258179"
+      :lon: "-61.4066729"
     - :position: Defender
       :name: Juan Carlos García
       :height: 74
-      :weight:
-      :birthdate: 03-08-1988 
-      :birthplace:
+      :weight: 
+      :birthdate: 03-08-1988
+      :birthplace: 
       :current_club: Wigan Athletic (England)
     - :position: Midfielder
       :name: Jorge Claros
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 01-08-1986
-      :birthplace: Puerto Cortés, Honduras 
+      :birthplace: Puerto Cortés, Honduras
       :current_club: Motagua (Honduras)
+      :lat: '15.845293'
+      :lon: "-87.9438054"
     - :position: Midfielder
       :name: Luis Garrido
       :height: 67
-      :weight:
+      :weight: 
       :birthdate: 11-05-1990
-      :birthplace: Jutiquile, Honduras 
+      :birthplace: Jutiquile, Honduras
       :current_club: Olimpia (Honduras)
+      :lat: '14.7432601'
+      :lon: "-86.0952627"
     - :position: Midfielder
       :name: Boniek García
       :height: 72
@@ -3224,6 +4094,8 @@
       :birthdate: 09-04-1984
       :birthplace: Tegucigalpa, Honduras
       :current_club: Houston Dynamo (USA)
+      :lat: '14.0931919'
+      :lon: "-87.2012631"
     - :position: Midfielder
       :name: Andy Najar
       :height: 67
@@ -3231,6 +4103,8 @@
       :birthdate: 03-16-1993
       :birthplace: Choluteca, Honduras
       :current_club: Anderlecht (Belgium)
+      :lat: '13.3004719'
+      :lon: "-87.1845919"
     - :position: Midfielder
       :name: Roger Espinoza
       :height: 70
@@ -3238,6 +4112,8 @@
       :birthdate: 10-25-1986
       :birthplace: Puerto Cortés, Honduras
       :current_club: Wigan Athletic (England)
+      :lat: '15.845293'
+      :lon: "-87.9438054"
     - :position: Midfielder
       :name: Marvin Chávez
       :height: 65
@@ -3245,6 +4121,8 @@
       :birthdate: 11-03-1983
       :birthplace: La Ceiba, Honduras
       :current_club: Colorado Rapids (USA)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Midfielder
       :name: Wilson Palacios
       :height: 70
@@ -3252,6 +4130,8 @@
       :birthdate: 07-29-1984
       :birthplace: La Ceiba, Honduras
       :current_club: Stoke City (England)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Midfielder
       :name: Mario Martínez
       :height: 68
@@ -3259,13 +4139,17 @@
       :birthdate: 07-30-1989
       :birthplace: San Pedro de Sula, Honduras
       :current_club: Real Espana (Honduras)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Rony Martinez
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 08-16-1988
-      :birthplace: Olanchito, Honduras 
+      :birthplace: Olanchito, Honduras
       :current_club: Real Sociedad (Honduras)
+      :lat: '15.4814724'
+      :lon: "-86.5743436"
     - :position: Forward
       :name: Jerry Bengtson
       :height: 73
@@ -3273,6 +4157,8 @@
       :birthdate: 04-08-1987
       :birthplace: Santa Rosa de Aguán, Honduras
       :current_club: New England Revolution (USA)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Jerry Palacios
       :height: 72
@@ -3280,6 +4166,8 @@
       :birthdate: 05-13-1982
       :birthplace: La Ceiba, Honduras
       :current_club: Alajuelense (Costa Rica)
+      :lat: '15.7800929'
+      :lon: "-86.788875"
     - :position: Forward
       :name: Carlo Costly
       :height: 74
@@ -3287,7 +4175,8 @@
       :birthdate: 07-18-1982
       :birthplace: San Pedro Sula, Honduras
       :current_club: Real Espana (Honduras)
-
+      :lat: '15.5051924'
+      :lon: "-88.025321"
 - :group: F
   :teams:
   - :name: Argentina
@@ -3299,6 +4188,8 @@
       :birthdate: 02-22-1987
       :birthplace: Bernardo de Irigoyen, Argentina
       :current_club: AS Monaco (France)
+      :lat: "-26.253267"
+      :lon: "-53.6470692"
     - :position: Goalkeeper
       :name: Mariano Andújar
       :height: 76
@@ -3306,6 +4197,8 @@
       :birthdate: 07-30-1983
       :birthplace: Buenos Aires, Argentina
       :current_club: Catania (Italy)
+      :lat: "-34.612869"
+      :lon: "-58.4459789"
     - :position: Goalkeeper
       :name: Agustín Orión
       :height: 75
@@ -3313,6 +4206,8 @@
       :birthdate: 07-26-1981
       :birthplace: Ramos Mejía, Argentina
       :current_club: Boca Juniors (Argentina)
+      :lat: "-34.65304335"
+      :lon: "-58.5553830091844"
     - :position: Defender
       :name: Ezequiel Garay
       :height: 74
@@ -3320,6 +4215,8 @@
       :birthdate: 10-10-1986
       :birthplace: Rosario, Argentina
       :current_club: Benfica (Portugal)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Defender
       :name: Federico Fernández
       :height: 74
@@ -3327,6 +4224,8 @@
       :birthdate: 02-21-1989
       :birthplace: Tres Algarrobos, Argentina
       :current_club: Napoli (Italy)
+      :lat: "-35.1960061"
+      :lon: "-62.7729639"
     - :position: Defender
       :name: Pablo Zabaleta
       :height: 69
@@ -3334,6 +4233,8 @@
       :birthdate: 01-16-1985
       :birthplace: Capital Federal, Argentina
       :current_club: Manchester City (England)
+      :lat: "-34.6160193"
+      :lon: "-58.435556022292"
     - :position: Defender
       :name: Marcos Rojo
       :height: 72
@@ -3341,6 +4242,8 @@
       :birthdate: 03-20-1990
       :birthplace: La Plata, Argentina
       :current_club: Sporting Lisbon (Portugal)
+      :lat: "-34.921136"
+      :lon: "-57.954384"
     - :position: Defender
       :name: José María Basanta
       :height: 74
@@ -3348,6 +4251,8 @@
       :birthdate: 04-03-1984
       :birthplace: Tres Sargentos, Argentina
       :current_club: Monterrey (Mexico)
+      :lat: "-34.4670175"
+      :lon: "-60.0008939"
     - :position: Defender
       :name: Hugo Campagnaro
       :height: 71
@@ -3355,6 +4260,8 @@
       :birthdate: 06-27-1980
       :birthplace: Río Cuarto, Argentina
       :current_club: Inter Milan (Italy)
+      :lat: "-33.123877"
+      :lon: "-64.3479669"
     - :position: Defender
       :name: Nicolás Otamendi
       :height: 70
@@ -3362,6 +4269,8 @@
       :birthdate: 02-12-1988
       :birthplace: Buenos Aires, Argentina
       :current_club: Atletico Mineiro (Brazil)
+      :lat: "-34.612869"
+      :lon: "-58.4459789"
     - :position: Defender
       :name: Martin Demichelis
       :height: 72
@@ -3369,6 +4278,8 @@
       :birthdate: 12-20-1980
       :birthplace: Justiniano Posse, Argentina
       :current_club: Manchester City (England)
+      :lat: "-32.8836301"
+      :lon: "-62.679785"
     - :position: Defender
       :name: Gabriel Mercado
       :height: 71
@@ -3376,6 +4287,8 @@
       :birthdate: 03-18-1987
       :birthplace: Puerto Madryn, Argentina
       :current_club: River Plate (Argentina)
+      :lat: "-42.7729674"
+      :lon: "-65.0366104"
     - :position: Defender
       :name: Lisandro López
       :height: 73
@@ -3383,6 +4296,8 @@
       :birthdate: 09-01-1989
       :birthplace: Villa Constitución, Argentina
       :current_club: Getafe (Spain)
+      :lat: "-34.669084"
+      :lon: "-58.4231637588564"
     - :position: Midfielder
       :name: Fernando Gago
       :height: 69
@@ -3390,6 +4305,8 @@
       :birthdate: 04-10-1986
       :birthplace: Buenos Aires, Argentina
       :current_club: Boca Juniors (Argentina)
+      :lat: "-34.612869"
+      :lon: "-58.4459789"
     - :position: Midfielder
       :name: Lucas Biglia
       :height: 70
@@ -3397,6 +4314,8 @@
       :birthdate: 01-30-1986
       :birthplace: Mercedes, Argentina
       :current_club: Lazio (Italy)
+      :lat: "-34.6497581"
+      :lon: "-59.4318425"
     - :position: Midfielder
       :name: Javier Mascherano
       :height: 69
@@ -3404,20 +4323,26 @@
       :birthdate: 06-08-1984
       :birthplace: San Lorenzo, Argentina
       :current_club: Barcelona (Spain)
+      :lat: "-32.7434258"
+      :lon: "-60.7496742"
     - :position: Midfielder
-      :name: Éver Banega
+      :name: "Éver Banega"
       :height: 69
       :weight: 152
       :birthdate: 06-29-1988
       :birthplace: Rosario, Argentina
       :current_club: Newells Old Boys (Argentina)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Midfielder
-      :name: Ángel di María
+      :name: "Ángel di María"
       :height: 70
       :weight: 165
       :birthdate: 02-14-1988
       :birthplace: Rosario, Argentina
       :current_club: Real Madrid (Spain)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Midfielder
       :name: Maxi Rodríguez
       :height: 71
@@ -3425,6 +4350,8 @@
       :birthdate: 01-02-1981
       :birthplace: Rosario, Argentina
       :current_club: Newells Old Boys (Argentina)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Midfielder
       :name: Ricky Álvarez
       :height: 74
@@ -3432,6 +4359,8 @@
       :birthdate: 04-12-1988
       :birthplace: Capital Federal, Argentina
       :current_club: Inter Milan (Italy)
+      :lat: "-34.6160193"
+      :lon: "-58.435556022292"
     - :position: Midfielder
       :name: Augusto Fernández
       :height: 70
@@ -3439,6 +4368,8 @@
       :birthdate: 04-10-1986
       :birthplace: Pergamino, Argentina
       :current_club: Celta Vigo (Spain)
+      :lat: "-33.8963323"
+      :lon: "-60.571117"
     - :position: Midfielder
       :name: Enzo Perez
       :height: 70
@@ -3446,6 +4377,8 @@
       :birthdate: 02-22-1986
       :birthplace: Mendoza, Argentina
       :current_club: Benfica (Portugal)
+      :lat: "-34.8700721"
+      :lon: "-68.5479966"
     - :position: Midfielder
       :name: José Ernesto Sosa
       :height: 70
@@ -3453,6 +4386,8 @@
       :birthdate: 06-19-1985
       :birthplace: Carcarañá, Argentina
       :current_club: Atletico Madrid (Spain)
+      :lat: "-32.8567709"
+      :lon: "-61.1507568"
     - :position: Midfielder
       :name: Fabian Rinuado
       :height: 69
@@ -3460,6 +4395,8 @@
       :birthdate: 05-08-1987
       :birthplace: Armstrong, Argentina
       :current_club: Catania (Italy)
+      :lat: "-32.785214"
+      :lon: "-61.6030193"
     - :position: Forward
       :name: Sergio Agüero
       :height: 68
@@ -3467,6 +4404,8 @@
       :birthdate: 06-02-1988
       :birthplace: Quilmes, Argentina
       :current_club: Manchester City (England)
+      :lat: "-34.720278"
+      :lon: "-58.269444"
     - :position: Forward
       :name: Lionel Messi
       :height: 67
@@ -3474,6 +4413,8 @@
       :birthdate: 06-24-1987
       :birthplace: Rosario, Argentina
       :current_club: Barcelona (Spain)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Forward
       :name: Gonzalo Higuaín
       :height: 72
@@ -3481,6 +4422,8 @@
       :birthdate: 12-10-1987
       :birthplace: Brest, France
       :current_club: Napoli (Italy)
+      :lat: '48.3905283'
+      :lon: "-4.4860088"
     - :position: Forward
       :name: Ezequiel Lavezzi
       :height: 68
@@ -3488,6 +4431,8 @@
       :birthdate: 05-03-1985
       :birthplace: Rosario, Argentina
       :current_club: Paris Saint-Germain (France)
+      :lat: "-32.9595004"
+      :lon: "-60.6615415"
     - :position: Forward
       :name: Rodrigo Palacio
       :height: 69
@@ -3495,6 +4440,8 @@
       :birthdate: 02-05-1982
       :birthplace: Bahía Blanca, Argentina
       :current_club: Inter Milan (Italy)
+      :lat: "-38.7176804"
+      :lon: "-62.2654621"
     - :position: Forward
       :name: Franco Di Santo
       :height: 76
@@ -3502,7 +4449,8 @@
       :birthdate: 04-07-1989
       :birthplace: Mendoza, Argentina
       :current_club: Werder Bremen (Germany)
-
+      :lat: "-34.8700721"
+      :lon: "-68.5479966"
   - :name: Bosnia and Herzegovina
     :players:
     - :position: Goalkeeper
@@ -3512,6 +4460,8 @@
       :birthdate: 06-20-1987
       :birthplace: Trebinje, Bosnia and Herzegovina
       :current_club: Stoke City (England)
+      :lat: '42.7107972'
+      :lon: '18.346882'
     - :position: Goalkeeper
       :name: Jasmin Fejzić
       :height: 78
@@ -3519,13 +4469,17 @@
       :birthdate: 05-15-1986
       :birthplace: Tupković, Bosnia and Herzegovina
       :current_club: VfR Aalen (Germany)
+      :lat: '44.4031681'
+      :lon: '18.7933185'
     - :position: Goalkeeper
       :name: Asmir Avdukić
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 05-13-1981
-      :birthplace: Breza, Bosnia and Herzegovina 
+      :birthplace: Breza, Bosnia and Herzegovina
       :current_club: FK Borac Banja Luka
+      :lat: '44.0183108'
+      :lon: '18.2608208'
     - :position: Defender
       :name: Emir Spahić
       :height: 73
@@ -3533,13 +4487,17 @@
       :birthdate: 08-18-1980
       :birthplace: Dubrovnik, Croatia
       :current_club: Bayer Leverkusen (Germany)
+      :lat: '42.6410337'
+      :lon: '18.1089717'
     - :position: Defender
       :name: Toni Sunjic
       :height: 75
-      :weight:
+      :weight: 
       :birthdate: 12-15-1988
-      :birthplace: Mostar, Bosnia and Herzegovina 
+      :birthplace: Mostar, Bosnia and Herzegovina
       :current_club: FC Zorya Lugansk (Ukraine)
+      :lat: '43.3373244'
+      :lon: '17.8145581'
     - :position: Defender
       :name: Sead Kolasinac
       :height: 72
@@ -3547,6 +4505,8 @@
       :birthdate: 06-20-1993
       :birthplace: Karlsruhle, Germany
       :current_club: FC Schalke 04 (Germany)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Ognjen Vranjes
       :height: 72
@@ -3554,6 +4514,8 @@
       :birthdate: 10-24-1989
       :birthplace: Banja Luka, Bosnia and Herzegovina
       :current_club: FC Elazigspor (Turkey)
+      :lat: '44.7715513'
+      :lon: '17.1901669'
     - :position: Defender
       :name: Ervin Zukanovic
       :height: 73
@@ -3561,6 +4523,8 @@
       :birthdate: 02-11-1987
       :birthplace: Sarajevo, Bosnia and Herzegovina
       :current_club: KAA Gent (Belgium)
+      :lat: '43.8515421'
+      :lon: '18.3886246'
     - :position: Defender
       :name: Ermin Bicakcic
       :height: 73
@@ -3568,6 +4532,8 @@
       :birthdate: 01-24-1990
       :birthplace: Zvornik, Bosnia and Herzegovina
       :current_club: FC Eintracht Braunschweig (Germany)
+      :lat: '44.3852214'
+      :lon: '19.1011957'
     - :position: Defender
       :name: Muhamed Besic
       :height: 70
@@ -3575,6 +4541,8 @@
       :birthdate: 09-10-1992
       :birthplace: Berlin, Germany
       :current_club: Ferencvarosi TC (Hungary)
+      :lat: '52.5170365'
+      :lon: '13.3888599'
     - :position: Midfielder
       :name: Miralem Pjanic
       :height: 71
@@ -3582,6 +4550,8 @@
       :birthdate: 04-02-1990
       :birthplace: Tuzla, Bosnia and Herzegovina
       :current_club: AS Roma (Italy)
+      :lat: '44.5391105'
+      :lon: '18.675193'
     - :position: Midfielder
       :name: Izet Hajrovic
       :height: 70
@@ -3589,6 +4559,8 @@
       :birthdate: 08-04-1991
       :birthplace: Brugg, Switzerland
       :current_club: Galatasaray (Turkey)
+      :lat: '47.4824633'
+      :lon: '8.2085662'
     - :position: Defender
       :name: Mensur Mujdza
       :height: 73
@@ -3596,6 +4568,8 @@
       :birthdate: 03-28-1984
       :birthplace: Zagreb, Croatia
       :current_club: SC Freiburg (Germany)
+      :lat: '45.8131545'
+      :lon: '15.9770298'
     - :position: Midfielder
       :name: Haris Medunjanin
       :height: 74
@@ -3603,6 +4577,8 @@
       :birthdate: 03-08-1985
       :birthplace: Sarajevo, Bosnia and Herzegovina
       :current_club: FC Gaziantepspor (Turkey)
+      :lat: '43.8515421'
+      :lon: '18.3886246'
     - :position: Midfielder
       :name: Senad Lulic
       :height: 72
@@ -3610,6 +4586,8 @@
       :birthdate: 01-18-1986
       :birthplace: Mostar, Bosnia and Herzegovina
       :current_club: SS Lazio (Italy)
+      :lat: '43.3373244'
+      :lon: '17.8145581'
     - :position: Midfielder
       :name: Anel Hadzic
       :height: 72
@@ -3617,6 +4595,8 @@
       :birthdate: 08-16-1989
       :birthplace: Velika Kladusa, Bosnia and Herzegovina
       :current_club: SK Sturm Graz (Austria)
+      :lat: '45.1861929'
+      :lon: '15.8066238'
     - :position: Midfielder
       :name: Tino-Sven Susic
       :height: 73
@@ -3624,6 +4604,8 @@
       :birthdate: 02-13-1992
       :birthplace: Sarajevo, Bosnia and Herzegovina
       :current_club: HNK Hajduk Split (Croatia)
+      :lat: '43.8515421'
+      :lon: '18.3886246'
     - :position: Midfielder
       :name: Sejad Salihovic
       :height: 72
@@ -3631,6 +4613,8 @@
       :birthdate: 10-08-1984
       :birthplace: Gornji Šepak, Bosnia and Herzegovina
       :current_club: Hoffenheim (Germany)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Zvjezdan Misimovic
       :height: 71
@@ -3638,6 +4622,8 @@
       :birthdate: 06-05-1982
       :birthplace: Munich, Germany
       :current_club: FC Guizhou Renhe (China)
+      :lat: '48.1372719'
+      :lon: '11.5754815'
     - :position: Midfielder
       :name: Senijad Ibricic
       :height: 71
@@ -3645,6 +4631,8 @@
       :birthdate: 09-26-1985
       :birthplace: Kotor Varoš, Bosnia and Herzegovina
       :current_club: FC Erciyespor (Turkey)
+      :lat: '44.6205941'
+      :lon: '17.3693081'
     - :position: Defender
       :name: Avdija Vrsajevic
       :height: 71
@@ -3652,6 +4640,8 @@
       :birthdate: 03-06-1986
       :birthplace: Tešanj, Bosnia and Herzegovina
       :current_club: HNK Hajduk Split (Croatia)
+      :lat: '44.6133803'
+      :lon: '17.9862488'
     - :position: Forward
       :name: Vedad Ibisevic
       :height: 74
@@ -3659,6 +4649,8 @@
       :birthdate: 08-06-1984
       :birthplace: Vlasenica, Bosnia and Herzegovina
       :current_club: VfB Stuttgart (Germany)
+      :lat: '44.1836863'
+      :lon: '18.9398354'
     - :position: Forward
       :name: Edin Dzeko
       :height: 76
@@ -3666,14 +4658,17 @@
       :birthdate: 03-17-1986
       :birthplace: Sarajevo, Bosnia and Herzegovina
       :current_club: Manchester City (England)
+      :lat: '43.8515421'
+      :lon: '18.3886246'
     - :position: Midfielder
       :name: Edin Visca
       :height: 68
-      :weight:
+      :weight: 
       :birthdate: 02-17-1990
-      :birthplace: Olovo, Bosnia and Herzegovina 
+      :birthplace: Olovo, Bosnia and Herzegovina
       :current_club: Istanbul BB SK (Turkey)
-
+      :lat: '44.1269033'
+      :lon: '18.580233'
   - :name: Iran
     :players:
     - :position: Goalkeeper
@@ -3683,6 +4678,8 @@
       :birthdate: 01-06-1988
       :birthplace: Giessen, Germany
       :current_club: Eintracht Braunschweig (Germany)
+      :lat: '50.5843976'
+      :lon: '8.67487'
     - :position: Goalkeeper
       :name: Alireza Haghighi
       :height: 76
@@ -3690,20 +4687,26 @@
       :birthdate: 05-02-1988
       :birthplace: Tehran, Iran
       :current_club: Sporting Covilha (Portugal)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Goalkeeper
       :name: Rahman Ahmadi
       :height: 72
       :weight: 
       :birthdate: 07-30-1980
-      :birthplace: Tehran, Iran 
+      :birthplace: Tehran, Iran
       :current_club: Sepahan Esfahan (Iran)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Goalkeeper
       :name: Sousha Makani
-      :height:
-      :weight:
+      :height: 
+      :weight: 
       :birthdate: 11-18-1986
-      :birthplace: Bandar Anzali, Iran 
+      :birthplace: Bandar Anzali, Iran
       :current_club: Foolad Khuzestan (Iran)
+      :lat: '37.4721642'
+      :lon: '49.4579175'
     - :position: Defender
       :name: Khosro Heydari
       :height: 69
@@ -3711,6 +4714,8 @@
       :birthdate: 09-14-1983
       :birthplace: Tehran, Iran
       :current_club: Esteghlal Tehran (Iran)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Defender
       :name: Hossein Mahini
       :height: 67
@@ -3718,6 +4723,8 @@
       :birthdate: 09-16-1986
       :birthplace: Bushehr, Iran
       :current_club: Persepolis Tehran (Iran)
+      :lat: '28.9682053'
+      :lon: '50.840501'
     - :position: Defender
       :name: Steven Beitashour
       :height: 70
@@ -3725,6 +4732,8 @@
       :birthdate: 02-01-1987
       :birthplace: San Jose, CA, USA
       :current_club: Vancouver Whitecaps (USA)
+      :lat: '37.3438502'
+      :lon: "-121.8831349"
     - :position: Defender
       :name: Pejman Montazeri
       :height: 73
@@ -3732,6 +4741,8 @@
       :birthdate: 09-06-1983
       :birthplace: Ahvaz, Iran
       :current_club: Umm Salal (Qatar)
+      :lat: '31.3276978'
+      :lon: '48.6756129'
     - :position: Defender
       :name: Jalal Hosseini
       :height: 70
@@ -3739,6 +4750,8 @@
       :birthdate: 02-03-1982
       :birthplace: Bandar Anzali, Iran
       :current_club: Persepolis Tehran (Iran)
+      :lat: '37.4721642'
+      :lon: '49.4579175'
     - :position: Defender
       :name: Amir-Hossein Sadeghi
       :height: 74
@@ -3746,6 +4759,8 @@
       :birthdate: 09-06-1981
       :birthplace: Tehran, Iran
       :current_club: Esteghlal Tehran (Iran)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Defender
       :name: Mohammad-Reza Khanzadeh
       :height: 74
@@ -3753,6 +4768,8 @@
       :birthdate: 01-20-1992
       :birthplace: Tehran, Iran
       :current_club: Zob Ahan Esfahan (Iran)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Defender
       :name: Ahmad Alenemeh
       :height: 73
@@ -3760,6 +4777,8 @@
       :birthdate: 10-20-1982
       :birthplace: Ahvaz, Iran
       :current_club: Naft Tehran (Iran)
+      :lat: '31.3276978'
+      :lon: '48.6756129'
     - :position: Defender
       :name: Hashem Beikzadeh
       :height: 74
@@ -3767,6 +4786,8 @@
       :birthdate: 01-22-1984
       :birthplace: Shiraz, Iran
       :current_club: Esteghlal Tehran (Iran)
+      :lat: '29.6130192'
+      :lon: '52.532674'
     - :position: Defender
       :name: Ehsan Hajsafi
       :height: 69
@@ -3774,13 +4795,17 @@
       :birthdate: 02-25-1990
       :birthplace: Kashan, Iraq
       :current_club: Sepahan Esfahan (Iran)
+      :lat: '37.254879'
+      :lon: '43.009035'
     - :position: Defender
       :name: Mehrdad Pouladi
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 02-26-1987
       :birthplace: Karaj, Iran
       :current_club: Persepolis Tehran (Iran)
+      :lat: '35.8284368'
+      :lon: '50.9749084'
     - :position: Midfielder
       :name: Javad Nekounam
       :height: 73
@@ -3788,6 +4813,8 @@
       :birthdate: 10-07-1980
       :birthplace: Shar Rey, Iran
       :current_club: Kuwait SC (Kuwait)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Andranik Teymourian
       :height: 71
@@ -3795,20 +4822,26 @@
       :birthdate: 03-06-1983
       :birthplace: Tehran, Iran
       :current_club: Esteghlal Tehran (Iran)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Midfielder
       :name: Reza Haghighi
       :height: 77
-      :weight:
+      :weight: 
       :birthdate: 02-01-1989
       :birthplace: Mashhad, Iran
       :current_club: Persepolis Tehran (Iran)
+      :lat: '36.2981864'
+      :lon: '59.6048089'
     - :position: Midfielder
       :name: Ghasem Hadadifar
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 07-12-1983
       :birthplace: Isfahan, Iran
       :current_club: Zob Ahan Esfahan (Iran)
+      :lat: '33.196733'
+      :lon: '52.504026'
     - :position: Midfielder
       :name: Bakhtiar Rahmani
       :height: 70
@@ -3816,6 +4849,8 @@
       :birthdate: 09-23-1991
       :birthplace: Javanrud, Iran
       :current_club: Foolad Khuzestan (Iran)
+      :lat: '34.8039689'
+      :lon: '46.4920875'
     - :position: Midfielder
       :name: Ashkan Dejagah
       :height: 71
@@ -3823,6 +4858,8 @@
       :birthdate: 07-05-1986
       :birthplace: Tehran, Iran
       :current_club: Fulham FC (England)
+      :lat: '35.6884243'
+      :lon: '51.4179604'
     - :position: Midfielder
       :name: Masoud Shojaei
       :height: 72
@@ -3830,6 +4867,8 @@
       :birthdate: 06-09-1984
       :birthplace: Shiraz, Iran
       :current_club: UD Las Palmas (Spain)
+      :lat: '29.6130192'
+      :lon: '52.532674'
     - :position: Midfielder
       :name: Alireza Jahanbakhsh
       :height: 71
@@ -3837,20 +4876,26 @@
       :birthdate: 10-08-1993
       :birthplace: Jirandeh, Iran
       :current_club: NEC Nijmegen (Netherlands)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Mohammad-Reza Khalatbari
       :height: 66
-      :weight:
+      :weight: 
       :birthdate: 09-14-1983
       :birthplace: Ramsar, Iran
       :current_club: Persepolis Tehran (Iran)
+      :lat: '36.9226023'
+      :lon: '50.6426351'
     - :position: Forward
       :name: Mehdi Sharifi
       :height: 70
-      :weight:
+      :weight: 
       :birthdate: 08-16-1992
       :birthplace: Isfahan, Iran
       :current_club: Sepahan Esfahan (Iran)
+      :lat: '33.196733'
+      :lon: '52.504026'
     - :position: Forward
       :name: Reza Ghoochannejhad
       :height: 71
@@ -3858,6 +4903,8 @@
       :birthdate: 09-20-1987
       :birthplace: Mashad, Iran
       :current_club: Charlton Atheltic (England)
+      :lat: '36.2981864'
+      :lon: '59.6048089'
     - :position: Forward
       :name: Karim Ansarifard
       :height: 71
@@ -3865,14 +4912,17 @@
       :birthdate: 04-03-1990
       :birthplace: Ardabil, Iran
       :current_club: Tractor Sazi Tabriz (Iran)
+      :lat: '38.249388'
+      :lon: '48.2969668'
     - :position: Forward
       :name: Sardar Azmoun
       :height: 72
-      :weight:
+      :weight: 
       :birthdate: 01-01-1995
       :birthplace: Gonbad, Iran
       :current_club: Rubin Kazan (Russia)
-
+      :lat: '37.2492965'
+      :lon: '55.1659018'
   - :name: Nigeria
     :players:
     - :position: Goalkeeper
@@ -3882,6 +4932,8 @@
       :birthdate: 08-29-1982
       :birthplace: Kaduna, Nigeria
       :current_club: Lille FC (France)
+      :lat: '10.4802377'
+      :lon: '7.9292945'
     - :position: Goalkeeper
       :name: Austin Ejide
       :height: 75
@@ -3889,20 +4941,26 @@
       :birthdate: 04-08-1984
       :birthplace: Onitsha, Nigeria
       :current_club: Hapoel Beer Sheva (Israel)
+      :lat: '6.1448421'
+      :lon: '6.797495'
     - :position: Goalkeeper
       :name: Daniel Akpeyi
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 03-08-1986
-      :birthplace: Nnewi, Nigeria 
+      :birthplace: Nnewi, Nigeria
       :current_club: Warri Wolves (Nigeria)
+      :lat: '6.017801'
+      :lon: '6.920231'
     - :position: Goalkeeper
       :name: Chigozie Agbim
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 11-28-1984
       :birthplace: Gombe, Nigeria
       :current_club: Gombe United (Nigeria)
+      :lat: '10.38301'
+      :lon: '11.206567'
     - :position: Defender
       :name: Elderson Echiejile
       :height: 72
@@ -3910,6 +4968,8 @@
       :birthdate: 01-20-1988
       :birthplace: Benin City, Nigeria
       :current_club: AS Monaco (France)
+      :lat: '6.3330586'
+      :lon: '5.6221058'
     - :position: Defender
       :name: Efe Ambrose
       :height: 75
@@ -3917,6 +4977,8 @@
       :birthdate: 10-18-1988
       :birthplace: Kaduna, Nigeria
       :current_club: Celtic (Scotland)
+      :lat: '10.4802377'
+      :lon: '7.9292945'
     - :position: Defender
       :name: Godfrey Oboabona
       :height: 73
@@ -3924,6 +4986,8 @@
       :birthdate: 09-16-1990
       :birthplace: Akure, Nigeria
       :current_club: Rizespor (Turkey)
+      :lat: '7.2525595'
+      :lon: '5.1932647'
     - :position: Defender
       :name: Azubuike Egwuekwe
       :height: 70
@@ -3931,6 +4995,8 @@
       :birthdate: 07-16-1989
       :birthplace: Lafia, Nigeria
       :current_club: Warri Wolves (Nigeria)
+      :lat: '9.6519332'
+      :lon: '11.8176813'
     - :position: Defender
       :name: Kenneth Omeruo
       :height: 66
@@ -3938,6 +5004,8 @@
       :birthdate: 10-17-1993
       :birthplace: Kaduna, Nigeria
       :current_club: Middlesbrough (England)
+      :lat: '10.4802377'
+      :lon: '7.9292945'
     - :position: Defender
       :name: Juwon Oshaniwa
       :height: 69
@@ -3945,6 +5013,8 @@
       :birthdate: 09-14-1990
       :birthplace: Ilorin, Nigeria
       :current_club: Ashdod (Israel)
+      :lat: '8.4963657'
+      :lon: '4.5480484'
     - :position: Defender
       :name: Joseph Yobo
       :height: 74
@@ -3952,9 +5022,11 @@
       :birthdate: 09-06-1980
       :birthplace: Kano, Nigeria
       :current_club: Norwich City (England)
+      :lat: '11.9918671'
+      :lon: '8.5303654'
     - :position: Defender
       :name: Kunle Odumlani
-      :height:
+      :height: 
       :weight: 
       :birthdate: 03-05-1990
       :birthplace: 
@@ -3966,6 +5038,8 @@
       :birthdate: 04-22-1987
       :birthplace: Jos, Nigeria
       :current_club: Chelsea (England)
+      :lat: '9.9175125'
+      :lon: '8.8979401'
     - :position: Midfielder
       :name: Ramon Azeez
       :height: 66
@@ -3973,6 +5047,8 @@
       :birthdate: 12-12-1992
       :birthplace: Abuja, Nigeria
       :current_club: Almeria FC (Spain)
+      :lat: '9.0643305'
+      :lon: '7.4892974'
     - :position: Midfielder
       :name: Ogenyi Onazi
       :height: 68
@@ -3980,6 +5056,8 @@
       :birthdate: 12-25-1992
       :birthplace: Benue, Nigeria
       :current_club: SS Lazio (Italy)
+      :lat: '7.3505747'
+      :lon: '8.7772877'
     - :position: Midfielder
       :name: Joel Obi
       :height: 70
@@ -3987,6 +5065,8 @@
       :birthdate: 05-22-1991
       :birthplace: Lagos, Nigeria
       :current_club: Parma (Italy)
+      :lat: '6.4550575'
+      :lon: '3.3941795'
     - :position: Midfielder
       :name: Nnamdi Oduamadi
       :height: 69
@@ -3994,6 +5074,8 @@
       :birthdate: 10-17-1990
       :birthplace: Lagos, Nigeria
       :current_club: Varese (Italy)
+      :lat: '6.4550575'
+      :lon: '3.3941795'
     - :position: Midfielder
       :name: Ejike Uzoenyi
       :height: 66
@@ -4001,6 +5083,8 @@
       :birthdate: 03-23-1988
       :birthplace: Aba, Nigeria
       :current_club: Enugu Rangers (Nigeria)
+      :lat: '5.1127345'
+      :lon: '7.3643495'
     - :position: Midfielder
       :name: Nosa Igiebor
       :height: 72
@@ -4008,6 +5092,8 @@
       :birthdate: 11-09-1990
       :birthplace: Abuja, Nigeria
       :current_club: Real Betis (Spain)
+      :lat: '9.0643305'
+      :lon: '7.4892974'
     - :position: Midfielder
       :name: Sunday Mba
       :height: 71
@@ -4015,6 +5101,8 @@
       :birthdate: 11-28-1988
       :birthplace: Aba, Nigeria
       :current_club: CA Bastia (France)
+      :lat: '5.1127345'
+      :lon: '7.3643495'
     - :position: Midfielder
       :name: Reuben Gabriel
       :height: 77
@@ -4022,6 +5110,8 @@
       :birthdate: 09-25-1990
       :birthplace: Kaduna, Nigeria
       :current_club: Waasland-Beveren (Belgium)
+      :lat: '10.4802377'
+      :lon: '7.9292945'
     - :position: Midfielder
       :name: Michael Babatunde
       :height: 70
@@ -4029,6 +5119,8 @@
       :birthdate: 12-24-1992
       :birthplace: Lagos, Nigeria
       :current_club: Volyn Lutsk (Ukraine)
+      :lat: '6.4550575'
+      :lon: '3.3941795'
     - :position: Midfielder
       :name: Ahmed Musa
       :height: 67
@@ -4036,6 +5128,8 @@
       :birthdate: 10-14-1992
       :birthplace: Jos, Nigeria
       :current_club: CSKA Moscow (Russia)
+      :lat: '9.9175125'
+      :lon: '8.8979401'
     - :position: Forward
       :name: Shola Ameobi
       :height: 74
@@ -4043,6 +5137,8 @@
       :birthdate: 10-12-1981
       :birthplace: Zaria, Nigeria
       :current_club: Newcastle United (England)
+      :lat: '11.113236'
+      :lon: '7.725176'
     - :position: Forward
       :name: Emmanuel Emenike
       :height: 72
@@ -4050,6 +5146,8 @@
       :birthdate: 05-10-1987
       :birthplace: Otuocha, Nigeria
       :current_club: Fenerbahce (Turkey)
+      :lat: '6.339327'
+      :lon: '6.846922'
     - :position: Forward
       :name: Victor Obinna Nsofor
       :height: 72
@@ -4057,6 +5155,8 @@
       :birthdate: 03-25-1987
       :birthplace: Jos, Nigeria
       :current_club: Chievo Verona (Italy)
+      :lat: '9.9175125'
+      :lon: '8.8979401'
     - :position: Forward
       :name: Peter Odemwingie
       :height: 72
@@ -4064,6 +5164,8 @@
       :birthdate: 07-15-1981
       :birthplace: Tashkent, Uzbekistan
       :current_club: Stoke City (England)
+      :lat: '41.2010942'
+      :lon: '64.9183413'
     - :position: Forward
       :name: Michael Uchebo
       :height: 76
@@ -4071,6 +5173,8 @@
       :birthdate: 02-03-1990
       :birthplace: Enugu, Nigeria
       :current_club: Cercle Brugge (Belgium)
+      :lat: '6.4499833'
+      :lon: '7.5000007'
     - :position: Midfielder
       :name: Victor Moses
       :height: 70
@@ -4078,14 +5182,17 @@
       :birthdate: 12-12-1990
       :birthplace: Kaduna, Nigeria
       :current_club: Liverpool (England)
+      :lat: '10.4802377'
+      :lon: '7.9292945'
     - :position: Forward
       :name: Uche Nwofor
       :height: 72
-      :weight:
+      :weight: 
       :birthdate: 09-17-1991
-      :birthplace: Lagos, Nigeria 
+      :birthplace: Lagos, Nigeria
       :current_club: Heerenveen (Netherlands)
-
+      :lat: '6.4550575'
+      :lon: '3.3941795'
 - :group: G
   :teams:
   - :name: Germany
@@ -4097,6 +5204,8 @@
       :birthdate: 03-27-1986
       :birthplace: Gelsinkirchen, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: 
+      :lon: 
     - :position: Goalkeeper
       :name: Roman Weidenfeller
       :height: 75
@@ -4104,6 +5213,8 @@
       :birthdate: 08-06-1980
       :birthplace: Diez, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '50.3667'
+      :lon: '8.01667'
     - :position: Goalkeeper
       :name: Ron-Robert Zieler
       :height: 74
@@ -4111,6 +5222,8 @@
       :birthdate: 02-12-1989
       :birthplace: Koln, Germany
       :current_club: Hannover (Germany)
+      :lat: '50.9374863'
+      :lon: '6.9580232'
     - :position: Defender
       :name: Jérôme Boateng
       :height: 75
@@ -4118,13 +5231,17 @@
       :birthdate: 09-03-1988
       :birthplace: Berlin, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '52.5170365'
+      :lon: '13.3888599'
     - :position: Defender
       :name: Erik Durm
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 05-12-1992
-      :birthplace: Pirmasens, Germany 
+      :birthplace: Pirmasens, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '49.1876787'
+      :lon: '7.59208880795582'
     - :position: Midfielder
       :name: Kevin Großkreutz
       :height: 73
@@ -4132,6 +5249,8 @@
       :birthdate: 07-19-1988
       :birthplace: Dortmund, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '51.5142273'
+      :lon: '7.4652789'
     - :position: Defender
       :name: Benedikt Höwedes
       :height: 73
@@ -4139,6 +5258,8 @@
       :birthdate: 02-29-1988
       :birthplace: Haltern, Germany
       :current_club: FC Schalke 04 (Germany)
+      :lat: '52.1307449'
+      :lon: '7.3057188'
     - :position: Defender
       :name: Mats Hummels
       :height: 76
@@ -4146,6 +5267,8 @@
       :birthdate: 12-16-1988
       :birthplace: Bergisch Gladbach, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '50.9929303'
+      :lon: '7.1277379'
     - :position: Defender
       :name: Marcell Jansen
       :height: 75
@@ -4153,6 +5276,8 @@
       :birthdate: 11-04-1985
       :birthplace: Mönchengladbach, Germany
       :current_club: Hamburg (Germany)
+      :lat: '51.1668572'
+      :lon: '6.41270225823657'
     - :position: Defender
       :name: Philipp Lahm
       :height: 67
@@ -4160,6 +5285,8 @@
       :birthdate: 11-11-1983
       :birthplace: Munich, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '48.1372719'
+      :lon: '11.5754815'
     - :position: Defender
       :name: Per Mertesacker
       :height: 77
@@ -4167,6 +5294,8 @@
       :birthdate: 09-29-1984
       :birthplace: Hannover, Germany
       :current_club: Arsenal (England)
+      :lat: '52.3744779'
+      :lon: '9.7385532'
     - :position: Defender
       :name: Shkodran Mustafi
       :height: 72
@@ -4174,6 +5303,8 @@
       :birthdate: 04-17-1992
       :birthplace: Bad Hersfeld, Germany
       :current_club: Sampdoria (Italy)
+      :lat: '50.8681341'
+      :lon: '9.7068481'
     - :position: Defender
       :name: Marcel Schmelzer
       :height: 71
@@ -4181,6 +5312,8 @@
       :birthdate: 01-22-1988
       :birthplace: Magdeburg, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '52.1261437'
+      :lon: '11.6289300999064'
     - :position: Midfielder
       :name: Julian Draxler
       :height: 73
@@ -4188,6 +5321,8 @@
       :birthdate: 09-20-1993
       :birthplace: Gladbeck, Germany
       :current_club: FC Schalke 04 (Germany)
+      :lat: '51.5718665'
+      :lon: '6.9877343'
     - :position: Defender
       :name: Matthias Ginter
       :height: 74
@@ -4195,6 +5330,8 @@
       :birthdate: 01-19-1994
       :birthplace: Freiburg, Germany
       :current_club: Freiburg (Germany)
+      :lat: '47.9960901'
+      :lon: '7.8494005'
     - :position: Midfielder
       :name: Leon Goretzka
       :height: 74
@@ -4202,6 +5339,8 @@
       :birthdate: 02-06-1995
       :birthplace: Bochum, Germany
       :current_club: FC Schalke 04 (Germany)
+      :lat: '51.482321'
+      :lon: '7.2187465'
     - :position: Midfielder
       :name: Mario Götze
       :height: 69
@@ -4209,6 +5348,8 @@
       :birthdate: 06-03-1992
       :birthplace: Memmingen, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '47.9867696'
+      :lon: '10.181319'
     - :position: Midfielder
       :name: Sami Khedira
       :height: 74
@@ -4216,6 +5357,8 @@
       :birthdate: 04-04-1987
       :birthplace: Stuttgart, Germany
       :current_club: Real Madrid (Spain)
+      :lat: '48.7763511'
+      :lon: '9.1829049'
     - :position: Midfielder
       :name: Toni Kroos
       :height: 72
@@ -4223,6 +5366,8 @@
       :birthdate: 01-04-1990
       :birthplace: Greifswald, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '54.095791'
+      :lon: '13.3815238'
     - :position: Midfielder
       :name: Max Meyer
       :height: 66
@@ -4230,6 +5375,8 @@
       :birthdate: 09-18-1995
       :birthplace: Oberhausen, Germany
       :current_club: FC Schalke 04 (Germany)
+      :lat: '51.51431755'
+      :lon: '6.84854783854417'
     - :position: Midfielder
       :name: Thomas Müller
       :height: 73
@@ -4237,6 +5384,8 @@
       :birthdate: 09-13-1989
       :birthplace: Weilheim, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '47.8390726'
+      :lon: '11.1424322'
     - :position: Midfielder
       :name: Mesut Özil
       :height: 71
@@ -4244,6 +5393,8 @@
       :birthdate: 10-15-1988
       :birthplace: Gelsinkirchen, Germany
       :current_club: Arsenal (England)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Lukas Podolski
       :height: 72
@@ -4251,6 +5402,8 @@
       :birthdate: 06-04-1985
       :birthplace: Gilwice, Poland
       :current_club: Arsenal (England)
+      :lat: 
+      :lon: 
     - :position: Midfielder
       :name: Marco Reus
       :height: 72
@@ -4258,6 +5411,8 @@
       :birthdate: 05-31-1989
       :birthplace: Dortmund, Germany
       :current_club: Borussia Dortmund (Germany)
+      :lat: '51.5142273'
+      :lon: '7.4652789'
     - :position: Midfielder
       :name: André Schürrle
       :height: 72
@@ -4265,6 +5420,8 @@
       :birthdate: 11-06-1990
       :birthplace: Ludwigshafen, Germany
       :current_club: Chelsea (England)
+      :lat: '49.4792355'
+      :lon: '8.4391173'
     - :position: Midfielder
       :name: Bastian Schweinsteiger
       :height: 72
@@ -4272,6 +5429,8 @@
       :birthdate: 08-01-1984
       :birthplace: Kolbermoor, Germany
       :current_club: Bayern Munich (Germany)
+      :lat: '47.8556623'
+      :lon: '12.0595795'
     - :position: Forward
       :name: Miroslav Klose
       :height: 72
@@ -4279,6 +5438,8 @@
       :birthdate: 06-09-1978
       :birthplace: Opole, Poland
       :current_club: Lazio (Italy)
+      :lat: '50.6668184'
+      :lon: '17.9236408'
     - :position: Forward
       :name: Kevin Volland
       :height: 70
@@ -4286,7 +5447,8 @@
       :birthdate: 07-30-1992
       :birthplace: Marktoberdorf, Germany
       :current_club: Hoffenheim (Germany)
-
+      :lat: '47.7750654'
+      :lon: '10.6170847'
   - :name: Portugal
     :players:
     - :position: Goalkeeper
@@ -4296,6 +5458,8 @@
       :birthdate: 05-01-1982
       :birthplace: Lisbon, Portugal
       :current_club: Sevilla (Spain)
+      :lat: '38.7130574'
+      :lon: "-9.1380056"
     - :position: Goalkeeper
       :name: Eduardo
       :height: 73
@@ -4303,6 +5467,8 @@
       :birthdate: 09-19-1982
       :birthplace: Mirandela, Portugal
       :current_club: Braga (Portugal)
+      :lat: '41.489615'
+      :lon: "-7.1774792"
     - :position: Goalkeeper
       :name: Rui Patrício
       :height: 75
@@ -4310,6 +5476,8 @@
       :birthdate: 02-15-1988
       :birthplace: Marrazes, Portugal
       :current_club: Sporting (Portugal)
+      :lat: '39.7625962'
+      :lon: "-8.8059313"
     - :position: Defender
       :name: Andre Almeida
       :height: 73
@@ -4317,6 +5485,8 @@
       :birthdate: 09-10-1990
       :birthplace: Lisbon, Portugal
       :current_club: Benfica (Portugal)
+      :lat: '38.7130574'
+      :lon: "-9.1380056"
     - :position: Defender
       :name: Bruno Alves
       :height: 74
@@ -4324,6 +5494,8 @@
       :birthdate: 11-27-1981
       :birthplace: Póvoa de Varzim, Portugal
       :current_club: Fenerbahce (Turkey)
+      :lat: '41.38189545'
+      :lon: "-8.75725878866123"
     - :position: Defender
       :name: Fábio Coentrão
       :height: 70
@@ -4331,6 +5503,8 @@
       :birthdate: 03-11-1988
       :birthplace: Vila do Conde, Portugal
       :current_club: Real Madrid (Spain)
+      :lat: '41.3539012'
+      :lon: "-8.7433515"
     - :position: Defender
       :name: João Pereira
       :height: 68
@@ -4338,6 +5512,8 @@
       :birthdate: 02-25-1984
       :birthplace: Lisbon, Portugal
       :current_club: Valencia (Spain)
+      :lat: '38.7130574'
+      :lon: "-9.1380056"
     - :position: Defender
       :name: Luis Neto
       :height: 73
@@ -4345,6 +5521,8 @@
       :birthdate: 05-26-1988
       :birthplace: Póvoa de Varzim, Portugal
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '41.38189545'
+      :lon: "-8.75725878866123"
     - :position: Defender
       :name: Pepe
       :height: 73
@@ -4352,6 +5530,8 @@
       :birthdate: 02-26-1983
       :birthplace: Maceió, Brazil
       :current_club: Real Madrid (Spain)
+      :lat: "-9.6476843"
+      :lon: "-35.7339264"
     - :position: Defender
       :name: Ricardo Costa
       :height: 72
@@ -4359,6 +5539,8 @@
       :birthdate: 05-16-1981
       :birthplace: Vila Nova de Gaia, Portugal
       :current_club: Valencia (Spain)
+      :lat: '41.14302095'
+      :lon: "-8.67412613309778"
     - :position: Midfielder
       :name: João Moutinho
       :height: 67
@@ -4366,6 +5548,8 @@
       :birthdate: 09-08-1986
       :birthplace: Portimão, Portugal
       :current_club: AS Monaco (France)
+      :lat: '37.1382138'
+      :lon: "-8.5376764"
     - :position: Midfielder
       :name: Miguel Veloso
       :height: 71
@@ -4373,6 +5557,8 @@
       :birthdate: 05-11-1986
       :birthplace: Coimbra, Portugal
       :current_club: Dynamo Kiev (Ukraine)
+      :lat: '40.2109801'
+      :lon: "-8.4292057"
     - :position: Midfielder
       :name: Raul Meireles
       :height: 70
@@ -4380,6 +5566,8 @@
       :birthdate: 03-17-1983
       :birthplace: Porto, Portugal
       :current_club: Fenerbahce (Turkey)
+      :lat: '41.14302095'
+      :lon: "-8.67412613309778"
     - :position: Midfielder
       :name: Rúben Amorim
       :height: 72
@@ -4387,13 +5575,17 @@
       :birthdate: 01-27-1985
       :birthplace: Lisbon, Portugal
       :current_club: Benfica (Portugal)
+      :lat: '38.7130574'
+      :lon: "-9.1380056"
     - :position: Midfielder
       :name: William Carvalho
       :height: 73
-      :weight:
+      :weight: 
       :birthdate: 04-07-1992
-      :birthplace: Luanda, Angola 
+      :birthplace: Luanda, Angola
       :current_club: Sporting (Portugal)
+      :lat: "-8.8169602"
+      :lon: '13.2381607'
     - :position: Forward
       :name: Cristiano Ronaldo
       :height: 73
@@ -4401,6 +5593,8 @@
       :birthdate: 02-05-1985
       :birthplace: Funchal, Portugal
       :current_club: Real Madrid (Spain)
+      :lat: '32.647002'
+      :lon: "-16.9095257"
     - :position: Forward
       :name: Eder
       :height: 74
@@ -4408,6 +5602,8 @@
       :birthdate: 12-22-1987
       :birthplace: Bissau, Guinea-Bissau
       :current_club: Braga (Portugal)
+      :lat: '11.8613244'
+      :lon: "-15.5830554"
     - :position: Forward
       :name: Hélder Postiga
       :height: 72
@@ -4415,6 +5611,8 @@
       :birthdate: 08-02-1982
       :birthplace: Póvoa de Varzim, Portugal
       :current_club: Lazio (Italy)
+      :lat: '41.38189545'
+      :lon: "-8.75725878866123"
     - :position: Forward
       :name: Hugo Almeida
       :height: 75
@@ -4422,6 +5620,8 @@
       :birthdate: 05-23-1984
       :birthplace: Figueira da Foz, Portugal
       :current_club: Besiktas (Turkey)
+      :lat: '40.1482847'
+      :lon: "-8.8553898"
     - :position: Midfielder
       :name: Nani
       :height: 69
@@ -4429,28 +5629,35 @@
       :birthdate: 11-17-1986
       :birthplace: Praia, Cape Verde
       :current_club: Manchester United (England)
+      :lat: '14.9160169'
+      :lon: "-23.5096132"
     - :position: Midfielder
       :name: Rafa Silva
       :height: 67
-      :weight:
+      :weight: 
       :birthdate: 05-17-1993
-      :birthplace: Vila Franca de Xira, Portugal 
+      :birthplace: Vila Franca de Xira, Portugal
       :current_club: Braga (Portugal)
+      :lat: '38.9544913'
+      :lon: "-8.9894438"
     - :position: Midfielder
       :name: Silvestre Varela
       :height: 71
-      :weight:
+      :weight: 
       :birthdate: 02-02-1985
-      :birthplace: Almada, Portugal 
+      :birthplace: Almada, Portugal
       :current_club: Porto (Portugal)
+      :lat: '38.6803861'
+      :lon: "-9.1559563"
     - :position: Midfielder
       :name: Vieirinha
       :height: 69
-      :weight:
+      :weight: 
       :birthdate: 01-24-1986
-      :birthplace: Guimarães, Portugal 
+      :birthplace: Guimarães, Portugal
       :current_club: Wolfsburg (Germany)
-
+      :lat: '41.4412423'
+      :lon: "-8.2985724"
   - :name: USA
     :players:
     - :position: Goalkeeper
@@ -4460,6 +5667,8 @@
       :birthdate: 09-09-1984
       :birthplace: Evergreen Park, IL, USA
       :current_club: Aston Villa (England)
+      :lat: '41.720136'
+      :lon: "-87.7013258"
     - :position: Goalkeeper
       :name: Tim Howard
       :height: 75
@@ -4467,6 +5676,8 @@
       :birthdate: 03-06-1979
       :birthplace: North Brunswick, NJ, USA
       :current_club: Everton (England)
+      :lat: '40.4862174'
+      :lon: "-74.4518173"
     - :position: Goalkeeper
       :name: Nick Rimando
       :height: 69
@@ -4474,6 +5685,8 @@
       :birthdate: 06-17-1979
       :birthplace: Montclair, CA, USA
       :current_club: Real Salt Lake (USA)
+      :lat: '34.07171275'
+      :lon: "-117.697687709851"
     - :position: Defender
       :name: DaMarcus Beasley
       :height: 68
@@ -4481,6 +5694,8 @@
       :birthdate: 05-24-1982
       :birthplace: Fort Wayne, IN, USA
       :current_club: Puebla (Mexico)
+      :lat: '41.0799898'
+      :lon: "-85.1386015"
     - :position: Defender
       :name: Matt Besler
       :height: 72
@@ -4488,6 +5703,8 @@
       :birthdate: 02-11-1987
       :birthplace: Kansas City, MO, USA
       :current_club: Sporting Kansas City (USA)
+      :lat: '39.0844687'
+      :lon: "-94.5630298"
     - :position: Defender
       :name: John Brooks
       :height: 76
@@ -4495,6 +5712,8 @@
       :birthdate: 01-28-1993
       :birthplace: Berlin, Germany
       :current_club: Hertha Berlin (Germany)
+      :lat: '52.5170365'
+      :lon: '13.3888599'
     - :position: Defender
       :name: Geoff Cameron
       :height: 75
@@ -4502,6 +5721,8 @@
       :birthdate: 07-11-1985
       :birthplace: Attleboro, MA, USA
       :current_club: Stoke City (England)
+      :lat: '41.9445441'
+      :lon: "-71.2856082"
     - :position: Defender
       :name: Timmy Chandler
       :height: 73
@@ -4509,6 +5730,8 @@
       :birthdate: 03-29-1990
       :birthplace: Frankfurt, Germany
       :current_club: FC Nurnberg (Germany)
+      :lat: '50.12134215'
+      :lon: '8.66195118582712'
     - :position: Defender
       :name: Omar Gonzalez
       :height: 77
@@ -4516,6 +5739,8 @@
       :birthdate: 10-11-1988
       :birthplace: Dallas, TX, USA
       :current_club: LA Galaxy (USA)
+      :lat: '32.7761963'
+      :lon: "-96.7968994"
     - :position: Midfielder
       :name: Fabian Johnson
       :height: 72
@@ -4523,6 +5748,8 @@
       :birthdate: 12-11-1987
       :birthplace: Munich, Germany
       :current_club: Hoffenheim (Germany)
+      :lat: '48.1372719'
+      :lon: '11.5754815'
     - :position: Defender
       :name: DeAndre Yedlin
       :height: 68
@@ -4530,6 +5757,8 @@
       :birthdate: 07-09-1993
       :birthplace: Seattle, WA, USA
       :current_club: Seattle Sounders (USA)
+      :lat: '47.6038321'
+      :lon: "-122.3300624"
     - :position: Midfielder
       :name: Kyle Beckerman
       :height: 71
@@ -4537,6 +5766,8 @@
       :birthdate: 04-23-1982
       :birthplace: Crofton, MD, USA
       :current_club: Real Salt Lake (USA)
+      :lat: '39.0017772'
+      :lon: "-76.6874671"
     - :position: Midfielder
       :name: Alejandro Bedoya
       :height: 70
@@ -4544,6 +5775,8 @@
       :birthdate: 04-29-1987
       :birthplace: Englewood, NJ, USA
       :current_club: FC Nantes (France)
+      :lat: '40.8928771'
+      :lon: "-73.9726381"
     - :position: Midfielder
       :name: Michael Bradley
       :height: 74
@@ -4551,6 +5784,8 @@
       :birthdate: 07-31-1987
       :birthplace: Princeton, NJ, USA
       :current_club: Toronto FC (USA)
+      :lat: '40.3492744'
+      :lon: "-74.6592958"
     - :position: Midfielder
       :name: Brad Davis
       :height: 71
@@ -4558,6 +5793,8 @@
       :birthdate: 11-08-1981
       :birthplace: St. Charles, MO, USA
       :current_club: Houston Dynamo (USA)
+      :lat: '38.783194'
+      :lon: "-90.4823681"
     - :position: Midfielder
       :name: Mikkel Diskerud
       :height: 72
@@ -4565,6 +5802,8 @@
       :birthdate: 10-02-1990
       :birthplace: Oslo, Norway
       :current_club: Rosenborg (Norway)
+      :lat: '59.9132694'
+      :lon: '10.7391112'
     - :position: Midfielder
       :name: Julian Green
       :height: 67
@@ -4572,6 +5811,8 @@
       :birthdate: 06-06-1995
       :birthplace: Tampa, FL, USA
       :current_club: Bayern Munich (Germany)
+      :lat: '27.9477595'
+      :lon: "-82.458444"
     - :position: Midfielder
       :name: Jermaine Jones
       :height: 72
@@ -4579,6 +5820,8 @@
       :birthdate: 11-03-1981
       :birthplace: Frankfurt, Germany
       :current_club: Besiktas (Turkey)
+      :lat: '50.12134215'
+      :lon: '8.66195118582712'
     - :position: Midfielder
       :name: Graham Zusi
       :height: 70
@@ -4586,6 +5829,8 @@
       :birthdate: 08-18-1986
       :birthplace: Orlando, FL, USA
       :current_club: Sporting Kansas City (USA)
+      :lat: '28.5421175'
+      :lon: "-81.3790462"
     - :position: Forward
       :name: Jozy Altidore
       :height: 72
@@ -4593,6 +5838,8 @@
       :birthdate: 11-06-1989
       :birthplace: Livingston, NJ, USA
       :current_club: Sunderland (England)
+      :lat: '40.7959335'
+      :lon: "-74.3148713"
     - :position: Forward
       :name: Clint Dempsey
       :height: 73
@@ -4600,6 +5847,8 @@
       :birthdate: 03-09-1983
       :birthplace: Nacogdoches, TX, USA
       :current_club: Seattle Sounders (USA)
+      :lat: '31.5970503'
+      :lon: "-94.5927451"
     - :position: Forward
       :name: Aron Jóhannsson
       :height: 72
@@ -4607,6 +5856,8 @@
       :birthdate: 11-10-1990
       :birthplace: Mobile, AL, USA
       :current_club: AZ Alkmaar (Netherlands)
+      :lat: '30.6943566'
+      :lon: "-88.0430541"
     - :position: Forward
       :name: Chris Wondolowski
       :height: 72
@@ -4614,7 +5865,8 @@
       :birthdate: 01-28-1983
       :birthplace: Danville, CA, USA
       :current_club: San Jose Earthquakes (USA)
-
+      :lat: '37.8215929'
+      :lon: "-121.9999606"
 - :group: H
   :teams:
   - :name: Belgium
@@ -4626,6 +5878,8 @@
       :birthdate: 05-11-1992
       :birthplace: Bree, Belgium
       :current_club: Atletico Madrid (Spain)
+      :lat: '51.1419459'
+      :lon: '5.5982143'
     - :position: Goalkeeper
       :name: Simon Mignolet
       :height: 76
@@ -4633,6 +5887,8 @@
       :birthdate: 03-06-1988
       :birthplace: Sint-Truiden, Belgium
       :current_club: Liverpool (England)
+      :lat: '50.8150908'
+      :lon: '5.1859427'
     - :position: Goalkeeper
       :name: Koen Casteels
       :height: 77
@@ -4640,6 +5896,8 @@
       :birthdate: 06-25-1992
       :birthplace: Bonheiden, Belgium
       :current_club: Hoffenheim (Germany)
+      :lat: '51.0250905'
+      :lon: '4.5485041'
     - :position: Defender
       :name: Toby Alderweireld
       :height: 73
@@ -4647,6 +5905,8 @@
       :birthdate: 03-02-1989
       :birthplace: Wilrijk, Belgium
       :current_club: Atletico Madrid (Spain)
+      :lat: '51.1700864'
+      :lon: '4.3942577'
     - :position: Defender
       :name: Laurent Ciman
       :height: 71
@@ -4654,6 +5914,8 @@
       :birthdate: 08-05-1985
       :birthplace: Farciennes, Belgium
       :current_club: Standard Liege (Belgium)
+      :lat: '50.4273087'
+      :lon: '4.5530418'
     - :position: Defender
       :name: Nicolas Lombaerts
       :height: 74
@@ -4661,6 +5923,8 @@
       :birthdate: 03-20-1985
       :birthplace: Brugge, Belgium
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '51.2318283'
+      :lon: '3.20778222299101'
     - :position: Defender
       :name: Vincent Kompany
       :height: 75
@@ -4668,6 +5932,8 @@
       :birthdate: 04-10-1986
       :birthplace: Uccle, Belgium
       :current_club: Manchester City (England)
+      :lat: '50.8018201'
+      :lon: '4.3372348'
     - :position: Defender
       :name: Daniel Van Buyten
       :height: 77
@@ -4675,6 +5941,8 @@
       :birthdate: 02-07-1978
       :birthplace: Chimay, Belgium
       :current_club: Bayern Munich (Germany)
+      :lat: '50.0455058'
+      :lon: '4.3152623'
     - :position: Defender
       :name: Anthony Vanden Borre
       :height: 75
@@ -4682,6 +5950,8 @@
       :birthdate: 10-24-1987
       :birthplace: Likasi, Congo
       :current_club: Anderlecht (Belgium)
+      :lat: "-10.9891601"
+      :lon: '26.7397418'
     - :position: Defender
       :name: Thomas Vermaelen
       :height: 71
@@ -4689,6 +5959,8 @@
       :birthdate: 11-14-1985
       :birthplace: Kapellen, Belgium
       :current_club: Arsenal (England)
+      :lat: '51.3149455'
+      :lon: '4.4295354'
     - :position: Defender
       :name: Jan Vertonghen
       :height: 74
@@ -4696,6 +5968,8 @@
       :birthdate: 04-24-1987
       :birthplace: Sint-Niklaas, Belgium
       :current_club: Tottenham Hotspur (England)
+      :lat: '51.166294'
+      :lon: '4.1419484'
     - :position: Midfielder
       :name: Nacer Chadli
       :height: 73
@@ -4703,6 +5977,8 @@
       :birthdate: 08-02-1989
       :birthplace: Liège, Belgium
       :current_club: Tottenham Hotspur (England)
+      :lat: '50.645138'
+      :lon: '5.5734204'
     - :position: Midfielder
       :name: Moussa Dembélé
       :height: 70
@@ -4710,6 +5986,8 @@
       :birthdate: 07-16-1987
       :birthplace: Wilrijk, Belgium
       :current_club: Tottenham Hotspur (England)
+      :lat: '51.1700864'
+      :lon: '4.3942577'
     - :position: Midfielder
       :name: Steven Defour
       :height: 69
@@ -4717,6 +5995,8 @@
       :birthdate: 04-15-1988
       :birthplace: Mechelen, Belgium
       :current_club: Porto (Portugal)
+      :lat: '51.0281381'
+      :lon: '4.4803453'
     - :position: Midfielder
       :name: Kevin De Bruyne
       :height: 71
@@ -4724,6 +6004,8 @@
       :birthdate: 06-28-1991
       :birthplace: Drongen, Belgium
       :current_club: Wolfsburg (Germany)
+      :lat: '51.0504639'
+      :lon: '3.6639157'
     - :position: Midfielder
       :name: Marouane Fellaini
       :height: 76
@@ -4731,6 +6013,8 @@
       :birthdate: 11-22-1987
       :birthplace: Etterbeek, Belgium
       :current_club: Manchester United (England)
+      :lat: '50.8368511'
+      :lon: '4.3895104'
     - :position: Midfielder
       :name: Adnan Januzaj
       :height: 72
@@ -4738,6 +6022,8 @@
       :birthdate: 02-05-1995
       :birthplace: Brussels, Belgium
       :current_club: Manchester United (England)
+      :lat: '50.8465406'
+      :lon: '4.3516841'
     - :position: Midfielder
       :name: Eden Hazard
       :height: 67
@@ -4745,6 +6031,8 @@
       :birthdate: 01-07-1991
       :birthplace: La Louvière, Belgium
       :current_club: Chelsea (England)
+      :lat: '50.4792339'
+      :lon: '4.1859322'
     - :position: Midfielder
       :name: Kevin Mirallas
       :height: 70
@@ -4752,6 +6040,8 @@
       :birthdate: 10-05-1987
       :birthplace: Liège, Belgium
       :current_club: Everton (England)
+      :lat: '50.645138'
+      :lon: '5.5734204'
     - :position: Forward
       :name: Divock Origi
       :height: 73
@@ -4759,6 +6049,8 @@
       :birthdate: 04-18-1995
       :birthplace: Oostende, Belgium
       :current_club: Lille FC (France)
+      :lat: '51.21478365'
+      :lon: '2.89125504817224'
     - :position: Midfielder
       :name: Axel Witsel
       :height: 72
@@ -4766,6 +6058,8 @@
       :birthdate: 01-12-1989
       :birthplace: Liège, Belgium
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '50.645138'
+      :lon: '5.5734204'
     - :position: Forward
       :name: Romelu Lukaku
       :height: 75
@@ -4773,6 +6067,8 @@
       :birthdate: 05-13-1993
       :birthplace: Antwerpen, Belgium
       :current_club: Everton (England)
+      :lat: '51.2212016'
+      :lon: '4.3996325'
     - :position: Midfielder
       :name: Dries Mertens
       :height: 67
@@ -4780,16 +6076,19 @@
       :birthdate: 05-06-1987
       :birthplace: Leuven, Belgium
       :current_club: Napoli (Italy)
-
+      :lat: '50.8790369'
+      :lon: '4.7014992'
   - :name: Algeria
     :players:
     - :position: Goalkeeper
       :name: Rais MBolhi
-      :height:
+      :height: 
       :weight: 176
       :birthdate: 04-25-1986
-      :birthplace: Paris, France 
+      :birthplace: Paris, France
       :current_club: CSKA Sofia (Bulgaria)
+      :lat: '48.8565056'
+      :lon: '2.3521334'
     - :position: Goalkeeper
       :name: Mohamed Zemmamouche
       :height: 73
@@ -4797,13 +6096,17 @@
       :birthdate: 03-19-1985
       :birthplace: Mila, Algeria
       :current_club: USM Alger (Algeria)
+      :lat: '36.437851'
+      :lon: '6.24754475643299'
     - :position: Goalkeeper
       :name: Azzedine Doukha
-      :height:
+      :height: 
       :weight: 176
-      :birthdate:
-      :birthplace: Chettia, Algeria 
+      :birthdate: 
+      :birthplace: Chettia, Algeria
       :current_club: USM El Harrach (Algeria)
+      :lat: '36.1975937'
+      :lon: '1.258941'
     - :position: Defender
       :name: Essaid Belkalem
       :height: 75
@@ -4811,6 +6114,8 @@
       :birthdate: 01-01-1989
       :birthplace: Mekla, Algeria
       :current_club: Watford (England)
+      :lat: '36.6876391'
+      :lon: '4.2681185'
     - :position: Defender
       :name: Madjid Bougherra
       :height: 75
@@ -4818,14 +6123,17 @@
       :birthdate: 10-07-1982
       :birthplace: Longiv, France
       :current_club: Lekhwiva SC (Qatar)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Carl Medjani
       :height: 73
       :weight: 169
-      :birthdate:
+      :birthdate: 
       :birthplace: Lyon, France
       :current_club: Valenciennes (France)
-
+      :lat: '45.7575958'
+      :lon: '4.8323239'
   - :name: Russia
     :players:
     - :position: Goalkeeper
@@ -4835,6 +6143,8 @@
       :birthdate: 04-08-1986
       :birthplace: Vidnoye, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '55.5571496'
+      :lon: '37.7087142'
     - :position: Goalkeeper
       :name: Yuri Lodygin
       :height: 73
@@ -4842,6 +6152,8 @@
       :birthdate: 05-26-1990
       :birthplace: Vladimir, Russia
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '56.1396823'
+      :lon: '40.413177'
     - :position: Goalkeeper
       :name: Sergey Ryzhikov
       :height: 76
@@ -4849,6 +6161,8 @@
       :birthdate: 09-19-1980
       :birthplace: Shebinko, Russia
       :current_club: Rubin Kazan (Russia)
+      :lat: 
+      :lon: 
     - :position: Defender
       :name: Aleksandr Anyukov
       :height: 70
@@ -4856,6 +6170,8 @@
       :birthdate: 09-28-1982
       :birthplace: Samara, Russia
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '53.1984756'
+      :lon: '50.1142415'
     - :position: Defender
       :name: Aleksei Berezutski
       :height: 74
@@ -4863,6 +6179,8 @@
       :birthdate: 06-20-1982
       :birthplace: Moscow, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Defender
       :name: Vasili Berezutski
       :height: 74
@@ -4870,6 +6188,8 @@
       :birthdate: 06-20-1982
       :birthplace: Moscow, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Defender
       :name: Vladimir Granat
       :height: 72
@@ -4877,6 +6197,8 @@
       :birthdate: 05-22-1987
       :birthplace: Ulan-Ude, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '51.8361244'
+      :lon: '107.5893301'
     - :position: Defender
       :name: Andrey Yeshchenko
       :height: 69
@@ -4884,6 +6206,8 @@
       :birthdate: 02-09-1984
       :birthplace: Irkutsk, Russia
       :current_club: Anzhi Makhachkala (Russia)
+      :lat: '52.2895979'
+      :lon: '104.2805843'
     - :position: Defender
       :name: Sergei Ignashevich
       :height: 73
@@ -4891,6 +6215,8 @@
       :birthdate: 07-14-1979
       :birthplace: Moscow, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Defender
       :name: Aleksei Kozlov
       :height: 72
@@ -4898,6 +6224,8 @@
       :birthdate: 12-25-1986
       :birthplace: Petrozavodsk, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '61.7900373'
+      :lon: '34.3900084'
     - :position: Defender
       :name: Dmitri Kombarov
       :height: 71
@@ -4905,6 +6233,8 @@
       :birthdate: 01-22-1987
       :birthplace: Moscow, Russia
       :current_club: Spartak Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Defender
       :name: Andrei Semenov
       :height: 75
@@ -4912,6 +6242,8 @@
       :birthdate: 03-24-1989
       :birthplace: Moscow, Russia
       :current_club: Terek Grozny (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Defender
       :name: Georgi Schennikov
       :height: 70
@@ -4919,6 +6251,8 @@
       :birthdate: 04-27-1991
       :birthplace: Moscow, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Midfielder
       :name: Vladimir Bystrov
       :height: 70
@@ -4926,6 +6260,8 @@
       :birthdate: 01-31-1984
       :birthplace: Luga, Russia
       :current_club: Anzhi Makhachkala (Russia)
+      :lat: '58.7357443'
+      :lon: '29.8476061'
     - :position: Midfielder
       :name: Yuri Zhirkov
       :height: 73
@@ -4933,6 +6269,8 @@
       :birthdate: 08-20-1983
       :birthplace: Tambov, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '52.7296'
+      :lon: '41.4487'
     - :position: Midfielder
       :name: Roman Shirokov
       :height: 73
@@ -4940,6 +6278,8 @@
       :birthdate: 07-06-1981
       :birthplace: Dedovsk, Russia
       :current_club: Krasnodar (Russia)
+      :lat: '55.8597972'
+      :lon: '37.1205424'
     - :position: Midfielder
       :name: Igor Denisov
       :height: 69
@@ -4947,6 +6287,8 @@
       :birthdate: 05-17-1984
       :birthplace: St. Petersburg, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '59.9393657'
+      :lon: '30.3153628'
     - :position: Midfielder
       :name: Alan Dzagoev
       :height: 70
@@ -4954,6 +6296,8 @@
       :birthdate: 06-17-1990
       :birthplace: Beslan, Russia
       :current_club: CSKA Moscow (Russia)
+      :lat: '43.1900169'
+      :lon: '44.5363062'
     - :position: Midfielder
       :name: Viktor Fayzulin
       :height: 69
@@ -4961,6 +6305,8 @@
       :birthdate: 04-22-1986
       :birthplace: Nakhodka, Russia
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '42.8396323'
+      :lon: '132.8926599'
     - :position: Midfielder
       :name: Alexander Samedov
       :height: 70
@@ -4968,6 +6314,8 @@
       :birthdate: 07-19-1984
       :birthplace: Moscow, Russia
       :current_club: Lokomovtiv Moscow (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Midfielder
       :name: Oleg Shatov
       :height: 69
@@ -4975,6 +6323,8 @@
       :birthdate: 07-29-1990
       :birthplace: Nizhny Tagil, Russia
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '57.905149'
+      :lon: '59.9508466'
     - :position: Midfielder
       :name: Aleksei Ionov
       :height: 70
@@ -4982,6 +6332,8 @@
       :birthdate: 02-18-1989
       :birthplace: Kingisepp, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '59.3764964'
+      :lon: '28.6112968'
     - :position: Midfielder
       :name: Yuri Gazinsky
       :height: 72
@@ -4989,6 +6341,8 @@
       :birthdate: 07-20-1989
       :birthplace: Komsomolsk-na-Amure, Russia
       :current_club: Krasnodar (Russia)
+      :lat: '50.56028335'
+      :lon: '136.99817549954'
     - :position: Midfielder
       :name: Pavel Mogilevets
       :height: 72
@@ -4996,6 +6350,8 @@
       :birthdate: 01-25-1993
       :birthplace: Kingisepp, Russia
       :current_club: Rubin Kazan (Russia)
+      :lat: '59.3764964'
+      :lon: '28.6112968'
     - :position: Midfielder
       :name: Denis Glushakov
       :height: 70
@@ -5003,6 +6359,8 @@
       :birthdate: 01-27-1987
       :birthplace: Millerovo, Russia
       :current_club: Spartak Moscow (Russia)
+      :lat: '48.9457255'
+      :lon: '40.4591629'
     - :position: Forward
       :name: Artem Dzyuba
       :height: 76
@@ -5010,6 +6368,8 @@
       :birthdate: 08-22-1988
       :birthplace: Moscow, Russia
       :current_club: Rostov (Russia)
+      :lat: '55.7516147'
+      :lon: '37.6187012'
     - :position: Forward
       :name: Maxim Kanunnikov
       :height: 72
@@ -5017,6 +6377,8 @@
       :birthdate: 07-14-1991
       :birthplace: Nizhny Tagil, Russia
       :current_club: Amkar Prem (Russia)
+      :lat: '57.905149'
+      :lon: '59.9508466'
     - :position: Forward
       :name: Aleksandr Kerzhakov
       :height: 69
@@ -5024,6 +6386,8 @@
       :birthdate: 11-27-1982
       :birthplace: Kingisepp, Russia
       :current_club: Zenit Saint Petersburg (Russia)
+      :lat: '59.3764964'
+      :lon: '28.6112968'
     - :position: Forward
       :name: Aleksandr Kokorin
       :height: 72
@@ -5031,6 +6395,8 @@
       :birthdate: 03-19-1991
       :birthplace: Valuyki, Russia
       :current_club: Dynamo Moscow (Russia)
+      :lat: '50.2112977'
+      :lon: '38.1002266'
     - :position: Forward
       :name: Pavel Pogrebnyak
       :height: 74
@@ -5038,7 +6404,8 @@
       :birthdate: 11-08-1983
       :birthplace: Moscow, Russia
       :current_club: Reading (England)
-
+      :lat: '55.7516147'
+      :lon: '37.6187012'
   - :name: South Korea
     :players:
     - :position: Goalkeeper
@@ -5048,6 +6415,8 @@
       :birthdate: 07-04-1985
       :birthplace: Jeju, South Korea
       :current_club: Suwon Bluewings (South Korea)
+      :lat: '33.3940067'
+      :lon: '126.5626688'
     - :position: Goalkeeper
       :name: Kim Seung-Gyu
       :height: 73
@@ -5062,6 +6431,8 @@
       :birthdate: 04-02-1989
       :birthplace: Seoul, South Korea
       :current_club: Busan IPark (South Korea)
+      :lat: '37.5710824'
+      :lon: '126.9953036'
     - :position: Defender
       :name: Kim Jin-Su
       :height: 69
@@ -5069,6 +6440,8 @@
       :birthdate: 06-13-1992
       :birthplace: Jeonju, South Korea
       :current_club: Albirex Niigata (Japan)
+      :lat: '35.8242715'
+      :lon: '127.1480657'
     - :position: Defender
       :name: Yun Suk-Young
       :height: 72
@@ -5076,6 +6449,8 @@
       :birthdate: 02-13-1990
       :birthplace: Suwon, South Korea
       :current_club: Queens Park Rangers (England)
+      :lat: '37.2633325'
+      :lon: '127.0287472'
     - :position: Defender
       :name: Kim Young-Gwon
       :height: 73
@@ -5083,6 +6458,8 @@
       :birthdate: 02-27-1990
       :birthplace: Jeonju, South Korea
       :current_club: Guangzhou Evergrande (China)
+      :lat: '35.8242715'
+      :lon: '127.1480657'
     - :position: Defender
       :name: Hwang Seok-Ho
       :height: 72
@@ -5090,6 +6467,8 @@
       :birthdate: 06-27-1989
       :birthplace: Cheongju, South Korea
       :current_club: Sanfrecce Hiroshima (Japan)
+      :lat: '36.6421169'
+      :lon: '127.4891929'
     - :position: Defender
       :name: Hong Jeong-Ho
       :height: 73
@@ -5097,6 +6476,8 @@
       :birthdate: 08-12-1989
       :birthplace: Jeju, South Korea
       :current_club: FC Augsburg (Germany)
+      :lat: '33.3940067'
+      :lon: '126.5626688'
     - :position: Defender
       :name: Kwak Tae-Hwi
       :height: 73
@@ -5104,6 +6485,8 @@
       :birthdate: 07-08-1981
       :birthplace: Chilgok, South Korea
       :current_club: Al-Hilal (Saudi Arabia)
+      :lat: '35.99521'
+      :lon: '128.401834'
     - :position: Defender
       :name: Lee Yong
       :height: 71
@@ -5118,6 +6501,8 @@
       :birthdate: 09-12-1985
       :birthplace: Busan, South Korea
       :current_club: Kashiwa Reysol (Japan)
+      :lat: '35.1853168'
+      :lon: '129.0625899'
     - :position: Midfielder
       :name: Ki Sung-Yeung
       :height: 73
@@ -5125,6 +6510,8 @@
       :birthdate: 01-24-1989
       :birthplace: Gwangju, South Korea
       :current_club: Sunderland (England)
+      :lat: '35.1594895'
+      :lon: '126.8286189'
     - :position: Midfielder
       :name: Ha Dae-Sung
       :height: 72
@@ -5132,6 +6519,8 @@
       :birthdate: 03-02-1985
       :birthplace: Incheon, South Korea
       :current_club: Beijing Guoan (China)
+      :lat: '37.4966135'
+      :lon: '126.6057595'
     - :position: Midfielder
       :name: Han Kook-Young
       :height: 72
@@ -5146,6 +6535,8 @@
       :birthdate: 03-10-1989
       :birthplace: Seongham, South Korea
       :current_club: Guangzhou R&F (China)
+      :lat: 
+      :lon: 
     - :position: Forward
       :name: Son Heung-Min
       :height: 72
@@ -5153,6 +6544,8 @@
       :birthdate: 07-08-1992
       :birthplace: Chuncheon, South Korea
       :current_club: Bayer Leverkusen (Germany)
+      :lat: '37.8814675'
+      :lon: '127.7304649'
     - :position: Midfielder
       :name: Kim Bo-Kyung
       :height: 70
@@ -5160,6 +6553,8 @@
       :birthdate: 10-06-1989
       :birthplace: Seoul, South Korea
       :current_club: Cardiff City (Wales)
+      :lat: '37.5710824'
+      :lon: '126.9953036'
     - :position: Midfielder
       :name: Lee Chung-Yong
       :height: 71
@@ -5167,6 +6562,8 @@
       :birthdate: 07-02-1988
       :birthplace: Seoul, South Korea
       :current_club: Bolton Wanderers (England)
+      :lat: '37.5710824'
+      :lon: '126.9953036'
     - :position: Forward
       :name: JI Dong-Won
       :height: 73
@@ -5174,6 +6571,8 @@
       :birthdate: 05-28-1991
       :birthplace: Jeju, South Korea
       :current_club: FC Augsburg (Germany)
+      :lat: '33.3940067'
+      :lon: '126.5626688'
     - :position: Midfielder
       :name: Koo Ja-Cheol
       :height: 72
@@ -5181,6 +6580,8 @@
       :birthdate: 02-27-1989
       :birthplace: Chungju, South Korea
       :current_club: Mainz 05 (Germany)
+      :lat: '36.9907334'
+      :lon: '127.9259891'
     - :position: Forward
       :name: Lee Keun-Ho
       :height: 69
@@ -5188,6 +6589,8 @@
       :birthdate: 04-11-1985
       :birthplace: Incheon, South Korea
       :current_club: Sangju Sangmu (South Korea)
+      :lat: '37.4966135'
+      :lon: '126.6057595'
     - :position: Forward
       :name: Park Chu-Young
       :height: 72
@@ -5195,6 +6598,8 @@
       :birthdate: 07-10-1985
       :birthplace: Daegu, South Korea
       :current_club: Watford (England)
+      :lat: '35.8404121'
+      :lon: '128.5586643'
     - :position: Forward
       :name: Kim Shin-Wook
       :height: 77

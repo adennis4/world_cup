@@ -1,7 +1,7 @@
 require 'yaml'
 
 def rosters
-  YAML.load_file('rosters.yml')
+  @rosters ||= YAML.load_file('rosters.yml')
 end
 
 def groups
@@ -14,4 +14,10 @@ end
 
 def players
   teams.map { |team| team[:players] }.flatten
+end
+
+def save_rosters
+  File.open('rosters_with_locations.yml', 'w') do |file|
+    file.write(rosters.to_yaml)
+  end
 end
