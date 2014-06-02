@@ -1,7 +1,7 @@
 require 'yaml'
 
 def rosters
-  @rosters ||= YAML.load_file('rosters.yml')
+  @rosters ||= YAML.load_file('data/rosters.yml')
 end
 
 def groups
