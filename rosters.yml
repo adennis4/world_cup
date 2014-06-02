@@ -10,7 +10,7 @@
       :weight: 175
       :birthdate: 09-03-1979
       :birthplace: Duque de Caxias, Brazil
-      :current_club: Toronto FC (MLS)
+      :current_club: Toronto FC (USA)
     - :position: Goalkeeper
       :name: Jefferson
       :height: 74
@@ -272,7 +272,7 @@
       :weight: 139
       :birthdate: 11-14-1986
       :birthplace: Aschaffenburg, Germany
-      :current_club: Hamburger (Germany)
+      :current_club: Hamburg (Germany)
     - :position: Midfielder
       :name: Mateo Kovacic
       :height: 71
@@ -450,7 +450,7 @@
       :weight: 165
       :birthdate: 04-02-1980
       :birthplace: Ocotlán, Mexico
-      :current_club: Chivas de Guadalajara(Mexico)
+      :current_club: Chivas de Guadalajara (Mexico)
     - :position: Midfielder
       :name: Andrés Guardado
       :height: 66
@@ -470,7 +470,7 @@
       :height: 68
       :weight: 150
       :birthdate: 08-28-1990
-      :birthplace: San Jose, CA
+      :birthplace: San Jose, CA, USA
       :current_club: Toluca (Mexico)
     - :position: Midfielder
       :name: Luis Montes
@@ -679,7 +679,7 @@
       :weight: 139
       :birthdate: 04-28-1988
       :birthplace: Burgos, Spain
-      :current_club: Manchester United (Spain)
+      :current_club: Manchester United (England)
     - :position: Midfielder
       :name: Cesc Fàbregas
       :height: 71
@@ -913,7 +913,7 @@
       :weight: 172
       :birthdate: 08-12-1983
       :birthplace: Drempt, Netherlands
-      :current_club: Schalke (Germany)
+      :current_club: FC Schalke 04 (Germany)
     - :position: Forward
       :name: Dirk Kuyt
       :height: 72
@@ -1269,7 +1269,7 @@
       :weight: 150
       :birthdate: 12-06-1979
       :birthplace: Sydney, Australia
-      :current_club: New York Red Bulls (MLS)
+      :current_club: New York Red Bulls (USA)
     - :position: Forward
       :name: Joshua Kennedy
       :height: 76
@@ -1463,7 +1463,7 @@
       :weight: 168
       :birthdate: 08-04-1980
       :birthplace: Manizales, Colombia
-      :current_club: Mainz (Germany)
+      :current_club: Mainz 05 (Germany)
     - :position: Forward
       :name: Radamel Falcao
       :height: 70
@@ -1751,7 +1751,7 @@
       :weight: 183
       :birthdate: 11-02-1980
       :birthplace: Canelones, Uruguay
-      :current_club: Unattached
+      :current_club: West Bromwich Albion (England)
     - :position: Defender
       :name: Diego Godín
       :height: 73
@@ -1957,7 +1957,7 @@
       :weight: 185
       :birthdate: 02-08-1988
       :birthplace: San José, Costa Rica
-      :current_club: Columbus Crew (MLS)
+      :current_club: Columbus Crew (USA)
     - :position: Defender
       :name: Míchael Umaña
       :height: 72
@@ -1978,7 +1978,7 @@
       :weight: 160
       :birthdate: 09-20-1990
       :birthplace: Puerto Limon, Costa Rica
-      :current_club: Columbus Crew (MLS)
+      :current_club: Columbus Crew (USA)
     - :position: Defender
       :name: Heiner Mora
       :height: 70
@@ -2006,7 +2006,7 @@
       :weight: 166
       :birthdate: 11-24-1984
       :birthplace: San Jose, Costa Rica
-      :current_club: New York Red Bulls (MLS)
+      :current_club: New York Red Bulls (USA)
     - :position: Defender
       :name: Kendall Watson
       :height: 77
@@ -2083,7 +2083,7 @@
       :weight: 170
       :birthdate: 03-25-1982
       :birthplace: San Carlos, Costa Rica
-      :current_club: Real Salt Lake (MLS)
+      :current_club: Real Salt Lake (USA)
     - :position: Midfielder
       :name: Bryan Ruiz
       :height: 73
@@ -2118,7 +2118,7 @@
       :weight: 150
       :birthdate: 08-25-1983
       :birthplace: Nicoya, Costa Rica
-      :current_club: Columbus Crew (MLS)
+      :current_club: Columbus Crew (USA)
 
   - :name: England
     :players:
@@ -2324,7 +2324,7 @@
       :weight: 143
       :birthdate: 10-07-1982
       :birthplace: London, England
-      :current_club: Toronto FC (MLS)
+      :current_club: Toronto FC (USA)
 
   - :name: Italy
     :players:
@@ -2570,7 +2570,7 @@
       :weight: 192
       :birthdate: 01-18-1987
       :birthplace: Abidjan, Ivory Coast
-      :current_club: Hamburger (Germany)
+      :current_club: Hamburg (Germany)
     - :position: Defender
       :name: Michael Lang
       :height: 73
@@ -2825,14 +2825,14 @@
       :weight: 150
       :birthdate: 03-16-1979
       :birthplace: El Chota, Ecuador
-      :current_club: Sante Fe (Colombia)
+      :current_club: Santa Fe (Colombia)
     - :position: Midfielder
       :name: Oswaldo Minda
       :height: 72
       :weight: 172
       :birthdate: 07-07-1983
       :birthplace: Pasaje, Ecuador
-      :current_club: Chivas USA (MLS)
+      :current_club: Chivas USA (USA)
     - :position: Midfielder
       :name: Christian Noboa
       :height: 71
@@ -3017,7 +3017,7 @@
       :weight: 163
       :birthdate: 03-08-1984
       :birthplace: 
-      :current_club: Lille (France)
+      :current_club: Lille FC (France)
     - :position: Midfielder
       :name: Paul Pogba
       :height: 73
@@ -3202,7 +3202,7 @@
       :weight:
       :birthdate: 03-08-1988 
       :birthplace:
-      :current_club: Wigan (England)
+      :current_club: Wigan Athletic (England)
     - :position: Midfielder
       :name: Jorge Claros
       :height: 69
@@ -3237,7 +3237,7 @@
       :weight: 159
       :birthdate: 10-25-1986
       :birthplace: Puerto Cortés, Honduras
-      :current_club: Wigan (England)
+      :current_club: Wigan Athletic (England)
     - :position: Midfielder
       :name: Marvin Chávez
       :height: 65
@@ -3319,7 +3319,7 @@
       :weight: 187
       :birthdate: 10-10-1986
       :birthplace: Rosario, Argentina
-      :current_club: Benfica(Portugal)
+      :current_club: Benfica (Portugal)
     - :position: Defender
       :name: Federico Fernández
       :height: 74
@@ -3546,7 +3546,7 @@
       :weight: 181
       :birthdate: 06-20-1993
       :birthplace: Karlsruhle, Germany
-      :current_club: FC Schalke 04
+      :current_club: FC Schalke 04 (Germany)
     - :position: Defender
       :name: Ognjen Vranjes
       :height: 72
@@ -3588,7 +3588,7 @@
       :weight: 156
       :birthdate: 08-04-1991
       :birthplace: Brugg, Switzerland
-      :current_club: Galatasaray AS (Turkey)
+      :current_club: Galatasaray (Turkey)
     - :position: Defender
       :name: Mensur Mujdza
       :height: 73
@@ -3623,7 +3623,7 @@
       :weight: 170
       :birthdate: 02-13-1992
       :birthplace: Sarajevo, Bosnia and Herzegovina
-      :current_club: HNK Hajduk Split
+      :current_club: HNK Hajduk Split (Croatia)
     - :position: Midfielder
       :name: Sejad Salihovic
       :height: 72
@@ -3723,8 +3723,8 @@
       :height: 70
       :weight: 170
       :birthdate: 02-01-1987
-      :birthplace: San Jose, CA
-      :current_club: Vancouver Whitecaps (Canada, MLS)
+      :birthplace: San Jose, CA, USA
+      :current_club: Vancouver Whitecaps (USA)
     - :position: Defender
       :name: Pejman Montazeri
       :height: 73
@@ -3954,9 +3954,9 @@
       :current_club: Norwich City (England)
     - :position: Defender
       :name: Kunle Odumlani
-      :height: 03-05-1990
+      :height:
       :weight: 
-      :birthdate: 
+      :birthdate: 03-05-1990
       :birthplace: 
       :current_club: Sunshine Stars (Nigeria)
     - :position: Midfielder
@@ -4138,7 +4138,7 @@
       :weight: 176
       :birthdate: 02-29-1988
       :birthplace: Haltern, Germany
-      :current_club: Schalke (Germany)
+      :current_club: FC Schalke 04 (Germany)
     - :position: Defender
       :name: Mats Hummels
       :height: 76
@@ -4152,7 +4152,7 @@
       :weight: 196
       :birthdate: 11-04-1985
       :birthplace: Mönchengladbach, Germany
-      :current_club: Hamburger (Germany)
+      :current_club: Hamburg (Germany)
     - :position: Defender
       :name: Philipp Lahm
       :height: 67
@@ -4187,7 +4187,7 @@
       :weight: 163
       :birthdate: 09-20-1993
       :birthplace: Gladbeck, Germany
-      :current_club: Schalke (Germany)
+      :current_club: FC Schalke 04 (Germany)
     - :position: Defender
       :name: Matthias Ginter
       :height: 74
@@ -4201,13 +4201,13 @@
       :weight: 168
       :birthdate: 02-06-1995
       :birthplace: Bochum, Germany
-      :current_club: Schalke (Germany)
+      :current_club: FC Schalke 04 (Germany)
     - :position: Midfielder
       :name: Mario Götze
       :height: 69
       :weight: 141
       :birthdate: 06-03-1992
-      :birthplace: Memmingen, Gemany
+      :birthplace: Memmingen, Germany
       :current_club: Bayern Munich (Germany)
     - :position: Midfielder
       :name: Sami Khedira
@@ -4229,7 +4229,7 @@
       :weight: 143
       :birthdate: 09-18-1995
       :birthplace: Oberhausen, Germany
-      :current_club: Schalke (Germany)
+      :current_club: FC Schalke 04 (Germany)
     - :position: Midfielder
       :name: Thomas Müller
       :height: 73
@@ -4473,7 +4473,7 @@
       :weight: 184
       :birthdate: 06-17-1979
       :birthplace: Montclair, CA, USA
-      :current_club: Real Salt Lake (MLS)
+      :current_club: Real Salt Lake (USA)
     - :position: Defender
       :name: DaMarcus Beasley
       :height: 68
@@ -4487,7 +4487,7 @@
       :weight: 170
       :birthdate: 02-11-1987
       :birthplace: Kansas City, MO, USA
-      :current_club: Sporting Kansas City (MLS)
+      :current_club: Sporting Kansas City (USA)
     - :position: Defender
       :name: John Brooks
       :height: 76
@@ -4515,7 +4515,7 @@
       :weight: 205
       :birthdate: 10-11-1988
       :birthplace: Dallas, TX, USA
-      :current_club: LA Galaxy (MLS)
+      :current_club: LA Galaxy (USA)
     - :position: Midfielder
       :name: Fabian Johnson
       :height: 72
@@ -4529,14 +4529,14 @@
       :weight: 150
       :birthdate: 07-09-1993
       :birthplace: Seattle, WA, USA
-      :current_club: Seattle Sounders (MLS)
+      :current_club: Seattle Sounders (USA)
     - :position: Midfielder
       :name: Kyle Beckerman
       :height: 71
       :weight: 165
       :birthdate: 04-23-1982
       :birthplace: Crofton, MD, USA
-      :current_club: Real Salt Lake (MLS)
+      :current_club: Real Salt Lake (USA)
     - :position: Midfielder
       :name: Alejandro Bedoya
       :height: 70
@@ -4550,14 +4550,14 @@
       :weight: 179
       :birthdate: 07-31-1987
       :birthplace: Princeton, NJ, USA
-      :current_club: Toronto FC (MLS)
+      :current_club: Toronto FC (USA)
     - :position: Midfielder
       :name: Brad Davis
       :height: 71
       :weight: 170
       :birthdate: 11-08-1981
       :birthplace: St. Charles, MO, USA
-      :current_club: Houston Dynamo (MLS)
+      :current_club: Houston Dynamo (USA)
     - :position: Midfielder
       :name: Mikkel Diskerud
       :height: 72
@@ -4585,7 +4585,7 @@
       :weight: 160
       :birthdate: 08-18-1986
       :birthplace: Orlando, FL, USA
-      :current_club: Sporting Kansas City (MLS)
+      :current_club: Sporting Kansas City (USA)
     - :position: Forward
       :name: Jozy Altidore
       :height: 72
@@ -4599,7 +4599,7 @@
       :weight: 170
       :birthdate: 03-09-1983
       :birthplace: Nacogdoches, TX, USA
-      :current_club: Seattle Sounders (MLS)
+      :current_club: Seattle Sounders (USA)
     - :position: Forward
       :name: Aron Jóhannsson
       :height: 72
@@ -4613,7 +4613,7 @@
       :weight: 165
       :birthdate: 01-28-1983
       :birthplace: Danville, CA, USA
-      :current_club: San Jose Earthquakes (MLS)
+      :current_club: San Jose Earthquakes (USA)
 
 - :group: H
   :teams:
@@ -4758,7 +4758,7 @@
       :weight: 165
       :birthdate: 04-18-1995
       :birthplace: Oostende, Belgium
-      :current_club: Lille (France)
+      :current_club: Lille FC (France)
     - :position: Midfielder
       :name: Axel Witsel
       :height: 72
@@ -4785,8 +4785,8 @@
     :players:
     - :position: Goalkeeper
       :name: Rais MBolhi
-      :height: 176
-      :weight:
+      :height:
+      :weight: 176
       :birthdate: 04-25-1986
       :birthplace: Paris, France 
       :current_club: CSKA Sofia (Bulgaria)
@@ -4799,8 +4799,8 @@
       :current_club: USM Alger (Algeria)
     - :position: Goalkeeper
       :name: Azzedine Doukha
-      :height: 176
-      :weight:
+      :height:
+      :weight: 176
       :birthdate:
       :birthplace: Chettia, Algeria 
       :current_club: USM El Harrach (Algeria)
@@ -4822,8 +4822,8 @@
       :name: Carl Medjani
       :height: 73
       :weight: 169
-      :birthdate: Lyon, France
-      :birthplace: 
+      :birthdate:
+      :birthplace: Lyon, France
       :current_club: Valenciennes (France)
 
   - :name: Russia

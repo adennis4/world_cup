@@ -1,15 +1,21 @@
 require 'mechanize'
 require 'yaml'
 
-def run!
-  all = teams.map do |team|
-    { teams:
-      { team: team, players: roster }
-    }
-  end
+attr_reader :subject
 
+def run!
+  add_team
+end
+
+def team_json
+  teams.map do |team|
+    { teams: { team: team, players: roster } }
+  end
+end
+
+def add_team
   f = File.new("rosters.yml", "a")
-  f.write(all.to_yaml)
+  f.write(team_json.to_yaml)
   f.close
 end
 
@@ -23,17 +29,14 @@ end
 
 def roster
   all_players = []
-  roster_links = page.links_with(text: /ROSTER/).map(&:href)
+
   roster_links.each do |roster|
-    players = agent.get(roster_links[31]).links_with(href: /players\//).map(&:href)
-    players.each do |player|
-      subject = agent.get(player)
-      position = subject.search('.player-position').text.strip
-      name = subject.search('.player-name').text.strip
-      info = subject.search('.player-info ul').children.map do |profile_info|
-        profile_info.text.slice(/\n.*$/).strip
-      end
-      current_club = subject.search('.block_body .content p:first').text.slice(/:.*$/)[2..-1]
+    @roster.each do |player|
+      position     = scrape_position
+      name         = scrape_name
+      info         = scrape_stats
+      current_club = scrape_club
+
       all_players.push({
         position: position,
         name: name,
@@ -46,6 +49,36 @@ def roster
     end
   end
   all_players
+end
+
+def scrape_club
+  subject.search('.block_body .content p:first').text.slice(/:.*$/)[2..-1]
+end
+
+def scrape_stats
+  subject.search('.player-info ul').children.map do |profile_info|
+    profile_info.text.slice(/\n.*$/).strip
+  end
+end
+
+def scrape_name
+  subject.search('.player-name').text.strip
+end
+
+def scrape_position
+  subject.search('.player-position').text.strip
+end
+
+def subject_page(player)
+  @subject ||= agent.get(player)
+end
+
+def roster_page(roster)
+  @roster ||= agent.get(roster).links_with(href: /players\//).map(&:href)
+end
+
+def roster_list
+  page.links_with(text: /ROSTER/).map(&:href)
 end
 
 def teams
