@@ -2,4 +2,5 @@
 //= require 'topo'
 //= require 'datamaps.world.min'
 //= require 'jquery'
+//= require 'underscore'
 //= require 'map'
