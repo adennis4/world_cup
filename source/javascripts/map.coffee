@@ -36,6 +36,16 @@ window.init = (rosters) ->
     e.preventDefault()
     selectedTeam = worldCupData.players(@text)
     addBubbleData(selectedTeam)
-    map.bubbles(selectedTeam, borderWidth: 1, borderColor: 'black' )
+    map.bubbles(
+      selectedTeam,
+      borderWidth: 1,
+      borderColor: 'black',
+      popupTemplate: (data) ->
+        [].join('')
+        return ['<div class="hoverinfo"><strong>' +  data.name + '</strong>',
+                '<br/>' +  data.birthplace,
+                '<br/>' + data.current_club + '',
+                '</div>'].join('');
+    )
   )
 
