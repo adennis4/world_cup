@@ -3,7 +3,8 @@
 body {
   background: #d4d4d4 url("../images/background.png");
   text-align: center;
-  font-family: sans-serif; }
+  font-family: sans-serif; 
+}
 
 h1 {
   color: rgba(0, 0, 0, .3);
@@ -54,13 +55,21 @@ h1 {
   }
 }
 
-#container {
-  position: relative;
-  width: 1200px;
-  height: 1000px;
+.countries {
+  float: left;
+  text-align: left;
+  margin-left: 10px;
 }
 
-circle {
-  /* fill: "red" !important; */
-  /* stroke: "blue" !important; */
+.countries p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+#container {
+  position: relative;
+  width: 1000px;
+  height: 800px;
+  margin-top: -100px;
+  float: left;
 }

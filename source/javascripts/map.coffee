@@ -22,18 +22,20 @@ class WorldCupData
 window.init = (rosters) ->
   map = new Datamap({
     element: document.getElementById('container'),
-    fills: { "defaultFill": "gray", "bubbles": "red" }
+    fills: { defaultFill: 'gray', bubbles: 'red' }
   })
 
   worldCupData = new WorldCupData(rosters)
 
   addBubbleData = (players) ->
-    _.each(players, (player) ->
-      player["radius"] = 8
+    _.each players, (player) ->
+      player["radius"] = 3
       player["fillKey"] = "bubbles"
-    )
 
-  selectedTeam = worldCupData.players("France")
-  addBubbleData(selectedTeam)
+  country = $('p a').on('click', (e) ->
+    e.preventDefault()
+    selectedTeam = worldCupData.players(@text)
+    addBubbleData(selectedTeam)
+    map.bubbles(selectedTeam, borderWidth: 1, borderColor: 'black' )
+  )
 
-  map.bubbles(selectedTeam)
