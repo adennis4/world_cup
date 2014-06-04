@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+body {
+  background: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+header {
+  height: 80px;
+  background: blue;
+  padding-top: 30px;
+  color: white;
+}
+
+h1 {
+  color: rgba(0, 0, 0, .3);
+  font-weight: bold;
+  font-size: 32px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+  background: url("../images/middleman.png") no-repeat center 100px;
+  padding: 350px 0 10px;
+  margin: 0; }
+
+
+
+section.map {
+  .countries {
+    float: left;
+    font-size: .8em;
+    text-align: left;
+    margin-left: 10px;
+    position: relative;
+    z-index: 100;
+
+    .group {
+      font-weight: bold;
+    }
+
+    li {
+      margin-top: 3px;
+      margin-bottom: 3px;
+      list-style-type: none;
+
+      a:link {
+        text-decoration: none;
+        cursor: pointer;
+        padding-left: 15px;
+      }
+    }
+  }
+
+  #container {
+    position: absolute;
+    width: 80%;
+    height: 800px;
+    float: left;
+    padding-top: -100px;
+    padding-left: 200px;
+  }
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
