@@ -211,6 +211,169 @@
       :current_club: Shakhtar Donetsk (Ukraine)
       :latitude: "-19.9227318"
       :longitude: "-43.9450948"
+  - :name: Cameroon
+    :players:
+    - :position: Forward
+      :name: Vincent Aboubakar
+      :height: 70
+      :weight: 172
+      :birthdate: 01-22-1992
+      :birthplace: Garoua, Cameroon
+      :current_club: Lorient (France)
+    - :position: Defender
+      :name: Benoit Assou-Ekoto
+      :height: 70
+      :weight: 154
+      :birthdate: 03-24-1984
+      :birthplace: Arras, France
+      :current_club: Queens Park Rangers (England)
+    - :position: Defender
+      :name: Henri Bedimo
+      :height: 71
+      :weight: 176
+      :birthdate: 06-04-1984
+      :birthplace: Douala, Cameroon
+      :current_club: Lyon (France)
+    - :position: Defender
+      :name: Aurelien Chedjou
+      :height: 72
+      :weight: 190
+      :birthdate: 06-20-1985
+      :birthplace: Douala, Cameroon
+      :current_club: Galatasaray (Turkey)
+    - :position: Forward
+      :name: Eric Maxim Choupo-Moting
+      :height: 75
+      :weight: 185
+      :birthdate: 03-23-1989
+      :birthplace: Hamburg, Germany
+      :current_club: Mainz (Germany)
+    - :position: Defender
+      :name: Cedric Djeugoue
+      :height: 08-28-1992
+      :weight: 
+      :birthdate: 
+      :birthplace: 
+      :current_club: Coton Sport (Cameroon)
+    - :position: Midfielder
+      :name: Eyong Enoh
+      :height: 72
+      :weight: 154
+      :birthdate: 03-23-1986
+      :birthplace: Kumba, Cameroon
+      :current_club: Antalyaspor (Turkey)
+    - :position: Forward
+      :name: Samuel Eto'o
+      :height: 71
+      :weight: 165
+      :birthdate: 03-10-1981
+      :birthplace: N'kon, Cameroon
+      :current_club: Chelsea (England)
+    - :position: Goalkeeper
+      :name: Charles Itandje
+      :height: 76
+      :weight: 198
+      :birthdate: 11-02-1982
+      :birthplace: Bobigny, France
+      :current_club: Konyaspor (Turkey)
+    - :position: Midfielder
+      :name: Jean Makoun
+      :height: 68
+      :weight: 152
+      :birthdate: 05-29-1983
+      :birthplace: Yaounde, Cameroon
+      :current_club: Rennes (France)
+    - :position: Midfielder
+      :name: Joel Matip
+      :height: 76
+      :weight: 194
+      :birthdate: 08-08-1991
+      :birthplace: Bochum, Germany
+      :current_club: Schalke (Germany)
+    - :position: Midfielder
+      :name: Stephane Mbia
+      :height: 74
+      :weight: 181
+      :birthdate: 05-20-1986
+      :birthplace: Yaounde, Cameroon
+      :current_club: Sevilla (Spain)
+    - :position: Forward
+      :name: Benjamin Moukandjo
+      :height: 71
+      :weight: 163
+      :birthdate: 11-12-1988
+      :birthplace: Douala, Cameroon
+      :current_club: Nancy (France)
+    - :position: Goalkeeper
+      :name: Sammy N'Djock
+      :height: 75
+      :weight: 02-25-1990
+      :birthdate: Yaounde, Cameroon
+      :birthplace: 
+      :current_club: Fethiyespor (Turkey)
+    - :position: Goalkeeper
+      :name: Guy N'dy Assembe
+      :height: 73
+      :weight: 174
+      :birthdate: 02-28-1986
+      :birthplace: Yaounde, Cameroon
+      :current_club: Guingamp (France)
+    - :position: Midfielder
+      :name: Landry N'Guemo
+      :height: 68
+      :weight: 154
+      :birthdate: 11-28-1985
+      :birthplace: Yaounde, Cameroon
+      :current_club: Bordeaux (France)
+    - :position: Defender
+      :name: Nicolas N'Koulou
+      :height: 71
+      :weight: 170
+      :birthdate: 03-27-1990
+      :birthplace: Yaounde, Cameroon
+      :current_club: Marseille (France)
+    - :position: Defender
+      :name: Dany Nounkeu
+      :height: 72
+      :weight: 187
+      :birthdate: 04-11-1986
+      :birthplace: Yaounde, Cameroon
+      :current_club: Besiktas (Turkey)
+    - :position: Defender
+      :name: Allan Nyom
+      :height: 73
+      :weight: 179
+      :birthdate: 05-10-1988
+      :birthplace: Neulli-sur-Seine, France
+      :current_club: Granada (Spain)
+    - :position: Forward
+      :name: Fabrice Olinga
+      :height: 68
+      :weight: 145
+      :birthdate: 05-12-1996
+      :birthplace: Douala, Cameroon
+      :current_club: Zulte Waregem (Belgium)
+    - :position: Midfielder
+      :name: Edgar Salli
+      :height: 64
+      :weight: 08-17-1992
+      :birthdate: Garoua, Cameroon
+      :birthplace: 
+      :current_club: Lens (France)
+    - :position: Midfielder
+      :name: Alex Song
+      :height: 71
+      :weight: 168
+      :birthdate: 09-09-1987
+      :birthplace: Douala, Cameroon
+      :current_club: Barcelona (Spain)
+    - :position: Forward
+      :name: Pierre Webo
+      :height: 71
+      :weight: 172
+      :birthdate: 01-20-1982
+      :birthplace: Bafoussam, Cameroon
+      :current_club: Fenerbahce (Turkey)
   - :name: Croatia
     :players:
     - :position: Goalkeeper
@@ -2193,6 +2356,162 @@
       :current_club: Konyaspor (Turkey)
       :latitude: '39.6369927'
       :longitude: '22.417088'
+  - :name: Ivory Coast
+    :players:
+    - :position: Defender
+      :name: Jean-Daniel Akpa-Akpro
+      :height: 71
+      :weight: 150
+      :birthdate: 10-11-1992
+      :birthplace: Toulouse, France
+      :current_club: Toulouse (France)
+    - :position: Defender
+      :name: Serge Aurier
+      :height: 69
+      :weight: 168
+      :birthdate: 12-24-1992
+      :birthplace: Ouragahio, Ivory Coast
+      :current_club: Toulouse (France)
+    - :position: Defender
+      :name: Sol Bamba
+      :height: 75
+      :weight: 198
+      :birthdate: 01-13-1985
+      :birthplace: Ivry-sur-Seine, France
+      :current_club: Trabzonspor (Turkey)
+    - :position: Goalkeeper
+      :name: Boubacar Barry
+      :height: 71
+      :weight: 152
+      :birthdate: 12-30-1979
+      :birthplace: Marcory, Ivory Coast
+      :current_club: Lokeren (Belgium)
+    - :position: Defender
+      :name: Arthur Boka
+      :height: 65
+      :weight: 148
+      :birthdate: 04-02-1983
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Stuttgart (Germany)
+    - :position: Midfielder
+      :name: Mathis Bolly
+      :height: 73
+      :weight: 170
+      :birthdate: 11-14-1990
+      :birthplace: Oslo, Norway
+      :current_club: Fortuna Dusseldorf (Germany)
+    - :position: Midfielder
+      :name: Serey Die
+      :height: 70
+      :weight: 170
+      :birthdate: 11-07-1984
+      :birthplace: Facobly, Ivory Coast
+      :current_club: Basel (Switzerland)
+    - :position: Midfielder
+      :name: Ismael Diomande
+      :height: 71
+      :weight: 08-28-1992
+      :birthdate: Abidjan, Ivory Coast
+      :birthplace: 
+      :current_club: Saint-Etienne (France)
+    - :position: Defender
+      :name: Constant Djakpa
+      :height: 70
+      :weight: 163
+      :birthdate: 10-17-1986
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Eintracht Frankfurt (Germany)
+    - :position: Forward
+      :name: Didier Drogba
+      :height: 74
+      :weight: 201
+      :birthdate: 03-11-1978
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Galatasaray (Turkey)
+    - :position: Goalkeeper
+      :name: Sylvain Gbohouo
+      :height: 
+      :weight: 
+      :birthdate: 
+      :birthplace: 
+      :current_club: Sewe Sport (Ivory Coast)
+    - :position: Forward
+      :name: Gervinho
+      :height: 70
+      :weight: 150
+      :birthdate: 03-27-1987
+      :birthplace: Anyama, Ivory Coast
+      :current_club: AS Roma (Italy)
+    - :position: Midfielder
+      :name: Max Gradel
+      :height: 69
+      :weight: 152
+      :birthdate: 11-30-1987
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Saint-Etienne (France)
+    - :position: Forward
+      :name: Salomon Kalou
+      :height: 72
+      :weight: 170
+      :birthdate: 08-05-1985
+      :birthplace: Oume, Ivory Coast
+      :current_club: Lille (France)
+    - :position: Goalkeeper
+      :name: Sayouba Mande
+      :height: 76
+      :weight: 181
+      :birthdate: 06-15-1993
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Stabaek (Norway)
+    - :position: Forward
+      :name: Giovanni Sio
+      :height: 71
+      :weight: 170
+      :birthdate: 03-31-1989
+      :birthplace: Saint-Sebastien-sur-Loire, France
+      :current_club: Basel (Switzerland)
+    - :position: Midfielder
+      :name: Cheick Tiote
+      :height: 71
+      :weight: 68
+      :birthdate: 06-21-1986
+      :birthplace: Yamoussoukro, Ivory Coast
+      :current_club: Newcastle United (England)
+    - :position: Defender
+      :name: Kolo Toure
+      :height: 71
+      :weight: 163
+      :birthdate: 03-19-1981
+      :birthplace: Bouake, Ivory Coast
+      :current_club: Liverpool (England)
+    - :position: Midfielder
+      :name: Yaya Toure
+      :height: 75
+      :weight: 198
+      :birthdate: 05-13-1983
+      :birthplace: Bouake, Ivory Coast
+      :current_club: Manchester City (England)
+    - :position: Defender
+      :name: Ousmane Viera
+      :height: 73
+      :weight: 12-21-1986
+      :birthdate: Daloa, Ivory Coast
+      :birthplace: 
+      :current_club: Rizespor (Turkey)
+    - :position: Forward
+      :name: Didier Ya Konan
+      :height: 69
+      :weight: 150
+      :birthdate: 05-22-1984
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Hannover (Germany)
+    - :position: Defender
+      :name: Didier Zokora
+      :height: 70
+      :weight: 159
+      :birthdate: 12-14-1980
+      :birthplace: Abidjan, Ivory Coast
+      :current_club: Unattached
 - :group: D
   :teams:
   - :name: Uruguay
@@ -5467,6 +5786,169 @@
       :current_club: Hoffenheim (Germany)
       :latitude: '47.7750654'
       :longitude: '10.6170847'
+  - :name: Ghana
+    :players:
+    - :position: Midfielder
+      :name: Afriyie Acquah
+      :height: 70
+      :weight: 154
+      :birthdate: 01-05-1992
+      :birthplace: Accra, Ghana
+      :current_club: Parma (Italy)
+    - :position: Goalkeeper
+      :name: Stephen Adams
+      :height: 73
+      :weight: 179
+      :birthdate: 09-28-1989
+      :birthplace: Kumasi, Ghana
+      :current_club: Aduana Stars (Ghana)
+    - :position: Midfielder
+      :name: Albert Adomah
+      :height: 73
+      :weight: 161
+      :birthdate: 12-13-1987
+      :birthplace: London, England
+      :current_club: Middlesbrough (England)
+    - :position: Defender
+      :name: Harrison Afful
+      :height: 66
+      :weight: 127
+      :birthdate: 06-24-1986
+      :birthplace: Kumasi, Ghana
+      :current_club: Esperance de Tunis (Tunisia)
+    - :position: Midfielder
+      :name: Emmanuel Agyemang Badu
+      :height: 72
+      :weight: 170
+      :birthdate: 12-02-1990
+      :birthplace: Seikwa, Ghana
+      :current_club: Udinese (Italy)
+    - :position: Midfielder
+      :name: Kwadwo Asamoah
+      :height: 70
+      :weight: 172
+      :birthdate: 12-09-1988
+      :birthplace: Accra, Ghana
+      :current_club: Juventus (Italy)
+    - :position: Midfielder
+      :name: Christian Atsu
+      :height: 68
+      :weight: 150
+      :birthdate: 01-10-1992
+      :birthplace: Ada Foah, Ghana
+      :current_club: Vitesse (Netherlands)
+    - :position: Midfielder
+      :name: Andrew Ayew
+      :height: 69
+      :weight: 159
+      :birthdate: 12-17-1989
+      :birthplace: Lille, France
+      :current_club: Marseille (France)
+    - :position: Forward
+      :name: Jordan Ayew
+      :height: 72
+      :weight: 176
+      :birthdate: 09-11-1991
+      :birthplace: Marseille, France
+      :current_club: Sochaux (France)
+    - :position: Midfielder
+      :name: Kevin-Prince Boateng
+      :height: 73
+      :weight: 190
+      :birthdate: 03-06-1987
+      :birthplace: Berlin, Germany
+      :current_club: Schalke (Germany)
+    - :position: Defender
+      :name: John Boye
+      :height: 73
+      :weight: 159
+      :birthdate: 04-23-1987
+      :birthplace: Accra, Ghana
+      :current_club: Rennes (France)
+    - :position: Goalkeeper
+      :name: Fatau Dauda
+      :height: 71
+      :weight: 170
+      :birthdate: 04-06-1985
+      :birthplace: Obuasi, Ghana
+      :current_club: Orlando Pirates (South Africa)
+    - :position: Midfielder
+      :name: Michael Essien
+      :height: 70
+      :weight: 187
+      :birthdate: 12-03-1982
+      :birthplace: Accra, Ghana
+      :current_club: AC Milan (Italy)
+    - :position: Forward
+      :name: Asamoah Gyan
+      :height: 73
+      :weight: 176
+      :birthdate: 11-22-1985
+      :birthplace: Accra, Ghana
+      :current_club: Al Ain (United Arab Emirates)
+    - :position: Defender
+      :name: Samuel Inkoom
+      :height: 70
+      :weight: 165
+      :birthdate: 06-01-1989
+      :birthplace: Sekondi-Takoradi, Ghana
+      :current_club: Platanias (Greece)
+    - :position: Goalkeeper
+      :name: Adam Kwarasey
+      :height: 74
+      :weight: 187
+      :birthdate: 12-12-1987
+      :birthplace: Oslo, Norway
+      :current_club: Stromsgodset (Norway)
+    - :position: Defender
+      :name: Jonathan Mensah
+      :height: 74
+      :weight: 183
+      :birthdate: 07-13-1990
+      :birthplace: Accra, Ghana
+      :current_club: Evian (France)
+    - :position: Midfielder
+      :name: Wakaso Mubarak
+      :height: 67
+      :weight: 152
+      :birthdate: 07-25-1990
+      :birthplace: Tamale, Ghana
+      :current_club: Rubin Kazan (Russia)
+    - :position: Midfielder
+      :name: Sulley Muntari
+      :height: 70
+      :weight: 168
+      :birthdate: 08-27-1984
+      :birthplace: Konongo, Ghana
+      :current_club: AC Milan (Italy)
+    - :position: Defender
+      :name: Daniel Opare
+      :height: 68
+      :weight: 154
+      :birthdate: 10-18-1990
+      :birthplace: Accra, Ghana
+      :current_club: Standard Liege (Belgium)
+    - :position: Midfielder
+      :name: Mohammed Rabiu
+      :height: 73
+      :weight: 154
+      :birthdate: 12-31-1989
+      :birthplace: Accra, Ghana
+      :current_club: Kuban Krasnodar (Russia)
+    - :position: Defender
+      :name: Rashid Sumaila
+      :height: 77
+      :weight: 12-18-1992
+      :birthdate: Cape Coast, Ghana
+      :birthplace: 
+      :current_club: Mamelodi Sundowns (South Africa)
+    - :position: Forward
+      :name: Abdul Majeed Waris
+      :height: 68
+      :weight: 156
+      :birthdate: 09-19-1991
+      :birthplace: Accra, Ghana
+      :current_club: Valenciennes (France)
   - :name: Portugal
     :players:
     - :position: Goalkeeper
