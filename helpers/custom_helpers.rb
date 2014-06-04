@@ -6,4 +6,8 @@ module CustomHelpers
       end
     end.flatten
   end
+
+  def groups_list
+    data.rosters.groups
+  end
 end

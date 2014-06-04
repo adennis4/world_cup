@@ -1,8 +1,14 @@
-%ul.countries
-  - teams_list.each do |team|
-    %p= link_to team
+%header
+  World Cup Data
 
-#container
+%section.map
+  %ul.countries
+    - groups_list.each do |g|
+      %li.group= "Group #{g['group']}"
+      - g["teams"].each do |team|
+        %li= link_to team.name
+
+  #container
 
 :javascript
   rosters = #{data.rosters.to_json};
