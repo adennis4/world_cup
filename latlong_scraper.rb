@@ -21,10 +21,10 @@ end
 def birthplace_coordinates
   players.each do |player|
     p player
-    if player[:birthplace]
+    if player[:birthplace] and not player[:longitude]
       location = location(*parse_birthplace(player[:birthplace]))
-      player[:lat] = location[0]
-      player[:lon] = location[1]
+      player[:latitude] = location[0]
+      player[:longitude] = location[1]
     end
   end
 end

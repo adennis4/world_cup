@@ -48,6 +48,9 @@ class window.MapView
         'DZA': {fillKey: 'GroupH'}
         'KOR': {fillKey: 'GroupH'}
         'RUS': {fillKey: 'GroupH'}
+        'CIV': {fillKey: 'GroupC'}
+        'GHA': {fillKey: 'GroupG'}
+        'CMR': {fillKey: 'GroupA'}
       geographyConfig:
         borderWidth: .2
         borderColor:'#cdb6d4'
