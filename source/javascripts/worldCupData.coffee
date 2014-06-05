@@ -18,3 +18,9 @@ class window.WorldCupData
 
   players: (teamName) ->
     @team(teamName).players
+
+  heightDistribution: () ->
+    [{
+        key: "whatever",
+        values: [{ label: "xxx", value: 9001 }, {label: "yyy", value: 8000}]
+    }]

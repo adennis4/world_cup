@@ -1,6 +1,7 @@
 //= require 'd3.min'
 //= require 'topo'
 //= require 'datamaps.world.min'
+//= require 'nvd3'
 //= require 'jquery'
 //= require 'underscore'
 //= require 'map'

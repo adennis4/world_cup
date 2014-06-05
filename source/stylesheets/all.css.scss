@@ -27,6 +27,7 @@ h1 {
 
 
 section.map {
+  overflow: hidden;
   .countries {
     float: left;
     font-size: .8em;
@@ -59,6 +60,13 @@ section.map {
     float: left;
     padding-top: -100px;
     padding-left: 200px;
+  }
+}
+
+section.heights {
+  background: green;
+
+  #heightGraphContainer {
   }
 }
 
