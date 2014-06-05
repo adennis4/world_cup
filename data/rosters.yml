@@ -331,9 +331,9 @@
     - :position: Goalkeeper
       :name: Sammy N'Djock
       :height: 75
-      :weight: 02-25-1990
-      :birthdate: Yaounde, Cameroon
-      :birthplace: 
+      :weight:
+      :birthdate: 02-25-1990
+      :birthplace: Yaounde, Cameroon
       :current_club: Fethiyespor (Turkey)
     - :position: Goalkeeper
       :name: Guy N'dy Assembe
@@ -392,9 +392,9 @@
     - :position: Midfielder
       :name: Edgar Salli
       :height: 64
-      :weight: 08-17-1992
-      :birthdate: Garoua, Cameroon
-      :birthplace: 
+      :weight:
+      :birthdate: 08-17-1992
+      :birthplace: Garoua, Cameroon
       :current_club: Lens (France)
     - :position: Midfielder
       :name: Alex Song
@@ -2464,9 +2464,9 @@
     - :position: Midfielder
       :name: Ismael Diomande
       :height: 71
-      :weight: 08-28-1992
-      :birthdate: Abidjan, Ivory Coast
-      :birthplace: 
+      :weight:
+      :birthdate: 08-28-1992
+      :birthplace: Abidjan, Ivory Coast
       :current_club: Saint-Etienne (France)
     - :position: Defender
       :name: Constant Djakpa
@@ -2541,7 +2541,7 @@
     - :position: Midfielder
       :name: Cheick Tiote
       :height: 71
-      :weight: 68
+      :weight:
       :birthdate: 06-21-1986
       :birthplace: Yamoussoukro, Ivory Coast
       :current_club: Newcastle United (England)
@@ -2568,9 +2568,9 @@
     - :position: Defender
       :name: Ousmane Viera
       :height: 73
-      :weight: 12-21-1986
-      :birthdate: Daloa, Ivory Coast
-      :birthplace: 
+      :weight: 
+      :birthdate: 12-21-1986
+      :birthplace: Daloa, Ivory Coast
       :current_club: Rizespor (Turkey)
     - :position: Forward
       :name: Didier Ya Konan
@@ -6267,9 +6267,9 @@
     - :position: Defender
       :name: Rashid Sumaila
       :height: 77
-      :weight: 12-18-1992
-      :birthdate: Cape Coast, Ghana
-      :birthplace: 
+      :weight:
+      :birthdate: 12-18-1992
+      :birthplace: Cape Coast, Ghana
       :current_club: Mamelodi Sundowns (South Africa)
     - :position: Forward
       :name: Abdul Majeed Waris

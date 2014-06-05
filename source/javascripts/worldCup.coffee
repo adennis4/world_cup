@@ -1,6 +1,7 @@
 #= require worldCupData
 #= require mapView
-#= require heightView
+#= require heightsView
+#= require weightsView
 
 window.WC = {}
 window.init = (rosters) ->
@@ -11,6 +12,9 @@ window.init = (rosters) ->
 
   WC.heightsView = new HeightsView(worldCupData)
   WC.heightsView.render()
+
+  WC.weightsView = new WeightsView(worldCupData)
+  WC.weightsView.render()
 
 $ ->
   $('.countries li a').on('click', (e) ->

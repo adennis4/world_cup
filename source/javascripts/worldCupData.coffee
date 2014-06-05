@@ -1,3 +1,6 @@
+isNumber = (n) ->
+  !isNaN(parseFloat(n)) && isFinite(n)
+
 class window.WorldCupData
   constructor: (data) ->
     @data = data
@@ -26,11 +29,42 @@ class window.WorldCupData
       memo
     _.reduce(@allPlayers(), reducer, {})
 
+  weights: () ->
+    reducer = (memo, player) =>
+      return memo unless player.weight?
+      label = @bucketFor(player.weight)
+      count = memo[label] || 0
+      memo[label] = ++count if player.weight?
+      memo
+    _.reduce(@allPlayers(), reducer, {})
+
+  bucketFor: (weight) ->
+    return "BadData#{weight}" unless isNumber(weight)
+    low = weight
+    high = weight
+
+    while low % 5 != 0
+      low -= 1
+
+    high = low + 4
+
+    "#{low}-#{high}"
+
   heightsMap: () ->
     _.map(@heights(), (count, inches) -> {label: inches, value: count})
+
+  weightsMap: () ->
+    results = _.map(@weights(), (count, poundsRange) -> {label: poundsRange, value: count})
+    _.sortBy(results, (o) -> o.label)
 
   heightDistribution: () ->
     [{
         key: "whatever",
         values: @heightsMap()
+    }]
+
+  weightDistribution: () ->
+    [{
+        key: "whatever",
+        values: @weightsMap()
     }]
