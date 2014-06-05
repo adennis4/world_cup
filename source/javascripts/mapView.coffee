@@ -51,6 +51,7 @@ class window.MapView
         'CIV': {fillKey: 'GroupC'}
         'GHA': {fillKey: 'GroupG'}
         'CMR': {fillKey: 'GroupA'}
+        'JPN': {fillKey: 'GroupC'}
       geographyConfig:
         borderWidth: .2
         borderColor:'#cdb6d4'
