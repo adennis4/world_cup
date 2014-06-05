@@ -1,9 +1,8 @@
+class window.HeightsView
+  constructor: (data) ->
+    @data = data
 
-window.renderGraph = ->
-  chartData = ->
-    WC.worldCupData.heightDistribution()
-
-  nv.addGraph ->
+  render: ->
     chart = nv.models.discreteBarChart()
               .x((d) -> d.label )
               .y((d) -> d.value )
@@ -13,9 +12,12 @@ window.renderGraph = ->
               .transitionDuration(350)
 
     d3.select('#heightGraphContainer svg')
-      .datum(chartData())
+      .datum(@chartData())
       .call(chart)
 
     nv.utils.windowResize(chart.update)
 
     chart
+
+  chartData: ->
+    @data.heightDistribution()
