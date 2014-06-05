@@ -2590,6 +2590,57 @@
       :current_club: Unattached
       :latitude: '5.4091179'
       :longitude: "-4.0422099"
+  - :name: Japan
+    :players:
+    - :position: Goalkeeper
+      :name: Eiji Kawashima
+      :height: 73
+      :weight: 
+      :birthdate: 03-20-1983
+      :birthplace: Yono, Saitama, Japan
+      :current_club: Standard Liège
+    - :position: Goalkeeper
+      :name: Shusaku Nishikawa
+      :height: 72
+      :weight: 
+      :birthdate: 06-18-1986
+      :birthplace: Usa, Ōita, Japan
+      :current_club: Urawa Red Diamonds
+    - :position: Goalkeeper
+      :name: Shūichi Gonda
+      :height: 73
+      :weight: 
+      :birthdate: 03-03-1989
+      :birthplace: Setagaya, Tokyo, Japan
+      :current_club: F.C. Tokyo
+    - :position: Midfielder
+      :name: Yasuhito Endō
+      :height: 70
+      :weight: 
+      :birthdate: 01-28-1980
+      :birthplace: Kagoshima City, Kagoshima Prefecture, Japan
+      :current_club: Gamba Osaka
+    - :position: Midfielder
+      :name: Toshihiro Aoyama
+      :height: 69
+      :weight: 
+      :birthdate: 02-22-1986
+      :birthplace: Kurashiki, Okayama, Japan
+      :current_club: Sanfrecce Hiroshima
+    - :position: Midfielder
+      :name: Hotaru Yamaguchi
+      :height: 68
+      :weight: 
+      :birthdate: 10-06-1990
+      :birthplace: Nabari, Mie, Japan
+      :current_club: Cerezo Osaka
+    - :position: Midfielder
+      :name: Makoto Hasebe
+      :height: 71
+      :weight: 
+      :birthdate: 01-18-1984
+      :birthplace: Fujieda, Shizuoka, Japan
+      :current_club: Eintracht Frankfurt
 - :group: D
   :teams:
   - :name: Uruguay
