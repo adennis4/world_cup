@@ -2599,6 +2599,8 @@
       :birthdate: 03-20-1983
       :birthplace: Yono, Saitama, Japan
       :current_club: Standard Liège
+      :latitude: '35.8850696'
+      :longitude: '139.6388858'
     - :position: Goalkeeper
       :name: Shusaku Nishikawa
       :height: 72
@@ -2606,6 +2608,8 @@
       :birthdate: 06-18-1986
       :birthplace: Usa, Ōita, Japan
       :current_club: Urawa Red Diamonds
+      :latitude: '33.5176826'
+      :longitude: '131.4007724'
     - :position: Goalkeeper
       :name: Shūichi Gonda
       :height: 73
@@ -2613,6 +2617,8 @@
       :birthdate: 03-03-1989
       :birthplace: Setagaya, Tokyo, Japan
       :current_club: F.C. Tokyo
+      :latitude: '35.6404839'
+      :longitude: '139.6221118'
     - :position: Midfielder
       :name: Yasuhito Endō
       :height: 70
@@ -2620,6 +2626,8 @@
       :birthdate: 01-28-1980
       :birthplace: Kagoshima City, Kagoshima Prefecture, Japan
       :current_club: Gamba Osaka
+      :latitude: 
+      :longitude: 
     - :position: Midfielder
       :name: Toshihiro Aoyama
       :height: 69
@@ -2627,6 +2635,8 @@
       :birthdate: 02-22-1986
       :birthplace: Kurashiki, Okayama, Japan
       :current_club: Sanfrecce Hiroshima
+      :latitude: '34.5861831'
+      :longitude: '133.776957'
     - :position: Midfielder
       :name: Hotaru Yamaguchi
       :height: 68
@@ -2634,6 +2644,8 @@
       :birthdate: 10-06-1990
       :birthplace: Nabari, Mie, Japan
       :current_club: Cerezo Osaka
+      :latitude: '34.6796732'
+      :longitude: '136.0898004'
     - :position: Midfielder
       :name: Makoto Hasebe
       :height: 71
@@ -2641,6 +2653,8 @@
       :birthdate: 01-18-1984
       :birthplace: Fujieda, Shizuoka, Japan
       :current_club: Eintracht Frankfurt
+      :latitude: '35.3193616'
+      :longitude: '138.2706643'
     - :position: Defender
       :name: Atsuto Uchida
       :height: 69
@@ -2648,8 +2662,8 @@
       :birthdate: 03-27-1988
       :birthplace: Kannami, Japan
       :current_club: FC Schalke 04 (Germany)
-      :latitude: "36.204824"
-      :longitude: "138.252924"
+      :latitude: '36.204824'
+      :longitude: '138.252924'
     - :position: Defender
       :name: Gotoku Sakai
       :height: 69
@@ -2657,7 +2671,7 @@
       :birthdate: 03-14-1991
       :birthplace: New York City, NY, USA
       :current_club: VfB Stuttgart (Germany)
-      :latitude: "40.7127"
+      :latitude: '40.7127'
       :longitude: "-74.0059"
     - :position: Defender
       :name: Yuto Nagatomo
@@ -2666,8 +2680,8 @@
       :birthdate: 09-12-1986
       :birthplace: Saijo, Japan
       :current_club: Inter Milan (Italy)
-      :latitude: "33.9167"
-      :longitude: "133.1833"
+      :latitude: '33.9167'
+      :longitude: '133.1833'
     - :position: Defender
       :name: Masato Morishige
       :height: 72
@@ -2675,8 +2689,8 @@
       :birthdate: 05-21-1987
       :birthplace: Hiroshima, Japan
       :current_club: FC Tokyo (Japan)
-      :latitude: "34.3853"
-      :longitude: "132.4553"
+      :latitude: '34.3853'
+      :longitude: '132.4553'
     - :position: Defender
       :name: Yasuyuki Konno
       :height: 70
@@ -2684,8 +2698,8 @@
       :birthdate: 01-25-1983
       :birthplace: Sendai, Japan
       :current_club: Gamba Osaka (Japan)
-      :latitude: "38.2667"
-      :longitude: "140.8667"
+      :latitude: '38.2667'
+      :longitude: '140.8667'
     - :position: Defender
       :name: Masahiko Inoha
       :height: 70
@@ -2693,8 +2707,8 @@
       :birthdate: 08-28-1985
       :birthplace: Miyazaki, Japan
       :current_club: Jubilo Iwata (Japan)
-      :latitude: "31.9167"
-      :longitude: "131.4167"
+      :latitude: '31.9167'
+      :longitude: '131.4167'
     - :position: Defender
       :name: Hiroki Sakai
       :height: 72
@@ -2702,8 +2716,8 @@
       :birthdate: 04-20-1990
       :birthplace: Kashiwa, Japan
       :current_club: Hannover 96 (Germany)
-      :latitude: "35.8667"
-      :longitude: "139.9833"
+      :latitude: '35.8667'
+      :longitude: '139.9833'
     - :position: Defender
       :name: Maya Yoshida
       :height: 74
@@ -2711,8 +2725,8 @@
       :birthdate: 08-24-1988
       :birthplace: Nagasaki, Japan
       :current_club: Southampton (England)
-      :latitude: "32.7833"
-      :longitude: "129.8667"
+      :latitude: '32.7833'
+      :longitude: '129.8667'
     - :position: Forward
       :name: Keisuke Honda
       :height: 72
@@ -2720,13 +2734,17 @@
       :birthdate: 06-13-1986
       :birthplace: Settsu, Osaka, Japan
       :current_club: Milan
+      :latitude: '34.7708728'
+      :longitude: '135.569558'
     - :position: Forward
       :name: Hiroshi Kiyotake
       :height: 68
       :weight: 
       :birthdate: 11-12-1989
-      :birthplace: Ōita, Ōita, Japan
+      :birthplace: "Ōita, Ōita, Japan"
       :current_club: 1. FC Nürnberg
+      :latitude: '33.240019'
+      :longitude: '131.6053072'
     - :position: Forward
       :name: Shinji Okazaki
       :height: 69
@@ -2734,6 +2752,8 @@
       :birthdate: 04-16-1986
       :birthplace: Hyōgo, Japan
       :current_club: 1. FSV Mainz 05
+      :latitude: '34.9434645'
+      :longitude: '134.822173068548'
     - :position: Forward
       :name: Shinji Kagawa
       :height: 68
@@ -2741,6 +2761,8 @@
       :birthdate: 03-17-1989
       :birthplace: Kobe, Hyōgo, Japan
       :current_club: Manchester United
+      :latitude: '34.6812221'
+      :longitude: '135.1623934'
     - :position: Forward
       :name: Yoichiro Kakitani
       :height: 70
@@ -2748,6 +2770,8 @@
       :birthdate: 01-03-1990
       :birthplace: Osaka, Japan
       :current_club: Cerezo Osaka
+      :latitude: '34.6852929'
+      :longitude: '135.5146944'
     - :position: Forward
       :name: Yoshito Ōkubo
       :height: 67
@@ -2755,6 +2779,8 @@
       :birthdate: 06-09-1982
       :birthplace: Kanda, Fukuoka, Japan
       :current_club: Kawasaki Frontale
+      :latitude: '33.7754376'
+      :longitude: '130.9798702'
     - :position: Forward
       :name: Yuya Osako
       :height: 70
@@ -2762,6 +2788,8 @@
       :birthdate: 05-18-1990
       :birthplace: Kaseda, Kagoshima, Japan
       :current_club: 1. FC Köln
+      :latitude: 
+      :longitude: 
     - :position: Forward
       :name: Manabu Saitō
       :height: 70
@@ -2769,6 +2797,8 @@
       :birthdate: 04-04-1990
       :birthplace: Kawasaki, Kanagawa, Japan
       :current_club: Yokohama F. Marinos
+      :latitude: '35.53147965'
+      :longitude: '139.696856706664'
 - :group: D
   :teams:
   - :name: Uruguay
