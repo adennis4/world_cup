@@ -1,0 +1,5 @@
+{
+  "source/javascript/*.coffee": {"type": "javascript"},
+  "source/stylesheets/*.scss": {"type": "stylesheet"},
+  "data/*.yml": {"type": "data"},
+}
