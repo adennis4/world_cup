@@ -1,4 +1,4 @@
-class window.MapView
+class WC.MapView
   width: 1200
   height: 1000
 

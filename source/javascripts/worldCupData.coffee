@@ -1,7 +1,5 @@
-isNumber = (n) ->
-  !isNaN(parseFloat(n)) && isFinite(n)
-
-class window.WorldCupData
+window.WC = {}
+class WC.WorldCupData
   constructor: (data) ->
     @data = data
 
@@ -39,7 +37,7 @@ class window.WorldCupData
     _.reduce(@allPlayers(), reducer, {})
 
   bucketFor: (weight) ->
-    return "BadData#{weight}" unless isNumber(weight)
+    return "BadData#{weight}" unless Utils.isNumber(weight)
     low = weight
     high = weight
 

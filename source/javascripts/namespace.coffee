@@ -1,0 +1,2 @@
+window.WC = {}
+window.Utils = {}

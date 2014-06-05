@@ -1,4 +1,4 @@
-class window.WeightsView
+class WC.WeightsView
   constructor: (data) ->
     @data = data
 

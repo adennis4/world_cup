@@ -1,4 +1,4 @@
-class window.HeightsView
+class WC.HeightsView
   constructor: (data) ->
     @data = data
 

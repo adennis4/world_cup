@@ -4,4 +4,5 @@
 //= require 'nvd3'
 //= require 'jquery'
 //= require 'underscore'
+//= require 'namespace'
 //= require 'worldCup'

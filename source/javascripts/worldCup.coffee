@@ -3,17 +3,19 @@
 #= require heightsView
 #= require weightsView
 
-window.WC = {}
-window.init = (rosters) ->
-  worldCupData = new WorldCupData(rosters)
+Utils.isNumber = (n) ->
+  !isNaN(parseFloat(n)) && isFinite(n)
 
-  WC.mapView = new MapView(worldCupData)
+window.init = (rosters) ->
+  worldCupData = new WC.WorldCupData(rosters)
+
+  WC.mapView = new WC.MapView(worldCupData)
   WC.mapView.render()
 
-  WC.heightsView = new HeightsView(worldCupData)
+  WC.heightsView = new WC.HeightsView(worldCupData)
   WC.heightsView.render()
 
-  WC.weightsView = new WeightsView(worldCupData)
+  WC.weightsView = new WC.WeightsView(worldCupData)
   WC.weightsView.render()
 
 $ ->
