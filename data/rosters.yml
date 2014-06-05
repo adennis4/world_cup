@@ -2713,6 +2713,62 @@
       :current_club: Southampton (England)
       :latitude: "32.7833"
       :longitude: "129.8667"
+    - :position: Forward
+      :name: Keisuke Honda
+      :height: 72
+      :weight: 
+      :birthdate: 06-13-1986
+      :birthplace: Settsu, Osaka, Japan
+      :current_club: Milan
+    - :position: Forward
+      :name: Hiroshi Kiyotake
+      :height: 68
+      :weight: 
+      :birthdate: 11-12-1989
+      :birthplace: Ōita, Ōita, Japan
+      :current_club: 1. FC Nürnberg
+    - :position: Forward
+      :name: Shinji Okazaki
+      :height: 69
+      :weight: 
+      :birthdate: 04-16-1986
+      :birthplace: Hyōgo, Japan
+      :current_club: 1. FSV Mainz 05
+    - :position: Forward
+      :name: Shinji Kagawa
+      :height: 68
+      :weight: 
+      :birthdate: 03-17-1989
+      :birthplace: Kobe, Hyōgo, Japan
+      :current_club: Manchester United
+    - :position: Forward
+      :name: Yoichiro Kakitani
+      :height: 70
+      :weight: 
+      :birthdate: 01-03-1990
+      :birthplace: Osaka, Japan
+      :current_club: Cerezo Osaka
+    - :position: Forward
+      :name: Yoshito Ōkubo
+      :height: 67
+      :weight: 
+      :birthdate: 06-09-1982
+      :birthplace: Kanda, Fukuoka, Japan
+      :current_club: Kawasaki Frontale
+    - :position: Forward
+      :name: Yuya Osako
+      :height: 70
+      :weight: 
+      :birthdate: 05-18-1990
+      :birthplace: Kaseda, Kagoshima, Japan
+      :current_club: 1. FC Köln
+    - :position: Forward
+      :name: Manabu Saitō
+      :height: 70
+      :weight: 
+      :birthdate: 04-04-1990
+      :birthplace: Kawasaki, Kanagawa, Japan
+      :current_club: Yokohama F. Marinos
 - :group: D
   :teams:
   - :name: Uruguay
