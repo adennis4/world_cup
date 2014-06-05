@@ -1,4 +1,3 @@
-window.WC = {}
 class WC.WorldCupData
   constructor: (data) ->
     @data = data
@@ -36,6 +35,17 @@ class WC.WorldCupData
       memo
     _.reduce(@allPlayers(), reducer, {})
 
+  ages: () ->
+    reducer = (memo, player) =>
+      age = @ageFor(player.birthdate)
+      count = memo[age] || 0
+      memo[age] = ++count if player.height?
+      memo
+    _.reduce(@allPlayers(), reducer, {})
+
+  ageFor: (birthdate) ->
+    Math.floor((new Date() - new Date(birthdate)) / (365 * 60 * 60 * 24 * 1000))
+
   bucketFor: (weight) ->
     return "BadData#{weight}" unless Utils.isNumber(weight)
     low = weight
@@ -50,6 +60,9 @@ class WC.WorldCupData
 
   heightsMap: () ->
     _.map(@heights(), (count, inches) -> {label: inches, value: count})
+
+  agesMap: () ->
+    _.map(@ages(), (count, birthdates) -> {label: birthdates, value: count})
 
   weightsMap: () ->
     results = _.map(@weights(), (count, poundsRange) -> {label: poundsRange, value: count})
@@ -66,3 +79,10 @@ class WC.WorldCupData
         key: "whatever",
         values: @weightsMap()
     }]
+
+  ageDistribution: () ->
+    [{
+        key: "whatever",
+        values: @agesMap()
+    }]
+

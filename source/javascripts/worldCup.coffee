@@ -2,6 +2,7 @@
 #= require mapView
 #= require heightsView
 #= require weightsView
+#= require agesView
 
 Utils.isNumber = (n) ->
   !isNaN(parseFloat(n)) && isFinite(n)
@@ -17,6 +18,9 @@ window.init = (rosters) ->
 
   WC.weightsView = new WC.WeightsView(worldCupData)
   WC.weightsView.render()
+
+  WC.agesView = new WC.AgesView(worldCupData)
+  WC.agesView.render()
 
 $ ->
   $('.countries li a').on('click', (e) ->
