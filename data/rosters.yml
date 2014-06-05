@@ -2440,7 +2440,7 @@
       :weight: 148
       :birthdate: 04-02-1983
       :birthplace: Abidjan, Ivory Coast
-      :current_club: Stuttgart (Germany)
+      :current_club: VfB Stuttgart (Germany)
       :latitude: '5.4091179'
       :longitude: "-4.0422099"
     - :position: Midfielder
@@ -2595,52 +2595,124 @@
     - :position: Goalkeeper
       :name: Eiji Kawashima
       :height: 73
-      :weight: 
+      :weight: 176
       :birthdate: 03-20-1983
       :birthplace: Yono, Saitama, Japan
       :current_club: Standard Liège
     - :position: Goalkeeper
       :name: Shusaku Nishikawa
       :height: 72
-      :weight: 
+      :weight: 179
       :birthdate: 06-18-1986
       :birthplace: Usa, Ōita, Japan
       :current_club: Urawa Red Diamonds
     - :position: Goalkeeper
       :name: Shūichi Gonda
       :height: 73
-      :weight: 
+      :weight: 183
       :birthdate: 03-03-1989
       :birthplace: Setagaya, Tokyo, Japan
       :current_club: F.C. Tokyo
     - :position: Midfielder
       :name: Yasuhito Endō
       :height: 70
-      :weight: 
+      :weight: 165
       :birthdate: 01-28-1980
       :birthplace: Kagoshima City, Kagoshima Prefecture, Japan
       :current_club: Gamba Osaka
     - :position: Midfielder
       :name: Toshihiro Aoyama
       :height: 69
-      :weight: 
+      :weight: 161
       :birthdate: 02-22-1986
       :birthplace: Kurashiki, Okayama, Japan
       :current_club: Sanfrecce Hiroshima
     - :position: Midfielder
       :name: Hotaru Yamaguchi
       :height: 68
-      :weight: 
+      :weight: 141
       :birthdate: 10-06-1990
       :birthplace: Nabari, Mie, Japan
       :current_club: Cerezo Osaka
     - :position: Midfielder
       :name: Makoto Hasebe
       :height: 71
-      :weight: 
+      :weight: 159
       :birthdate: 01-18-1984
       :birthplace: Fujieda, Shizuoka, Japan
       :current_club: Eintracht Frankfurt
+    - :position: Defender
+      :name: Atsuto Uchida
+      :height: 69
+      :weight: 137
+      :birthdate: 03-27-1988
+      :birthplace: Kannami, Japan
+      :current_club: FC Schalke 04 (Germany)
+      :latitude: "36.204824"
+      :longitude: "138.252924"
+    - :position: Defender
+      :name: Gotoku Sakai
+      :height: 69
+      :weight: 163
+      :birthdate: 03-14-1991
+      :birthplace: New York City, NY, USA
+      :current_club: VfB Stuttgart (Germany)
+      :latitude: "40.7127"
+      :longitude: "-74.0059"
+    - :position: Defender
+      :name: Yuto Nagatomo
+      :height: 67
+      :weight: 150
+      :birthdate: 09-12-1986
+      :birthplace: Saijo, Japan
+      :current_club: Inter Milan (Italy)
+      :latitude: "33.9167"
+      :longitude: "133.1833"
+    - :position: Defender
+      :name: Masato Morishige
+      :height: 72
+      :weight: 168
+      :birthdate: 05-21-1987
+      :birthplace: Hiroshima, Japan
+      :current_club: FC Tokyo (Japan)
+      :latitude: "34.3853"
+      :longitude: "132.4553"
+    - :position: Defender
+      :name: Yasuyuki Konno
+      :height: 70
+      :weight: 161
+      :birthdate: 01-25-1983
+      :birthplace: Sendai, Japan
+      :current_club: Gamba Osaka (Japan)
+      :latitude: "38.2667"
+      :longitude: "140.8667"
+    - :position: Defender
+      :name: Masahiko Inoha
+      :height: 70
+      :weight: 161
+      :birthdate: 08-28-1985
+      :birthplace: Miyazaki, Japan
+      :current_club: Jubilo Iwata (Japan)
+      :latitude: "31.9167"
+      :longitude: "131.4167"
+    - :position: Defender
+      :name: Hiroki Sakai
+      :height: 72
+      :weight: 154
+      :birthdate: 04-20-1990
+      :birthplace: Kashiwa, Japan
+      :current_club: Hannover 96 (Germany)
+      :latitude: "35.8667"
+      :longitude: "139.9833"
+    - :position: Defender
+      :name: Maya Yoshida
+      :height: 74
+      :weight: 172
+      :birthdate: 08-24-1988
+      :birthplace: Nagasaki, Japan
+      :current_club: Southampton (England)
+      :latitude: "32.7833"
+      :longitude: "129.8667"
 - :group: D
   :teams:
   - :name: Uruguay
@@ -4022,7 +4094,7 @@
       :weight: 148
       :birthdate: 04-19-1995
       :birthplace: Guayaquil, Ecuador
-      :current_club: Stuttgart (Germany)
+      :current_club: VfB Stuttgart (Germany)
       :latitude: "-2.2010072"
       :longitude: "-79.8818938"
     - :position: Midfielder
