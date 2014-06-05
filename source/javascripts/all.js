@@ -4,4 +4,4 @@
 //= require 'nvd3'
 //= require 'jquery'
 //= require 'underscore'
-//= require 'map'
+//= require 'worldCup'
