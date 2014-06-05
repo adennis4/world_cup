@@ -2626,8 +2626,8 @@
       :birthdate: 01-28-1980
       :birthplace: Kagoshima City, Kagoshima Prefecture, Japan
       :current_club: Gamba Osaka
-      :latitude: 
-      :longitude: 
+      :latitude: '31.6000'
+      :longitude: '130.5500'
     - :position: Midfielder
       :name: Toshihiro Aoyama
       :height: 69
