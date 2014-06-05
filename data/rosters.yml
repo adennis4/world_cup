@@ -2788,8 +2788,8 @@
       :birthdate: 05-18-1990
       :birthplace: Kaseda, Kagoshima, Japan
       :current_club: 1. FC Köln
-      :latitude: 
-      :longitude: 
+      :latitude: '31.4167'
+      :longitude: '130.3167'
     - :position: Forward
       :name: Manabu Saitō
       :height: 70
