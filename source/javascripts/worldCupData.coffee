@@ -19,8 +19,18 @@ class window.WorldCupData
   players: (teamName) ->
     @team(teamName).players
 
+  heights: () ->
+    reducer = (memo, player) ->
+      count = memo[player.height] || 0
+      memo[player.height] = ++count if player.height?
+      memo
+    _.reduce(@allPlayers(), reducer, {})
+
+  heightsMap: () ->
+    _.map(@heights(), (count, inches) -> {label: inches, value: count})
+
   heightDistribution: () ->
     [{
         key: "whatever",
-        values: [{ label: "xxx", value: 9001 }, {label: "yyy", value: 8000}]
+        values: @heightsMap()
     }]
