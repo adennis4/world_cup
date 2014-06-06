@@ -57,13 +57,13 @@ class WC.PlayersData
 
   heightDistribution: () ->
     [{
-        key: "whatever",
+        key: "height",
         values: @heightsMap()
     }]
 
   weightDistribution: () ->
     [{
-        key: "whatever",
+        key: "weight",
         values: @weightsMap()
     }]
 
