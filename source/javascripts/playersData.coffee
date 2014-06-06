@@ -4,7 +4,7 @@ class WC.PlayersData
     @players = data.allPlayers()
 
   allPlayers: ->
-    @players
+    @players[1..10]
 
   heights: () ->
     reducer = (memo, player) ->
@@ -55,6 +55,39 @@ class WC.PlayersData
     results = _.map(@weights(), (count, poundsRange) -> {label: poundsRange, value: count})
     _.sortBy(results, (o) -> o.label)
 
+  positionColor: (position) ->
+    positions = {
+      'Forward' : 'red',
+      'Midfielder' : 'blue',
+      'Defender' : 'green',
+      'Goalkeeper' : 'gray'
+    }
+
+    positions[position]
+
+  positionShape: (position) ->
+    positions = {
+      'Forward' : 'square',
+      'Midfielder' : 'circle',
+      'Defender' : 'triangle-up',
+      'Goalkeeper' : 'diamond'
+    }
+
+    positions[position]
+
+  heightWeightsMap: () ->
+    results = _.map(@allPlayers(), (player) =>
+      if (Utils.isNumber(player.height) and Utils.isNumber(player.weight) and player.position?)
+        {
+          height: player.height,
+          weight: player.weight,
+          position: player.position,
+          shape: @positionShape(player.position),
+          color: @positionColor(player.position)
+        }
+    )
+    _.compact(results)
+
   heightDistribution: () ->
     [{
         key: "height",
@@ -66,6 +99,13 @@ class WC.PlayersData
         key: "weight",
         values: @weightsMap()
     }]
+
+  heightWeightDistribution: () ->
+    result = [{
+      key: 'heightWeight',
+      values: @heightWeightsMap()
+    }]
+    result
 
   ageDistribution: () ->
     [{

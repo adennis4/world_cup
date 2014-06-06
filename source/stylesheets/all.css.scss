@@ -72,6 +72,12 @@ section.averages {
   overflow: hidden;
 }
 
+section.scatterPlot {
+  path.nv-point {
+    fill-opacity: .2
+  }
+}
+
 .background {
   fill: none;
   pointer-events: all;

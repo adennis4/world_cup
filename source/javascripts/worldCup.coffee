@@ -3,6 +3,7 @@
 #= require mapView
 #= require barChartView
 #= require chartToggleView
+#= require scatterPlotView
 #= require averagesView
 #= require agesView
 
@@ -19,6 +20,9 @@ window.init = (rosters) ->
 
   WC.heightsView = new WC.ChartToggleView(playersData)
   WC.heightsView.render()
+
+  WC.scatterPlotView = new WC.ScatterPlotView(playersData)
+  WC.scatterPlotView.render()
 
   WC.agesView = new WC.AgesView(playersData)
   WC.agesView.render()
