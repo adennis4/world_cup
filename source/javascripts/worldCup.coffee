@@ -1,8 +1,8 @@
 #= require worldCupData
 #= require playersData
 #= require mapView
-#= require heightsView
-#= require weightsView
+#= require barChartView
+#= require chartToggleView
 #= require averagesView
 #= require agesView
 
@@ -17,11 +17,8 @@ window.init = (rosters) ->
   WC.mapView = new WC.MapView(worldCupData)
   WC.mapView.render()
 
-  WC.heightsView = new WC.HeightsView(playersData)
+  WC.heightsView = new WC.ChartToggleView(playersData)
   WC.heightsView.render()
-
-  WC.weightsView = new WC.WeightsView(playersData)
-  WC.weightsView.render()
 
   WC.agesView = new WC.AgesView(playersData)
   WC.agesView.render()
