@@ -51,6 +51,23 @@ section.map {
 
 }
 
+section.barGraphs {
+  .toggler {
+    margin-left: 350px;
+    text-align: left;
+    font-weight: bold;
+
+    p {
+      cursor: pointer;
+      padding-left: 60px;
+      margin: 5px 0;
+    }
+    .selected {
+      color: blue;
+    }
+  }
+}
+
 section.averages {
   overflow: hidden;
 }

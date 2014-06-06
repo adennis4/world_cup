@@ -18,6 +18,13 @@ class WC.BarChartView
       .transitionDuration(350)
       .height(600)
 
+  labelYAxis: ->
+    @chart.yAxis
+      .tickFormat(d3.format('f'))
+      .tickValues(d3.range(0, 200, @interval))
+      .axisLabel('Number of Players')
+      .axisLabelDistance(30)
+    @chart.yDomain([0, @maxY])
 
   drawDataOn: (svgSelector) ->
     d3.select(svgSelector)
@@ -25,31 +32,23 @@ class WC.BarChartView
       .call(@chart)
 
 class WC.HeightsView extends WC.BarChartView
+  interval: 15
+  maxY: 135
+
   labelXAxis: ->
     @chart.xAxis
       .axisLabel('Height (in.)')
-
-  labelYAxis: ->
-    @chart.yAxis
-      .tickFormat(d3.format('f'))
-      .tickValues(d3.range(0, 130, 15))
-      .axisLabel('Number of Players')
-      .axisLabelDistance(30)
 
   chartData: ->
     @data.heightDistribution()
 
 class WC.WeightsView extends WC.BarChartView
+  interval: 20
+  maxY: 180
+
   labelXAxis: ->
     @chart.xAxis
       .axisLabel('Weight (lbs.)')
-
-  labelYAxis: ->
-    @chart.yAxis
-      .tickFormat(d3.format('f'))
-      .tickValues(d3.range(0, 170, 20))
-      .axisLabel('Number of Players')
-      .axisLabelDistance(30)
 
   chartData: ->
     @data.weightDistribution()

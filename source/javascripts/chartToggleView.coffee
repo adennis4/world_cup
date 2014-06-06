@@ -6,15 +6,19 @@ class WC.ChartToggleView
     @defineEvents()
     @heightsChart = new WC.HeightsView(@data)
     @weightsChart = new WC.WeightsView(@data)
-    @currentState = @heightsChart
+    @currentState = "height"
 
   render: () ->
     @heightsChart.render(@svgSelector)
 
   defineEvents: () ->
     $(".toggler").on("click", =>
+      @toggleState()
       $(@svgSelector).empty()
-      @currentState =
-        if @currentState == @heightsChart then @weightsChart else @heightsChart
-      @currentState.render(@svgSelector)
+      @["#{@currentState}sChart"].render(@svgSelector)
+      $(".toggler p").toggleClass("selected")
     )
+
+  toggleState: () ->
+    @currentState =
+      if @currentState == "height" then "weight" else "height"
