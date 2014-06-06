@@ -38,10 +38,10 @@ class WC.PlayersData
     low = weight
     high = weight
 
-    while low % 5 != 0
+    while low % 10 != 0
       low -= 1
 
-    high = low + 4
+    high = low + 10
 
     "#{low}-#{high}"
 

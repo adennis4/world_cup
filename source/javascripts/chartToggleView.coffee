@@ -1,4 +1,6 @@
 class WC.ChartToggleView
+  svgSelector: "#barGraphContainer svg"
+
   constructor: (data) ->
     @data = data
     @defineEvents()
@@ -7,12 +9,12 @@ class WC.ChartToggleView
     @currentState = @heightsChart
 
   render: () ->
-    @heightsChart.render()
+    @heightsChart.render(@svgSelector)
 
   defineEvents: () ->
     $(".toggler").on("click", =>
-      $('#heightGraphContainer svg').empty()
+      $(@svgSelector).empty()
       @currentState =
         if @currentState == @heightsChart then @weightsChart else @heightsChart
-      @currentState.render()
+      @currentState.render(@svgSelector)
     )
