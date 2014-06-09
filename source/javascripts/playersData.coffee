@@ -4,7 +4,7 @@ class WC.PlayersData
     @players = data.allPlayers()
 
   allPlayers: ->
-    @players[1..10]
+    @players
 
   heights: () ->
     reducer = (memo, player) ->
@@ -101,15 +101,14 @@ class WC.PlayersData
     }]
 
   heightWeightDistribution: () ->
-    result = [{
+    [{
       key: 'heightWeight',
       values: @heightWeightsMap()
     }]
-    result
 
   ageDistribution: () ->
     [{
-        key: "whatever",
+        key: "age",
         values: @agesMap()
     }]
 
