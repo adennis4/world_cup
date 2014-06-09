@@ -79,6 +79,7 @@ class WC.PlayersData
     results = _.map(@allPlayers(), (player) =>
       if (Utils.isNumber(player.height) and Utils.isNumber(player.weight) and player.position?)
         {
+          name: player.name,
           height: player.height,
           weight: player.weight,
           position: player.position,
