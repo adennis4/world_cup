@@ -15,7 +15,14 @@ class WC.ScatterPlotView
       .transitionDuration(350)
       .showLegend(false)
       .height(600)
+      .xDomain([64,78])
+      .width(window.innerWidth - 100)
       .sizeRange([150, 150])
+
+    nv.utils.windowResize( ->
+      chart.width(window.innerWidth - 100)
+      chart.update()
+    )
 
     legend = d3.select('#scatterPlotContainer svg')
       .append('g')
@@ -25,28 +32,34 @@ class WC.ScatterPlotView
       .attr("x", 1000 - 800)
       .attr("width", 20)
       .attr("height", 20)
+      .attr('class', 'forward')
       .style("fill", 'red')
 
     legend.append("circle")
       .attr('cx', 1000 - 688)
       .attr('cy', 10)
       .attr('r', 10)
+      .attr('class', 'midfielder')
       .style("fill", 'blue')
 
     legend.append("path")
       .attr('d', 'M 10 25 L 0 45 L 20 45 L 10 25')
       .attr('transform', 'translate(400, -25)')
+      .attr('class', 'defender')
       .style('fill', 'green')
 
     legend.append("path")
       .attr('d', 'M 10 25 L 2 35 L 10 45 L 18 35 L 10 25')
       .attr('transform', 'translate(515, -25)')
+      .attr('class', 'goalkeeper')
       .style('fill', 'gray')
 
     legend.append("text")
       .attr("x", 1000 - 807)
       .attr("y", 9)
       .attr("dy", ".35em")
+      .attr('class', 'forward')
+      .style("fill", 'red')
       .style("text-anchor", "end")
       .style("font-weight", "bold")
       .text('Forward')
@@ -55,6 +68,7 @@ class WC.ScatterPlotView
       .attr("x", 1000 - 703)
       .attr("y", 9)
       .attr("dy", ".35em")
+      .attr('class', 'midfielder')
       .style("text-anchor", "end")
       .style("font-weight", "bold")
       .text('Midfielder')
@@ -63,6 +77,7 @@ class WC.ScatterPlotView
       .attr("x", 1000 - 602)
       .attr("y", 9)
       .attr("dy", ".35em")
+      .attr('class', 'defender')
       .style("text-anchor", "end")
       .style("font-weight", "bold")
       .text('Defender')
@@ -71,15 +86,14 @@ class WC.ScatterPlotView
       .attr("x", 1000 - 490)
       .attr("y", 9)
       .attr("dy", ".35em")
+      .attr('class', 'goalkeeper')
       .style("text-anchor", "end")
       .style("font-weight", "bold")
       .text('Goalkeeper')
 
-
     chart.tooltipContent (key, x, y, e)->
       '<h3>' + "#{e.point.name}" + '</h3>' +
       '<p>' + x + 'in.' + y + 'lbs.' + '</p>'
-
 
     chart.scatter.onlyCircles(false)
 
@@ -87,5 +101,18 @@ class WC.ScatterPlotView
       .datum(@scatterData())
       .call(chart)
 
+    @defineEvents()
+
+  defineEvents: () ->
+    @toggleForward()
+    # @toggleMidfielder()
+    # @toggleDefender()
+    # @toggleGoalkeeper()
+
+  toggleForward: () ->
+    $('.forward').on('click', =>
+      @data.heightWeightDistribution(['Forward'])
+    )
+
   scatterData: ->
-    @data.heightWeightDistribution()
+    @data.heightWeightDistribution(['Forward', 'Midfielder', 'Defender', 'Goalkeeper'])
