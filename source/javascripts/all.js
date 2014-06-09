@@ -1,4 +1,4 @@
-//= require 'd3.min'
+//= require 'd3.v3.min'
 //= require 'topo'
 //= require 'datamaps.world.min'
 //= require 'nvd3'
