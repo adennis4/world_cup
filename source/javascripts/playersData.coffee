@@ -75,17 +75,18 @@ class WC.PlayersData
 
     positions[position]
 
-  heightWeightsMap: () ->
+  heightWeightsMap: (positions) ->
     results = _.map(@allPlayers(), (player) =>
       if (Utils.isNumber(player.height) and Utils.isNumber(player.weight) and player.position?)
-        {
-          name: player.name,
-          height: player.height,
-          weight: player.weight,
-          position: player.position,
-          shape: @positionShape(player.position),
-          color: @positionColor(player.position)
-        }
+        if _.contains(positions, player.position)
+          {
+            name: player.name,
+            height: player.height,
+            weight: player.weight,
+            position: player.position,
+            shape: @positionShape(player.position),
+            color: @positionColor(player.position)
+          }
     )
     _.compact(results)
 
@@ -101,10 +102,10 @@ class WC.PlayersData
         values: @weightsMap()
     }]
 
-  heightWeightDistribution: () ->
+  heightWeightDistribution: (positions) ->
     [{
       key: 'heightWeight',
-      values: @heightWeightsMap()
+      values: @heightWeightsMap(positions)
     }]
 
   ageDistribution: () ->
