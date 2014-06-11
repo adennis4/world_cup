@@ -56,13 +56,20 @@ class WC.MapView
       geographyConfig:
         borderWidth: .2
         borderColor:'#FAF5F6'
-        highlightFillColor: '#B2D8C9'
-        highlightBorderColor:'#3F598A'
+        highlightFillColor: '#99BFB0'
+        highlightBorderColor:'#33594A'
         highlightBorderWidth: .5
 
-
     @svg = d3.select('svg')
-    @svg.attr("height", '100%').attr("width", '100%')
+
+    @svg.attr("height", '100%')
+        .attr("width", '100%')
+        .on('mousemove', (x)->
+          d3.select('.datamaps-hoverover')
+            .style('top', "#{event.pageY - 130}px")
+            .style('left', "#{event.pageX - 120}px")
+        )
+
     @setupZoom()
     @setupResize()
 
@@ -139,8 +146,8 @@ class WC.MapView
       borderColor: '#FC913A',
       popupTemplate: (data) ->
         ['<div class="hoverinfo"><strong>' +  data.name + '</strong>',
-         '<br/>' +  data.birthplace,
-         '<br/>' + data.current_club + '',
+         '<br/><strong>Born:  </strong>' +  data.birthplace,
+         '<br/><strong>Club:  </strong>' + data.current_club + '',
          '</div>'].join('')
     )
 

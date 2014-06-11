@@ -6,7 +6,7 @@
     - groups_list.each do |g|
       %li.group= "Group #{g['group']}"
       - g["teams"].each do |team|
-        %li#team
+        %li
           = image_tag "#{team.name}.png"
           = link_to team.name
 
