@@ -2459,15 +2459,17 @@
       :birthdate: 11-07-1984
       :birthplace: Facobly, Ivory Coast
       :current_club: Basel (Switzerland)
-      :latitude: 
-      :longitude: 
+      :latitude: '7.47944'
+      :longitude: '-7.13336'
     - :position: Midfielder
       :name: Ismael Diomande
       :height: 71
-      :weight:
+      :weight: 165
       :birthdate: 08-28-1992
       :birthplace: Abidjan, Ivory Coast
       :current_club: Saint-Etienne (France)
+      :latitude: '5.4091179'
+      :longitude: "-4.0422099"
     - :position: Defender
       :name: Constant Djakpa
       :height: 70
@@ -2488,11 +2490,13 @@
       :longitude: "-4.0422099"
     - :position: Goalkeeper
       :name: Sylvain Gbohouo
-      :height: 
-      :weight: 
-      :birthdate: 
-      :birthplace: 
+      :height: 75
+      :weight: 181
+      :birthdate: 10-29-1988
+      :birthplace: Abidjan, Ivory Coast
       :current_club: Sewe Sport (Ivory Coast)
+      :latitude: '5.4091179'
+      :longitude: "-4.0422099"
     - :position: Forward
       :name: Gervinho
       :height: 70
@@ -2572,6 +2576,8 @@
       :birthdate: 12-21-1986
       :birthplace: Daloa, Ivory Coast
       :current_club: Rizespor (Turkey)
+      :latitude: '6.8833'
+      :longitude: "-6.4500"
     - :position: Forward
       :name: Didier Ya Konan
       :height: 69
@@ -6271,6 +6277,8 @@
       :birthdate: 12-18-1992
       :birthplace: Cape Coast, Ghana
       :current_club: Mamelodi Sundowns (South Africa)
+      :latitude: '5.103505'
+      :longitude: '-1.28248'
     - :position: Forward
       :name: Abdul Majeed Waris
       :height: 68
