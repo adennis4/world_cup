@@ -1,23 +1,23 @@
 @charset "utf-8";
 
 body {
-  background: white;
+  background: #FAF5F6;
   text-align: center;
   font-family: sans-serif;
 }
 
 header {
-  height: 80px;
-  background: blue;
+  height: 40px;
+  background: #3F598A;
   padding-top: 30px;
-  color: white;
+  color: #FAF5F6;
 }
 
 section.map {
   height: 800px;
   .countries {
     float: left;
-    font-size: .8em;
+    font-size: .75em;
     text-align: left;
     margin-left: 10px;
     position: relative;
@@ -28,14 +28,16 @@ section.map {
     }
 
     li {
-      margin-top: 3px;
-      margin-bottom: 3px;
+      margin-top: 1.5px;
+      margin-bottom: 1.5px;
       list-style-type: none;
+      color: #3F598A;
 
-      a:link {
+      a {
         text-decoration: none;
         cursor: pointer;
         padding-left: 15px;
+        color: #A4504E;
       }
     }
   }
@@ -63,7 +65,7 @@ section.barGraphs {
       margin: 5px 0;
     }
     .selected {
-      color: blue;
+      color: #80C8B5;
     }
   }
 }
