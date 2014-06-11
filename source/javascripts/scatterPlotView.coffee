@@ -4,6 +4,7 @@ class WC.ScatterPlotView
   constructor: (data) ->
     @data = data
     @positions = ['Forward', 'Midfielder', 'Defender', 'Goalkeeper']
+    @players = new WC.PlayersData(@data)
 
   render: ->
     @chart = nv.models.scatterChart()
@@ -21,10 +22,9 @@ class WC.ScatterPlotView
       .width(window.innerWidth - 100)
       .sizeRange([150, 150])
 
-    nv.utils.windowResize( ->
+    nv.utils.windowResize () =>
       @chart.width(window.innerWidth - 100)
       @chart.update()
-    )
 
     legend = d3.select('#scatterPlotContainer svg')
       .append('g')
@@ -114,11 +114,37 @@ class WC.ScatterPlotView
     @defineEvents()
 
 
+  initializeDropdown: () ->
+    $('select').on('change', =>
+      e = document.getElementById('dropdown')
+      country = e.options[e.selectedIndex].value
+      if country == "All"
+        worldCupData = new WC.WorldCupData(rosters)
+        @data = new WC.PlayersData(worldCupData)
+      else
+        @data.forCountry(country)
+
+      $('#scatterPlotContainer .nv-point-paths').empty()
+      $('#scatterPlotContainer .nv-groups').empty()
+
+      d3.select('#scatterPlotContainer svg')
+        .datum(@scatterData())
+        .call(@chart)
+    )
+
+  rosterByCountry: (country) ->
+    _.map(rosters.groups, (group) ->
+      _.map(group.teams, (team) ->
+        team.name == country
+      )
+    )
+
   defineEvents: () ->
     @toggleForward()
     @toggleMidfielder()
     @toggleDefender()
     @toggleGoalkeeper()
+    @initializeDropdown()
 
   toggleForward: () ->
     $('.forward').on('click', =>
@@ -132,7 +158,7 @@ class WC.ScatterPlotView
       $('#scatterPlotContainer .nv-groups').empty()
 
       d3.select('#scatterPlotContainer svg')
-        .datum(@data.heightWeightDistribution(@positions))
+        .datum(@scatterData())
         .call(@chart)
     )
 
@@ -148,7 +174,7 @@ class WC.ScatterPlotView
       $('#scatterPlotContainer .nv-groups').empty()
 
       d3.select('#scatterPlotContainer svg')
-        .datum(@data.heightWeightDistribution(@positions))
+        .datum(@scatterData())
         .call(@chart)
     )
 
@@ -164,7 +190,7 @@ class WC.ScatterPlotView
       $('#scatterPlotContainer .nv-groups').empty()
 
       d3.select('#scatterPlotContainer svg')
-        .datum(@data.heightWeightDistribution(@positions))
+        .datum(@scatterData())
         .call(@chart)
     )
 
@@ -181,7 +207,7 @@ class WC.ScatterPlotView
       $('#scatterPlotContainer .nv-groups').empty()
 
       d3.select('#scatterPlotContainer svg')
-        .datum(@data.heightWeightDistribution(@positions))
+        .datum(@scatterData())
         .call(@chart)
     )
 
