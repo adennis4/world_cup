@@ -10,19 +10,12 @@
 
   #container
 
-%section.averages
-  %h1 Averages
-  %dl
-    %dt Height
-    %dd.height
-  %dl
-    %dt Weight
-    %dd.weight
-  %dl
-    %dt Ages
-    %dd.age
-
 %section.scatterPlot
+  %select#dropdown{name: 'Teams'}
+    %option{value: "All"} All
+    - teams_list.each do |team|
+      %option{value: team}= team
+
   #scatterPlotContainer
     %svg
 
