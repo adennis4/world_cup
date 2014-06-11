@@ -9,16 +9,16 @@ class WC.MapView
     @map = new Datamap
       element: document.getElementById('container')
       fills:
-        defaultFill: '#8E97A6'
-        bubbles: '#A4504E'
-        'GroupA': '#B2D8C9'
-        'GroupB': '#B2D8C9'
-        'GroupC': '#B2D8C9'
-        'GroupD': '#B2D8C9'
-        'GroupE': '#B2D8C9'
-        'GroupF': '#B2D8C9'
-        'GroupG': '#B2D8C9'
-        'GroupH': '#B2D8C9'
+        defaultFill: '#A8B1C0'
+        bubbles: '#F9D423'
+        'GroupA': '#7FA596'
+        'GroupB': '#7FA596'
+        'GroupC': '#7FA596'
+        'GroupD': '#7FA596'
+        'GroupE': '#7FA596'
+        'GroupF': '#7FA596'
+        'GroupG': '#7FA596'
+        'GroupH': '#7FA596'
       data:
         'BRA': {fillKey: 'GroupA'}
         'HRV': {fillKey: 'GroupA'}
@@ -55,7 +55,7 @@ class WC.MapView
       geographyConfig:
         borderWidth: .2
         borderColor:'#FAF5F6'
-        highlightFillColor: '#7FA596'
+        highlightFillColor: '#B2D8C9'
         highlightBorderColor:'#3F598A'
         highlightBorderWidth: .5
 
@@ -135,7 +135,7 @@ class WC.MapView
     @map.bubbles(
       selectedTeam,
       borderWidth: .3 * radius,
-      borderColor: '#3F598A',
+      borderColor: '#FC913A',
       popupTemplate: (data) ->
         ['<div class="hoverinfo"><strong>' +  data.name + '</strong>',
          '<br/>' +  data.birthplace,
