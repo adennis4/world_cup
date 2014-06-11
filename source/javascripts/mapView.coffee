@@ -4,6 +4,7 @@ class WC.MapView
 
   constructor: (data) ->
     @data = data
+    @defineEvents()
 
   render: () ->
     @map = new Datamap
@@ -143,3 +144,10 @@ class WC.MapView
          '</div>'].join('')
     )
 
+  defineEvents: () ->
+    $(".countries li a").on("click", (e) =>
+      country = $(e.target).text()
+      $(".countries li a").removeClass()
+      $(".countries li a:contains(#{country})").addClass('active')
+      $(@).addClass("selected")
+    )
