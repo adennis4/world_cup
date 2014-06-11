@@ -19,12 +19,15 @@ section.map {
     float: left;
     font-size: .75em;
     text-align: left;
-    margin-left: 10px;
     position: relative;
     z-index: 100;
 
     .group {
       font-weight: bold;
+    }
+    img {
+      margin-left: 10px;
+      height: 10px;
     }
 
     li {
@@ -36,7 +39,6 @@ section.map {
       a {
         text-decoration: none;
         cursor: pointer;
-        padding-left: 15px;
         color: #A4504E;
       }
     }
