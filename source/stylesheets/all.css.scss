@@ -3,14 +3,21 @@
 body {
   background: #FAF5F6;
   text-align: center;
-  font-family: sans-serif;
+}
+
+@font-face {
+  font-family: 'Brazil';
+  src: url('/stylesheets/brazil_font.otf')
 }
 
 header {
   height: 40px;
   background: #3F598A;
-  padding-top: 30px;
+  padding-top: 25px;
+  margin-bottom: 10px;
   color: #FAF5F6;
+  font-family: 'Brazil';
+  font-size: 30px;
 }
 
 section.map {

@@ -57,10 +57,10 @@ class WC.PlayersData
 
   positionColor: (position) ->
     positions = {
-      'Forward' : 'red',
-      'Midfielder' : 'blue',
-      'Defender' : 'green',
-      'Goalkeeper' : 'gray'
+      'Forward' : '#FF9900',
+      'Midfielder' : '#424242',
+      'Defender' : '#BCBCBC',
+      'Goalkeeper' : '#3299BB'
     }
 
     positions[position]
