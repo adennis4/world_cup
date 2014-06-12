@@ -2,7 +2,8 @@
 
 class WC.ScatterPlotView
   constructor: (data) ->
-    @data = data
+    worldCupData = new WC.WorldCupData(rosters)
+    @data = new WC.PlayersData(worldCupData)
     @positions = ['Forward', 'Midfielder', 'Defender', 'Goalkeeper']
     @players = new WC.PlayersData(@data)
 
