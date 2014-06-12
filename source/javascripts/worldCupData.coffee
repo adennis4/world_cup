@@ -17,4 +17,4 @@ class WC.WorldCupData
     _.flatten(players)
 
   players: (teamName) ->
-    @team(teamName).players
+    if teamName then @team(teamName).players else []

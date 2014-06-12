@@ -30,6 +30,15 @@ class WC.PlayersData
       memo
     _.reduce(@allPlayers(), reducer, {})
 
+  birthMonths: () ->
+    reducer = (memo, player) =>
+      month = player.birthdate.split('-')[0]
+      count = memo[month] || 0
+      memo[month] = ++count
+      memo
+    unsorted = _.reduce(@allPlayers(), reducer, {})
+    _.sortBy(unsorted, unsorted)
+
   ageFor: (birthdate) ->
     Math.floor((new Date() - new Date(birthdate)) / (365 * 60 * 60 * 24 * 1000))
 
@@ -50,6 +59,9 @@ class WC.PlayersData
 
   agesMap: () ->
     _.map(@ages(), (count, birthdates) -> {label: birthdates, value: count})
+
+  birthMonthsMap: () ->
+    _.map(@birthMonths(), (count, birthdates) -> {label: birthdates, value: count - 68})
 
   weightsMap: () ->
     results = _.map(@weights(), (count, poundsRange) -> {label: poundsRange, value: count})
@@ -112,6 +124,12 @@ class WC.PlayersData
     [{
         key: "age",
         values: @agesMap()
+    }]
+
+  birthMonthsDistribution: () ->
+    [{
+        key: "birthMonth",
+        values: @birthMonthsMap()
     }]
 
   averagePlayerAttr: (attr) ->
