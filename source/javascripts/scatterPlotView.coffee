@@ -99,8 +99,10 @@ class WC.ScatterPlotView
       .text('Goalkeeper')
 
     @chart.tooltipContent (key, x, y, e)->
-      '<h3>' + "#{e.point.name}" + '</h3>' +
-      '<p>' + x + 'in.' + y + 'lbs.' + '</p>'
+      country = e.point.country.replace(/\s+/g, '')
+      '<h3>' + '<img src="/images/' + country + '.png">' +
+      "#{e.point.name}" + '</h3>' +
+      '<p>' + x + 'in. ' + y + 'lbs.' + '</p>'
 
     @chart.scatter.onlyCircles(false)
 
@@ -113,7 +115,6 @@ class WC.ScatterPlotView
     )
 
     @defineEvents()
-
 
   initializeDropdown: () ->
     $('select').on('change', =>

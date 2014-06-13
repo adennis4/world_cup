@@ -96,6 +96,7 @@ class WC.PlayersData
             height: player.height,
             weight: player.weight,
             position: player.position,
+            country: player.country
             shape: @positionShape(player.position),
             color: @positionColor(player.position)
           }
