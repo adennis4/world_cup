@@ -70,3 +70,12 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :deploy do |deploy|
+  deploy.method = :rsync
+  deploy.host   = "162.243.215.183"
+  deploy.path   = "/home/worldcup/public_html"
+  deploy.user  = "worldcup" # no default
+  deploy.port  = 4492 # ssh port, default: 22
+  deploy.clean = true # remove orphaned files on remote host,
+end
