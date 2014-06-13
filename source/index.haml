@@ -16,10 +16,11 @@
   #container
 
 %section.scatterPlot
-  %select#dropdown{name: 'Teams'}
-    %option{value: "All"} All
-    - teams_list.each do |team|
-      %option{value: team}= team
+  %h1 Height / Weight Scatter Plot
+  %h3 It's not surprising that the largest players on the field are the Goalkeepers. Or that the smallest players are the midfielders. Break down the heights and weights of players by team. Toggle the positions on and off to filter.
+  %option{value: "All"} All
+  - teams_list.each do |team|
+    %option{value: team}= team
 
   #scatterPlotContainer
     %svg

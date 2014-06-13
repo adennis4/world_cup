@@ -21,6 +21,7 @@ header {
 }
 
 section.map {
+  margin-top: 50px;
   height: 800px;
   .countries {
     float: left;
@@ -67,21 +68,8 @@ section.map {
 
 }
 
-section.barGraphs {
-  .toggler {
-    margin-left: 350px;
-    text-align: left;
-    font-weight: bold;
-
-    p {
-      cursor: pointer;
-      padding-left: 60px;
-      margin: 5px 0;
-    }
-    .selected {
-      color: #80C8B5;
-    }
-  }
+section.ageGraph {
+  margin-top: 130px;
 }
 
 #ageGraphContainer {
@@ -93,6 +81,7 @@ section.barGraphs {
 }
 
 section.scatterPlot {
+  margin-top: 50px;
   height: 650px;
   path.nv-point {
     fill-opacity: .2
@@ -124,6 +113,6 @@ section.scatterPlot {
 }
 
 h3 {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 38px;
+  margin-right: 38px;
 }
