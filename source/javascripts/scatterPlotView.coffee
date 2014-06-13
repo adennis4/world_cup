@@ -134,13 +134,6 @@ class WC.ScatterPlotView
         .call(@chart)
     )
 
-  rosterByCountry: (country) ->
-    _.map(rosters.groups, (group) ->
-      _.map(group.teams, (team) ->
-        team.name == country
-      )
-    )
-
   defineEvents: () ->
     @toggleForward()
     @toggleMidfielder()

@@ -61,7 +61,7 @@ class WC.PlayersData
     _.map(@ages(), (count, birthdates) -> {label: birthdates, value: count})
 
   birthMonthsMap: () ->
-    _.map(@birthMonths(), (count, birthdates) -> {label: birthdates, value: count - 68})
+    _.map(@birthMonths(), (count, birthdates) -> {label: birthdates, value: count - 68, total: count})
 
   weightsMap: () ->
     results = _.map(@weights(), (count, poundsRange) -> {label: poundsRange, value: count})
