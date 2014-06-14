@@ -71,7 +71,7 @@ class WC.PlayersData
     positions = {
       'Forward' : '#FF9900',
       'Midfielder' : '#424242',
-      'Defender' : '#BCBCBC',
+      'Defender' : '#A4504E',
       'Goalkeeper' : '#3299BB'
     }
 

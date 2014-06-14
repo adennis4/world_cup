@@ -50,7 +50,7 @@ class WC.ScatterPlotView
       .attr('d', 'M 10 25 L 0 45 L 20 45 L 10 25')
       .attr('transform', 'translate(400, -25)')
       .attr('class', 'defender')
-      .style('fill', '#BCBCBC')
+      .style('fill', '#A4504E')
 
     legend.append("path")
       .attr('d', 'M 10 25 L 2 35 L 10 45 L 18 35 L 10 25')
@@ -85,7 +85,7 @@ class WC.ScatterPlotView
       .attr('class', 'defender')
       .style("text-anchor", "end")
       .style("font-weight", "bold")
-      .style("fill", '#BCBCBC')
+      .style("fill", '#A4504E')
       .text('Defender')
 
     legend.append("text")
