@@ -87,21 +87,32 @@ section.ageGraph {
 
 section.scatterPlot {
   height: 650px;
+  margin-bottom: 50px;
   padding-top: 30px;
+
   path.nv-point {
     fill-opacity: .2
   }
+
   .unselected {
     opacity: .2
   }
+
   img {
     margin-right: 10px;
     height: 20px;
     margin-bottom: -4px;
   }
+
   #scatterPlotContainer {
     margin-top: 35px;
   }
+
+  .nv-axislabel {
+    font-weight: bold;
+    font-size: 16px;
+  }
+
   #dropdown {
     float:right;
     margin-bottom: -20px;

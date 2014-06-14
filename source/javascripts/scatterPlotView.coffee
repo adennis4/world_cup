@@ -23,6 +23,14 @@ class WC.ScatterPlotView
       .width(window.innerWidth - 100)
       .sizeRange([150, 150])
 
+    @chart.yAxis
+      .axisLabel('Weight  ( lbs. )')
+      .axisLabelDistance(30)
+
+    @chart.xAxis
+      .axisLabel('Height  ( in. )')
+      .axisLabelDistance(30)
+
     nv.utils.windowResize () =>
       @chart.width(window.innerWidth - 100)
       @chart.update()
