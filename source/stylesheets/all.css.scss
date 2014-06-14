@@ -71,17 +71,20 @@ section.map {
 
 section.ageGraph {
   padding-top: 130px;
+  margin-left: 20px;
 
   #ageGraphContainer {
     margin-top: 50px;
-  }
-}
+    height: 650px;
 
-#ageGraphContainer {
-  height: 650px;
+    .nv-group.nv-series-0 g {
+      fill-opacity: .8
+    }
 
-  .nv-group.nv-series-0 g {
-    fill-opacity: .8
+    .nv-axislabel {
+      font-weight: bold;
+      font-size: 16px;
+    }
   }
 }
 

@@ -29,7 +29,6 @@ class WC.ScatterPlotView
 
     @chart.xAxis
       .axisLabel('Height  ( in. )')
-      .axisLabelDistance(30)
 
     nv.utils.windowResize () =>
       @chart.width(window.innerWidth - 100)
