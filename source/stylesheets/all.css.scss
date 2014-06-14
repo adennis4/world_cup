@@ -23,6 +23,9 @@ header {
 section.map {
   margin-top: 50px;
   height: 800px;
+  .datamap {
+    height: 630px;
+  }
   .countries {
     float: left;
     font-size: .75em;
@@ -69,7 +72,11 @@ section.map {
 }
 
 section.ageGraph {
-  margin-top: 130px;
+  padding-top: 130px;
+
+  #ageGraphContainer {
+    margin-top: 50px;
+  }
 }
 
 #ageGraphContainer {
@@ -81,8 +88,8 @@ section.ageGraph {
 }
 
 section.scatterPlot {
-  margin-top: 50px;
   height: 650px;
+  padding-top: 30px;
   path.nv-point {
     fill-opacity: .2
   }
@@ -94,11 +101,15 @@ section.scatterPlot {
     height: 20px;
     margin-bottom: -4px;
   }
+  #scatterPlotContainer {
+    margin-top: 35px;
+  }
   #dropdown {
     float:right;
+    margin-bottom: -20px;
+    margin-top: 15px;
     margin-right: 15%;
     margin-left: 500px;
-    margin-bottom: -25px;
   }
 }
 

@@ -1,6 +1,6 @@
 class WC.MapView
   width: 1200
-  height: 800
+  height: 600
 
   constructor: (data) ->
     @data = data
