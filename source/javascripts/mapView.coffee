@@ -106,7 +106,7 @@ class WC.MapView
     @svg.insert("rect", "g")
       .attr("class", "background")
       .attr("width", @width)
-      .attr("height", @height)
+      .attr("height", 1000)
       .on("click", clicked)
 
     d3.selectAll('path').on("click", clicked)
