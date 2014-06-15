@@ -66,7 +66,7 @@ class WC.MapView
         .attr("width", '100%')
         .on('mousemove', (x)->
           d3.select('.datamaps-hoverover')
-            .style('top', "#{event.pageY - 130}px")
+            .style('top', "#{event.pageY - 350}px")
             .style('left', "#{event.pageX - 120}px")
         )
 
@@ -85,13 +85,18 @@ class WC.MapView
         y = centroid[1]
         k = 4
         centered = d
-        radius = .8
+        radius = .9
       else
         x = @width / 2
         y = @height / 2
         k = 1
         centered = null
         radius = 3
+
+      if x > 1250
+        x = 900
+        k = 3
+        radius = 1.4
 
       g.selectAll("path")
         .classed("active", centered && (d) -> d == centered)
